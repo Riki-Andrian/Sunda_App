@@ -1,0 +1,44 @@
+{
+    "levels": [
+        {
+            "level": 1,
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "Apa ibukota negara Indonesia?",
+                    "options": [
+                        {"option": "Jakarta", "is_correct": true},
+                        {"option": "Surabaya", "is_correct": false},
+                        {"option": "Bandung", "is_correct": false},
+                        {"option": "Medan", "is_correct": false}
+                    ]
+                },
+                {
+                    "id": 2,
+                    "question": "Berapa jumlah provinsi di Indonesia?",
+                    "options": [
+                        {"option": "25", "is_correct": false},
+                        {"option": "32", "is_correct": false},
+                        {"option": "34", "is_correct": true},
+                        {"option": "40", "is_correct": false}
+                    ]
+                }
+            ]
+        },
+        {
+            "level": 2,
+            "questions": [
+                {
+                    "id": 3,
+                    "question": "Siapakah presiden pertama Indonesia?",
+                    "options": [
+                        {"option": "Ir. Soekarno", "is_correct": true},
+                        {"option": "Soeharto", "is_correct": false},
+                        {"option": "Megawati Soekarnoputri", "is_correct": false},
+                        {"option": "Joko Widodo", "is_correct": false}
+                    ]
+                }
+            ]
+        }
+    ]
+}
