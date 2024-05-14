@@ -20,7 +20,7 @@ class MyAppRouter{
         name: MyAppRouterConst.home,
         path: '/',
         pageBuilder: (context, state) {
-          return const MaterialPage(child: HomePage());
+          return MaterialPage(child: HomePage());
         },
       ),
       GoRoute(

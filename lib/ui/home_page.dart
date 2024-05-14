@@ -1,10 +1,51 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
+import 'package:sunda_app/data/model/menu_item.dart';
 import 'package:sunda_app/ui/testocr.dart';
 import 'package:sunda_app/widget/menu_widget.dart';
 
 class HomePage extends StatelessWidget {
-  const HomePage({super.key});
+  HomePage({super.key});
+
+    List<MenuItem> menuItems = [
+    MenuItem(
+      iconData: Icons.ac_unit,
+      text: 'Konversi',
+      route: '/konversi',
+    ),
+    MenuItem(
+      iconData: Icons.access_alarm,
+      text: 'Terjemahan',
+      route: '/translate',
+    ),
+    MenuItem(
+      iconData: Icons.access_time,
+      text: 'Kamus',
+      route: '/kamus',
+    ),
+        MenuItem(
+      iconData: Icons.access_time,
+      text: 'Pupuh',
+      route: '/pupuh',
+    ),
+        MenuItem(
+      iconData: Icons.access_time,
+      text: 'Peribahasa',
+      route: '/peribahasa',
+    ),
+        MenuItem(
+      iconData: Icons.access_time,
+      text: 'Penulisan',
+      route: '/menulis',
+    ),
+        MenuItem(
+      iconData: Icons.access_time,
+      text: 'Qiuiz',
+      route: '/quizmenu',
+    ),
+
+    // Tambahkan item-menu lainnya di sini
+  ];
 
   @override
   Widget build(BuildContext context) {
@@ -45,16 +86,23 @@ class HomePage extends StatelessWidget {
               child: GridView.builder(
                 gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
                   crossAxisCount: 2,
+                  childAspectRatio: 6/4,
                   crossAxisSpacing: 8.0, // Adjust spacing as needed
                   mainAxisSpacing: 8.0, // Adjust spacing as needed
                 ),
-                itemCount: 6,
+                itemCount: menuItems.length,
                 itemBuilder: (context, index) {
                   return MenuWidget(
-                      index); // Make sure MenuWidget is implemented correctly
-                },
+                    iconData: menuItems[index].iconData,
+                    text: menuItems[index].text,
+                    onTap: () {
+                      context.push(menuItems[index].route);
+                    },
+                  );
+                }
               ),
             ),
+          
           ],
         ),
       ],

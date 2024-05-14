@@ -1,6 +1,6 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
-import 'package:flutter_tesseract_ocr/flutter_tesseract_ocr.dart';
+//import 'package:flutter_tesseract_ocr/flutter_tesseract_ocr.dart';
 import 'package:image_picker/image_picker.dart';
 
 class TestOcr extends StatefulWidget {
@@ -60,19 +60,19 @@ class _TestOcrState extends State<TestOcr> {
                 });
                 final pickedImage =
                     await ImagePicker().pickImage(source: ImageSource.gallery);
-                if (pickedImage != null) {
-                  _pickedImage = File(pickedImage.path);
-                  _extractText = await FlutterTesseractOcr.extractText(
-                      _pickedImage!.path,
-                      language: 'sun',
-                      args: {
-                        "psm": "4",
-                        "preserve_interword_spaces": "1",
-                      });
-                  _aksara = await FlutterTesseractOcr.getTessdataPath();
-                  print(_extractText);
-                  print(_pickedImage!.path);
-                }
+                // if (pickedImage != null) {
+                //   _pickedImage = File(pickedImage.path);
+                //   _extractText = await FlutterTesseractOcr.extractText(
+                //       _pickedImage!.path,
+                //       language: 'sun',
+                //       args: {
+                //         "psm": "4",
+                //         "preserve_interword_spaces": "1",
+                //       });
+                //   _aksara = await FlutterTesseractOcr.getTessdataPath();
+                //   print(_extractText);
+                //   print(_pickedImage!.path);
+                // }
                 setState(() {
                   _scanning = false;
                 });
