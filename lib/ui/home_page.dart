@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:sunda_app/ui/menulis1.dart';
 import 'package:sunda_app/ui/testocr.dart';
 import 'package:sunda_app/widget/menu_widget.dart';
 
