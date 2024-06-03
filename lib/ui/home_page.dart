@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:sunda_app/data/model/menu_item.dart';
+import 'package:sunda_app/ui/aksara_page.dart';
 import 'package:sunda_app/ui/testocr.dart';
 import 'package:sunda_app/widget/menu_widget.dart';
 
@@ -26,7 +27,7 @@ class HomePage extends StatelessWidget {
         MenuItem(
       iconData: Icons.access_time,
       text: 'Pupuh',
-      route: '/pupuh',
+      route: '/pupuhpage',
     ),
         MenuItem(
       iconData: Icons.access_time,
@@ -68,7 +69,7 @@ class HomePage extends StatelessWidget {
                   // context.push('/menulis');
                   Navigator.push(
                     context,
-                    MaterialPageRoute(builder: (context) => TestOcr()),
+                    MaterialPageRoute(builder: (context) => AksaraPage()),
                   );
                 },
                 child: Container(

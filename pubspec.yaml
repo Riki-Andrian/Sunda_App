@@ -31,7 +31,9 @@ flutter:
   assets:
     - assets/
     - assets/tessdata/
-    - assets/aksara-sunda.jpeg
+    - assets/ngalagena/
+    - assets/angka/
+    - assets/swara/
   # fonts:
   #   - family: SundaFont
   #     fonts:

@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:translator/translator.dart';
 
-
 class TranslatePage extends StatefulWidget {
   const TranslatePage({super.key});
 
@@ -15,7 +14,6 @@ class _TranslatePageState extends State<TranslatePage> {
   final TextEditingController _translate = TextEditingController();
   bool translateToSunda = false;
 
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -26,62 +24,93 @@ class _TranslatePageState extends State<TranslatePage> {
     );
   }
 
-  Widget _buildList(){
-    return Card(
-      margin: const EdgeInsets.all(12),
-      child: ListView(
-        padding: EdgeInsets.all(20),
-        children: [
-          Container(
+  Widget _buildList() {
+    return ListView(
+      padding: EdgeInsets.all(20),
+      children: [
+        Padding(
+          padding: const EdgeInsets.all(12.0),
+          child: Container(
             height: 30,
             child: ElevatedButton(
-              onPressed: () {
-                setState(() {
-                  translateToSunda = !translateToSunda;
-                });
-                _translateText(_translate.text);
-              }, 
-              child: Text(translateToSunda? 'Sunda => Indonesia' : 'Indonesia => Sunda')
-              ),
-              ),
-          const Text('Indonesia'),
-          const SizedBox(height: 8,),
-          TextField(
-            controller: _translate,
-            style: const TextStyle(
-              fontSize: 24,
-              fontWeight: FontWeight.bold,
-            ),
-            decoration: InputDecoration(
-              hintText: 'Masukan kata'
-            ),
-            onChanged: (text) {       
-               _translateText(text);    
-            },
+                onPressed: () {
+                  setState(() {
+                    translateToSunda = !translateToSunda;
+                  });
+                  _translateText(_translate.text);
+                },
+                child: Text(translateToSunda
+                    ? 'Sunda => Indonesia'
+                    : 'Indonesia => Sunda')),
           ),
-          const Divider(height: 32,),
-          Text(
-            translated,
-            style: const TextStyle(
-              fontSize: 24,
-              fontWeight: FontWeight.bold,
+        ),
+        Text(translateToSunda ? 'Sunda' : 'Indonesia'),
+        const SizedBox(
+          height: 8,
+        ),
+        SizedBox(
+          height: 200.0,
+          child: Card(
+            shape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.circular(10.0),
+                side: BorderSide(
+                  color: Colors.blue,
+                  width: 2,
+                )),
+            child: TextField(
+              controller: _translate,
+              style: const TextStyle(
+                fontSize: 20,
+              ),
+              onChanged: (text) {
+                _translateText(text);
+              },
+              decoration: InputDecoration(
+                hintText: 'Masukan kata',
+                contentPadding: EdgeInsets.all(12.0),
+                border: InputBorder.none,
+              ),
             ),
-          )
-        ],
-      ),
+          ),
+        ),
+        SizedBox(
+          height: 32.0,
+        ),
+        SizedBox(
+          height: 200.0,
+          child: Card(
+            shape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.circular(10.0),
+                side: BorderSide(
+                  color: Colors.blue,
+                  width: 2,
+                )),
+            child: Padding(
+              padding: const EdgeInsets.all(12.0),
+              child: Text(
+                translated,
+                style: const TextStyle(
+                  fontSize: 20,
+                ),
+              ),
+            ),
+          ),
+        )
+      ],
     );
   }
 
-   Future<void> _translateText(String text) async {
+  Future<void> _translateText(String text) async {
     String fromLanguage = translateToSunda ? 'su' : 'id';
     String toLanguage = translateToSunda ? 'id' : 'su';
 
     if (text.isNotEmpty) {
-      final translation = await translator.translate(text, from: fromLanguage, to: toLanguage);
+      final translation =
+          await translator.translate(text, from: fromLanguage, to: toLanguage);
       setState(() {
         translated = translation.text;
       });
-    }else{
+    } else {
       translated = '';
     }
   }

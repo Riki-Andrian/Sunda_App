@@ -7,4 +7,5 @@ class MyAppRouterConst{
   static const String quizpage = 'quizpage';
   static const String quizmenu = '/quizmenu';
   static const String menulis = 'menulis';
+  static const String pupuh = 'pupuhpage';
 }

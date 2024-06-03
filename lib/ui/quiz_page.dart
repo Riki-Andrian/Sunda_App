@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:sunda_app/data/model/quiz.dart';
+import 'package:sunda_app/ui/hasil_quiz_page.dart';
 
 class QuizPage extends StatefulWidget {
   final Level level;
@@ -103,7 +104,7 @@ class _QuizPageState extends State<QuizPage> {
                       )),
                   child: Text('Sebelumnya'),
                   onPressed: () {
-                    if (pageCounter !=1) {
+                    if (pageCounter != 1) {
                       pageCounter--;
                     }
                     _controller.previousPage(
@@ -121,12 +122,12 @@ class _QuizPageState extends State<QuizPage> {
                         fontSize: 16,
                       )),
                   child: pageCounter != widget.level.questions.length
-                  ? const Text("Selanjutnya")
-                  : const Text("Submit"),
+                      ? const Text("Selanjutnya")
+                      : const Text("Submit"),
                   onPressed: () {
                     if (pageCounter != widget.level.questions.length) {
                       pageCounter++;
-                    }else{
+                    } else {
                       _submitQuiz();
                     }
                     _controller.nextPage(
@@ -182,32 +183,14 @@ class _QuizPageState extends State<QuizPage> {
     );
   }
 
-  void _submitQuiz(){
-    int correctAnswers = 0;
-    for (int i = 0; i < widget.level.questions.length; i++){
-      int selectedOptionIndex = _selectedOptionIndexList[i];
-      if (selectedOptionIndex != -1){
-        if(widget.level.questions[i].options[selectedOptionIndex].isCorrect){
-          correctAnswers++;
-        }
-      }
-    }
-    showDialog(
-      context: context,
-      barrierDismissible: false,
-      builder: (BuildContext context) {
-        return WillPopScope(
-          onWillPop: () async => false,
-          child: AlertDialog(
-            title: Text('Hasil'),
-            content: Text('Jawaban Anda: $correctAnswers dari ${widget.level.questions.length}'),
-            actions: <Widget>[
-              TextButton(onPressed: () {
-                context.go('/quizmenu');
-              }, child: Text('Tutup'))
-            ],
+  void _submitQuiz() {
+    Navigator.push(
+        context,
+        MaterialPageRoute(
+          builder: (context) => HasilQuiz(
+            questions: widget.level.questions,
+            selectedOptions: _selectedOptionIndexList,
           ),
-        );
-      },);
+        ));
   }
 }
