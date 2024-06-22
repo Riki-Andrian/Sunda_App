@@ -4,7 +4,7 @@ import 'package:go_router/go_router.dart';
 import 'package:sunda_app/routes/app_route_const.dart';
 import 'package:sunda_app/ui/home_page.dart';
 import 'package:sunda_app/ui/kamus_page.dart';
-import 'package:sunda_app/ui/konversi.dart';
+// import 'package:sunda_app/ui/konversi.dart';
 import 'package:sunda_app/ui/menulis_page.dart';
 import 'package:sunda_app/ui/peribahasa_page.dart';
 import 'package:sunda_app/ui/pupuh_page.dart';
@@ -22,13 +22,13 @@ class MyAppRouter {
           return MaterialPage(child: HomePage());
         },
       ),
-      GoRoute(
-        name: MyAppRouterConst.konversi,
-        path: '/konversi',
-        pageBuilder: (context, state) {
-          return const MaterialPage(child: KonversiPage());
-        },
-      ),
+      // GoRoute(
+      //   name: MyAppRouterConst.konversi,
+      //   path: '/konversi',
+      //   pageBuilder: (context, state) {
+      //     return const MaterialPage(child: KonversiPage());
+      //   },
+      // ),
       GoRoute(
         name: MyAppRouterConst.peribahasa,
         path: '/peribahasa',

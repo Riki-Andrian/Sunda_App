@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:go_router/go_router.dart';
 import 'package:sunda_app/data/model/quiz.dart';
-import 'package:sunda_app/ui/quiz_detail_level.dart';
+// import 'package:sunda_app/ui/quiz_detail_level.dart';
 import 'package:sunda_app/widget/quiz_menu_widget.dart';
 
 class QuizMenu extends StatelessWidget {
@@ -36,11 +36,11 @@ class QuizMenu extends StatelessWidget {
             itemCount: levels.length,
             itemBuilder: (context, index) => GestureDetector(
               onTap: () {
-                Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                      builder: (context) => QuizDetailLevelPage(level: levels[index]),
-                    ));
+                // Navigator.push(
+                //     context,
+                //     MaterialPageRoute(
+                //       builder: (context) => QuizDetailLevelPage(level: levels[index]),
+                //     ));
               },
               child: QuizMenuWidget(level: levels[index]),
             ),

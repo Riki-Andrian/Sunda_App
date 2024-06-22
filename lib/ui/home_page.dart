@@ -2,9 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:sunda_app/data/model/menu_item.dart';
 import 'package:sunda_app/ui/aksara_page.dart';
-import 'package:sunda_app/ui/testocr.dart';
+// import 'package:sunda_app/ui/testocr.dart';
 import 'package:sunda_app/widget/menu_widget.dart';
 
+// ignore: must_be_immutable
 class HomePage extends StatelessWidget {
   HomePage({super.key});
 
