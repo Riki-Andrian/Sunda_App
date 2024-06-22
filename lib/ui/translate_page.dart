@@ -58,6 +58,7 @@ class _TranslatePageState extends State<TranslatePage> {
                   width: 2,
                 )),
             child: TextField(
+              key: Key("indonesia"),
               controller: _translate,
               style: const TextStyle(
                 fontSize: 20,

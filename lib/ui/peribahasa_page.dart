@@ -62,6 +62,7 @@ class _PeribahasaPageState extends State<PeribahasaPage> {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: TextField(
+              key: Key("peribahasaSrc"),
               controller: _searchController,
               onChanged: _filterPeribahasa,
               decoration: InputDecoration(

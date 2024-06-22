@@ -59,6 +59,7 @@ class _KonversiPageState extends State<KonversiPage> {
                     Padding(
                       padding: const EdgeInsets.all(8.0),
                       child: TextField(
+                        key: Key("latin"),
                         controller: _controller,
                         minLines: 1,
                         maxLines: 5,

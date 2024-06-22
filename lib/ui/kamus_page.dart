@@ -60,6 +60,7 @@ class _KamusPageState extends State<KamusPage> {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: TextField(
+              key: Key("kamusSrc"),
               controller: _searchController,
               onChanged: _filterKamus,
               decoration: InputDecoration(

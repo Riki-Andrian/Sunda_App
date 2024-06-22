@@ -94,6 +94,7 @@ class HomePage extends StatelessWidget {
                 itemCount: menuItems.length,
                 itemBuilder: (context, index) {
                   return MenuWidget(
+                    key: Key(menuItems[index].text),
                     iconData: menuItems[index].iconData,
                     text: menuItems[index].text,
                     onTap: () {

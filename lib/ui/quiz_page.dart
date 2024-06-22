@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
+import 'package:sunda_app/data/model/hasil.dart';
 import 'package:sunda_app/data/model/quiz.dart';
+import 'package:sunda_app/helper/boxes.dart';
 import 'package:sunda_app/ui/hasil_quiz_page.dart';
 
 class QuizPage extends StatefulWidget {
@@ -183,14 +185,41 @@ class _QuizPageState extends State<QuizPage> {
     );
   }
 
-  void _submitQuiz() {
-    Navigator.push(
-        context,
-        MaterialPageRoute(
-          builder: (context) => HasilQuiz(
-            questions: widget.level.questions,
-            selectedOptions: _selectedOptionIndexList,
-          ),
-        ));
+  void _submitQuiz() async {
+    int score = 0;
+    List<String> questions = [];
+    List<String> selectedAnswers = [];
+    List<bool> isCorrect = [];
+
+    for (int i = 0; i < widget.level.questions.length; i++) {
+      questions.add(widget.level.questions[i].question);
+      selectedAnswers.add(widget
+          .level.questions[i].options[_selectedOptionIndexList[i]].option);
+      bool correct = widget
+          .level.questions[i].options[_selectedOptionIndexList[i]].isCorrect;
+      isCorrect.add(correct);
+      if (correct) {
+        score++;
+      }
+    }
+
+    var hasil = Hasil(
+      level: widget.level.level,
+      score: score,
+      questions: questions,
+      selectedAnswers: selectedAnswers,
+      isCorrect: isCorrect,
+    );
+
+    await boxHasil.add(hasil);
+
+    // Navigator.push(
+    //     context,
+    //     MaterialPageRoute(
+    //       builder: (context) => HasilQuiz(
+    //         questions: widget.level.questions,
+    //         selectedOptions: _selectedOptionIndexList,
+    //       ),
+    //     ));
   }
 }
