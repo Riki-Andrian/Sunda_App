@@ -34,12 +34,15 @@ class AksaraPage extends StatelessWidget {
             itemBuilder: (context, index) {
               return Card(
                 child: Center(
-                    child: Image.asset(
+                  child: Image.asset(
                   vokal[index],
                   fit: BoxFit.cover,
                 )),
               );
             },
+          ),
+          SizedBox(
+            height: 30,
           ),
           GridView.builder(
             physics: NeverScrollableScrollPhysics(),
@@ -56,6 +59,9 @@ class AksaraPage extends StatelessWidget {
                 )),
               );
             },
+          ),
+          SizedBox(
+            height: 30,
           ),
           GridView.builder(
             physics: NeverScrollableScrollPhysics(),

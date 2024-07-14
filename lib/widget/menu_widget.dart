@@ -1,23 +1,25 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
+import 'package:flutter_svg/flutter_svg.dart';
 
 class MenuWidget extends StatelessWidget {
-  final IconData iconData;
+  final String imagePath;
   final String text;
   final VoidCallback onTap;
 
    const MenuWidget({
     Key? key,
-    required this.iconData,
+    required this.imagePath,
     required this.text,
     required this.onTap,
   }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    return _build(iconData, text, onTap);
+    return _build(imagePath, text, onTap);
   }
 
-  Widget _build(IconData iconData, String text, VoidCallback onTap){
+  Widget _build(String imagePath, String text, VoidCallback onTap){
     return Padding(
       padding: const EdgeInsets.all(8),
       child: GestureDetector(
@@ -31,7 +33,11 @@ class MenuWidget extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Icon(iconData),
+              Image.asset(
+                imagePath,
+                width: 48,
+                height: 48,
+              ),
               Text(text)
             ],
           ), // Menampilkan gambar/icon di tengah

@@ -20,6 +20,10 @@
 //   GlobalKey globalKey = GlobalKey();
 //   List<List<Offset>> paths = [];
 //   String path = "";
+//   GlobalKey _globalKey = GlobalKey();
+//   String _recognizedText = '';
+
+  
 
 //   // Method to capture image from CustomPaint
 // //   Future<ui.Image> _captureImage() async {
@@ -92,43 +96,51 @@
 // //   }
 // // }
 
-//   Future<void> _performOCR() async {
-//     try {
-//       // Render custom paint to image
-//       RenderRepaintBoundary boundary =
-//           globalKey.currentContext!.findRenderObject() as RenderRepaintBoundary;
-//       ui.Image image = await boundary.toImage(pixelRatio: 3.0);
-//       ByteData? byteData =
-//           await image.toByteData(format: ui.ImageByteFormat.png);
+//   // Future<void> _performOCR() async {
+//   //   try {
+//   //     // Render custom paint to image
+//   //     RenderRepaintBoundary boundary =
+//   //         globalKey.currentContext!.findRenderObject() as RenderRepaintBoundary;
+//   //     ui.Image image = await boundary.toImage(pixelRatio: 3.0);
+//   //     ByteData? byteData =
+//   //         await image.toByteData(format: ui.ImageByteFormat.png);
 
-//       if (byteData == null) {
-//         print("Error: Failed to obtain ByteData from image.");
-//         return;
-//       }
+//   //     if (byteData == null) {
+//   //       print("Error: Failed to obtain ByteData from image.");
+//   //       return;
+//   //     }
 
-//       Uint8List imageData = byteData.buffer.asUint8List();
+//   //     Uint8List imageData = byteData.buffer.asUint8List();
 
-//       // Save the image as temporary file
-//       Directory tempDir = await getTemporaryDirectory();
-//       File tempFile = File('${tempDir.path}/image.png');
-//       await tempFile.writeAsBytes(imageData);
-//       path = tempFile.path;
+//   //     // Save the image as temporary file
+//   //     Directory tempDir = await getTemporaryDirectory();
+//   //     File tempFile = File('${tempDir.path}/image.png');
+//   //     await tempFile.writeAsBytes(imageData);
+//   //     path = tempFile.path;
 
-//       // Perform OCR on the image file
-//       String extractedText =
-//           await FlutterTesseractOcr.extractText(path, language: 'sun');
+//   //     // Perform OCR on the image file
+//   //     String extractedText =
+//   //         await FlutterTesseractOcr.extractText(path, language: 'sun');
 
-//       if (extractedText.isEmpty) {
-//         print("kosong");
-//       } else {
-//         print("Extracted Text: $extractedText");
-//       }
+//   //     if (extractedText.isEmpty) {
+//   //       print("kosong");
+//   //     } else {
+//   //       print("Extracted Text: $extractedText");
+//   //     }
 
-//       // Handle the extracted text
-//       print("Image Path: $path");
-//     } catch (e) {
-//       print("Error: $e");
-//     }
+//   //     // Handle the extracted text
+//   //     print("Image Path: $path");
+//   //   } catch (e) {
+//   //     print("Error: $e");
+//   //   }
+//   // }
+
+//   Future<void> _captureAndRecognizeText() async {
+//     Uint8List imageBytes = await capturePng(_globalKey);
+//     String text = await performOcr(imageBytes);
+//     setState(() {
+//       _recognizedText = text;
+//     });
 //   }
 
 //   @override
@@ -164,9 +176,7 @@
 //             ),
 //           ),
 //           ElevatedButton(
-//             onPressed: () {
-//               _performOCR();
-//             },
+//             onPressed:  _captureAndRecognizeText,
 //             child: Text('Perform OCR'),
 //           ),
 //           // path.isNotEmpty
@@ -205,3 +215,29 @@
 //     return true;
 //   }
 // }
+
+// Future<Uint8List> capturePng(GlobalKey key) async {
+//   RenderObject? boundary = key.currentContext?.findRenderObject();
+//   if (boundary is RenderRepaintBoundary) {
+//     ui.Image image = await boundary.toImage();
+//     ByteData? byteData = await image.toByteData(format: ui.ImageByteFormat.png);
+//     return byteData?.buffer.asUint8List() ?? Uint8List(0);
+//   }
+//   return Uint8List(0); // Return an empty Uint8List if boundary is not RenderRepaintBoundary
+// }
+
+// Future<String> performOcr(Uint8List imageBytes) async {
+//   try {
+//     final directory = await getTemporaryDirectory();
+//     final imagePath = '${directory.path}/temp_image.png';
+//     final imageFile = File(imagePath);
+//     await imageFile.writeAsBytes(imageBytes);
+
+//     String recognizedText = await FlutterTesseractOcr.extractText(imagePath, language: 'sun');
+//     return recognizedText ?? ''; // Pastikan kembalian tidak null
+//   } catch (e) {
+//     print('Error performing OCR: $e');
+//     return ''; // Handle error, bisa diganti dengan throw e; jika ingin melemparkan error
+//   }
+// }
+

@@ -15,17 +15,19 @@ class RiwayatQuiz extends StatelessWidget {
       body: ListView.builder(
         itemCount: hasil.questions.length,
         itemBuilder: (context, index) {
-          return ListTile(
-            title: Text(hasil.questions[index]),
-            subtitle: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Text('Jawaban: ${hasil.selectedAnswers[index]}'),
-                Text(
-                  hasil.isCorrect[index] ? 'Benar' : 'Salah',
-                  style: TextStyle(color: hasil.isCorrect[index] ? Colors.green : Colors.red),
-                ),
-              ],
+          return Card(
+            child: ListTile(
+              title: Text(hasil.questions[index]),
+              subtitle: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text('Jawaban: ${hasil.selectedAnswers[index]}'),
+                  Text(
+                    hasil.isCorrect[index] ? 'Benar' : 'Salah',
+                    style: TextStyle(color: hasil.isCorrect[index] ? Colors.green : Colors.red),
+                  ),
+                ],
+              ),
             ),
           );
         },

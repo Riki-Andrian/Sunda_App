@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
 import 'package:sunda_app/data/model/quiz.dart';
 
 class QuizMenuWidget extends StatelessWidget {
@@ -15,15 +16,12 @@ class QuizMenuWidget extends StatelessWidget {
     return Padding(
       padding: EdgeInsets.all(4),
       child: Container(
-        height: 100,
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-           Text(
-                'Quiz Level ${level.level}',
-                style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-              ),
-          ],
+        child: Center(
+          child: Text(
+               'Quiz Level ${level.level}',
+               style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+               textAlign: TextAlign.center,
+             ),
         ),
         decoration: BoxDecoration(
           border: Border.all(color: Colors.blue),

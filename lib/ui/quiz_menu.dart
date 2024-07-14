@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:go_router/go_router.dart';
 import 'package:sunda_app/data/model/quiz.dart';
-// import 'package:sunda_app/ui/quiz_detail_level.dart';
+import 'package:sunda_app/ui/quiz_detail_level.dart';
 import 'package:sunda_app/widget/quiz_menu_widget.dart';
 
 class QuizMenu extends StatelessWidget {
@@ -30,19 +30,24 @@ class QuizMenu extends StatelessWidget {
           );
         } else if (snapshot.hasData) {
           List<Level> levels = snapshot.data!.levels;
-          return GridView.builder(
-            gridDelegate:
-                SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 5),
-            itemCount: levels.length,
-            itemBuilder: (context, index) => GestureDetector(
-              onTap: () {
-                // Navigator.push(
-                //     context,
-                //     MaterialPageRoute(
-                //       builder: (context) => QuizDetailLevelPage(level: levels[index]),
-                //     ));
-              },
-              child: QuizMenuWidget(level: levels[index]),
+          return Padding(
+            padding: const EdgeInsets.all(16.0),
+            child: GridView.builder(
+              gridDelegate:
+                  SliverGridDelegateWithFixedCrossAxisCount(
+                  crossAxisCount: 4,
+                  childAspectRatio: 1),
+              itemCount: levels.length,
+              itemBuilder: (context, index) => GestureDetector(
+                onTap: () {
+                  Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => QuizDetailLevelPage(level: levels[index]),
+                      ));
+                },
+                child: QuizMenuWidget(level: levels[index]),
+              ),
             ),
           );
         } else {

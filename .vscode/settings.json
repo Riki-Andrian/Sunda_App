@@ -1,3 +1,5 @@
 {
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cmake.sourceDirectory": "C:/Riki/PA/Sunda_App/android/app/src/main/ccp",
+    "cmake.configureOnOpen": true
 }
