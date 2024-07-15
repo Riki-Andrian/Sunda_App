@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:sunda_app/data/model/quiz.dart';
-import 'package:sunda_app/data/model/hasil.dart';
-import 'package:sunda_app/ui/quiz_page.dart';
-import 'package:sunda_app/ui/riwayat_quiz.dart';
+import 'package:Nyunda/data/model/quiz.dart';
+import 'package:Nyunda/data/model/hasil.dart';
+import 'package:Nyunda/ui/quiz_page.dart';
+import 'package:Nyunda/ui/riwayat_quiz.dart';
 
 class QuizDetailLevelPage extends StatelessWidget {
   final Level level;

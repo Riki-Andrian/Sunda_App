@@ -8,7 +8,7 @@ import 'package:http/http.dart' as http;
 import 'package:lottie/lottie.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:flutter/material.dart';
-import 'package:sunda_app/data/model/prediction.dart';
+import 'package:Nyunda/data/model/prediction.dart';
 
 class Menulis extends StatefulWidget {
   const Menulis({super.key});

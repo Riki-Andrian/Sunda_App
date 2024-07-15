@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:sunda_app/data/model/menu_item.dart';
-import 'package:sunda_app/ui/about_page.dart';
-import 'package:sunda_app/widget/menu_widget.dart';
+import 'package:Nyunda/data/model/menu_item.dart';
+import 'package:Nyunda/ui/about_page.dart';
+import 'package:Nyunda/widget/menu_widget.dart';
 
 // ignore: must_be_immutable
 class HomePage extends StatelessWidget {

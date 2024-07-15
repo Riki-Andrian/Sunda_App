@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:sunda_app/data/model/kamus.dart';
-import 'package:sunda_app/widget/kamus_widget.dart';
+import 'package:Nyunda/data/model/kamus.dart';
+import 'package:Nyunda/widget/kamus_widget.dart';
 
 class KamusPage extends StatefulWidget {
   const KamusPage({super.key});

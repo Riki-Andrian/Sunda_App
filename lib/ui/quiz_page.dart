@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:sunda_app/data/model/hasil.dart';
-import 'package:sunda_app/data/model/quiz.dart';
-import 'package:sunda_app/helper/boxes.dart';
+import 'package:Nyunda/data/model/hasil.dart';
+import 'package:Nyunda/data/model/quiz.dart';
+import 'package:Nyunda/helper/boxes.dart';
 
 class QuizPage extends StatefulWidget {
   final Level level;

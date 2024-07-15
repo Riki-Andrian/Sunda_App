@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sunda_app/data/model/peribahasa.dart';
+import 'package:Nyunda/data/model/peribahasa.dart';
 
 class PeribahasaWidget extends StatelessWidget {
   final Peribahasa peribahasa;

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sunda_app/data/model/quiz.dart';
+import 'package:Nyunda/data/model/quiz.dart';
 
 class QuizMenuWidget extends StatelessWidget {
   final Level level;

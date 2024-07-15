@@ -1,4 +1,4 @@
-package com.example.sunda_app
+package com.example.Nyunda
 
 import io.flutter.embedding.android.FlutterActivity
 

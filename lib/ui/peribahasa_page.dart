@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:sunda_app/data/model/peribahasa.dart';
-import 'package:sunda_app/widget/peribahasa_widget.dart';
+import 'package:Nyunda/data/model/peribahasa.dart';
+import 'package:Nyunda/widget/peribahasa_widget.dart';
 
 class PeribahasaPage extends StatefulWidget {
   const PeribahasaPage({super.key});

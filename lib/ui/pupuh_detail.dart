@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:sunda_app/data/model/pupuh.dart';
+import 'package:Nyunda/data/model/pupuh.dart';
 
 class PupuhDetaiPage extends StatelessWidget {
   final PupuhSunda pupuhSunda;

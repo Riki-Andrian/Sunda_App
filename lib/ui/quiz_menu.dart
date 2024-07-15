@@ -4,10 +4,10 @@ import 'package:flutter/services.dart';
 import 'package:flutter_js/quickjs/ffi.dart';
 import 'package:go_router/go_router.dart';
 import 'package:hive/hive.dart';
-import 'package:sunda_app/data/model/hasil.dart';
-import 'package:sunda_app/data/model/quiz.dart';
-import 'package:sunda_app/ui/quiz_detail_level.dart';
-import 'package:sunda_app/widget/quiz_menu_widget.dart';
+import 'package:Nyunda/data/model/hasil.dart';
+import 'package:Nyunda/data/model/quiz.dart';
+import 'package:Nyunda/ui/quiz_detail_level.dart';
+import 'package:Nyunda/widget/quiz_menu_widget.dart';
 
 class QuizMenu extends StatelessWidget {
   const QuizMenu({Key? key}) : super(key: key);

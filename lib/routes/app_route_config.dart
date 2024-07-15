@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:sunda_app/routes/app_route_const.dart';
-import 'package:sunda_app/ui/aksara_page.dart';
-import 'package:sunda_app/ui/home_page.dart';
-import 'package:sunda_app/ui/kamus_page.dart';
-import 'package:sunda_app/ui/konversi.dart';
-import 'package:sunda_app/ui/menulis_page.dart';
-import 'package:sunda_app/ui/peribahasa_page.dart';
-import 'package:sunda_app/ui/pupuh_page.dart';
-import 'package:sunda_app/ui/quiz_menu.dart';
-import 'package:sunda_app/ui/translate_page.dart';
+import 'package:Nyunda/routes/app_route_const.dart';
+import 'package:Nyunda/ui/aksara_page.dart';
+import 'package:Nyunda/ui/home_page.dart';
+import 'package:Nyunda/ui/kamus_page.dart';
+import 'package:Nyunda/ui/konversi.dart';
+import 'package:Nyunda/ui/menulis_page.dart';
+import 'package:Nyunda/ui/peribahasa_page.dart';
+import 'package:Nyunda/ui/pupuh_page.dart';
+import 'package:Nyunda/ui/quiz_menu.dart';
+import 'package:Nyunda/ui/translate_page.dart';
 
 class MyAppRouter {
   static GoRouter router() {

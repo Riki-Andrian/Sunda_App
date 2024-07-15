@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sunda_app/data/model/hasil.dart';
+import 'package:Nyunda/data/model/hasil.dart';
 
 class RiwayatQuiz extends StatelessWidget {
   final Hasil hasil;

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sunda_app/data/model/kamus.dart';
+import 'package:Nyunda/data/model/kamus.dart';
 
 class KamusWidget extends StatelessWidget {
   final Kamus kamus;

@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:sunda_app/data/model/pupuh.dart';
-import 'package:sunda_app/ui/pupuh_detail.dart';
+import 'package:Nyunda/data/model/pupuh.dart';
+import 'package:Nyunda/ui/pupuh_detail.dart';
 
 class PupuhPage extends StatelessWidget {
   const PupuhPage({super.key});
