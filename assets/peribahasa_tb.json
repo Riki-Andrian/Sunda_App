@@ -1,0 +1,3012 @@
+[
+    {
+        "idperibahasa": 1,
+        "makna": "sagala dicaritakeun sanajan pakinyarieun batur",
+        "peribahasa": "Abong letah teu tulangan"
+    },
+    {
+        "idperibahasa": 2,
+        "makna": "Jiga nu handap asor, daek ngahormat ka batur, boga hate luhur, tapi tungtungna sok ngarunghak jeung kurang ajar, anu tungtungna batur loba nu teu resepeun.",
+        "peribahasa": "Adab lanyap"
+    },
+    {
+        "idperibahasa": 3,
+        "makna": "poho ka baraya jeung poho ka lemah cai.",
+        "peribahasa": "Adam lali tapel "
+    },
+    {
+        "idperibahasa": 4,
+        "makna": "Adat atawa kalakuan goreng sok hese dirobahna.",
+        "peribahasa": "Adat kakurung ku iga"
+    },
+    {
+        "idperibahasa": 5,
+        "makna": "Agul/ ginding ku pakean meunang nginjeum.",
+        "peribahasa": "Adean ku kuda beureum"
+    },
+    {
+        "idperibahasa": 6,
+        "makna": "gede hulu, boga rasa leuwih ti batur, kaciri dina laku lampahna jeung omonganana,takabur, sombong.",
+        "peribahasa": "Adigung adiguna"
+    },
+    {
+        "idperibahasa": 7,
+        "makna": "Agul ku turunan atawa kulawarga sorangan.",
+        "peribahasa": "Agul ku payung butut"
+    },
+    {
+        "idperibahasa": 8,
+        "makna": "pinter dina kagorengan atawa kajahatan.",
+        "peribahasa": "Akal koja"
+    },
+    {
+        "idperibahasa": 9,
+        "makna": "lalaki nu geus kolot pisan.",
+        "peribahasa": "Aki aki tujuh mulud"
+    },
+    {
+        "idperibahasa": 10,
+        "makna": "ngaku barang batur kalawan ngandung maksud hayang mibandangaku baraya batur anu beunghar atawa jeneng, mamrih kahormatan atawa kauntungan.",
+        "peribahasa": "Aku aku angga "
+    },
+    {
+        "idperibahasa": 11,
+        "makna": "darehdeh jeung mere maweh, ngan hanjakal ku ieu aing asa pangpunjulna, pangbeungharna jste.",
+        "peribahasa": "Aku panggung "
+    },
+    {
+        "idperibahasa": 12,
+        "makna": "jauh pisan",
+        "peribahasa": "Alak paul"
+    },
+    {
+        "idperibahasa": 13,
+        "makna": "resep jeung hayang dipuji batur, boga rasa pangpunjulna. Anu handap hayang nyaruaan nu luhur, nu hina hayang nyaruaan nu mulya.",
+        "peribahasa": "Alak-alak cumampaka"
+    },
+    {
+        "idperibahasa": 14,
+        "makna": "jauh pisan",
+        "peribahasa": "Alas Paul"
+    },
+    {
+        "idperibahasa": 15,
+        "makna": "tegep dedeg pangadegna.",
+        "peribahasa": "Alus panggung , alus laur hade ome"
+    },
+    {
+        "idperibahasa": 16,
+        "makna": "ari napsu pohara gedena, ngan masih bisa meper diri napsu kapegung.",
+        "peribahasa": "Ambek nyedek tanaga midek "
+    },
+    {
+        "idperibahasa": 17,
+        "makna": "gampang pisan ambek, jeung mun geus ambek teu reureuh sakeudeung.",
+        "peribahasa": "Ambekna sakulit bawang "
+    },
+    {
+        "idperibahasa": 18,
+        "makna": "Hade budi, teu weleh seuri ka batur.",
+        "peribahasa": "Amis Budi"
+    },
+    {
+        "idperibahasa": 19,
+        "makna": "Babari kakeunaan ku panyakit kulit, contona borok.",
+        "peribahasa": "Amis Daging"
+    },
+    {
+        "idperibahasa": 20,
+        "makna": "anak nu kacida didama-damana, nu pohara dipikanyaah.",
+        "peribahasa": "Anak puputon "
+    },
+    {
+        "idperibahasa": 21,
+        "makna": "mikahayang nu lain lain, nu pamohalan pilaksanaeun (Mikahayang nu moal bakal kasorang).",
+        "peribahasa": "Anjing ngagogogan kalong "
+    },
+    {
+        "idperibahasa": 22,
+        "makna": "mupuas ka nu keur cilaka",
+        "peribahasa": "Anu borok dirorojok, nu titeuleum disimbeuhan"
+    },
+    {
+        "idperibahasa": 23,
+        "makna": "Naon bae nu mere hasil ka urang kudu diurus bener bener.",
+        "peribahasa": "Ari diarah supana, kudu dipiara catangna "
+    },
+    {
+        "idperibahasa": 24,
+        "makna": "ari umur geus kolot tapi ari kahayang siga budak ngora",
+        "peribahasa": "Ari umur tunggang gunung, angen-angen pecah sawed"
+    },
+    {
+        "idperibahasa": 25,
+        "makna": "ngungun dumeh nyorangan di panyabaan, jauh ti indung bapa.",
+        "peribahasa": "Asa dijual payu"
+    },
+    {
+        "idperibahasa": 26,
+        "makna": "meunang kabungah nu gede, anu saenyana teu diarep arep.",
+        "peribahasa": "Asa ditonjok congcot "
+    },
+    {
+        "idperibahasa": 27,
+        "makna": "Boga rasa kahutangan budi anu pohara gedena.",
+        "peribahasa": "Asa ditumbu umur "
+    },
+    {
+        "idperibahasa": 28,
+        "makna": "Boga kahayang ari pek aya nu nyumponan atawa aya nu mere jalan bari teu disangka-sangka.",
+        "peribahasa": "Asa mabok manggih gorowong"
+    },
+    {
+        "idperibahasa": 29,
+        "makna": "teu betah cicing di imah, karesepna ngan nyaba bae",
+        "peribahasa": "Asa murag bulu bitis"
+    },
+    {
+        "idperibahasa": 30,
+        "makna": "kacida nyaahna.",
+        "peribahasa": "Asa nanggeuy endog beubeureumna "
+    },
+    {
+        "idperibahasa": 31,
+        "makna": " leungiteun jalma nu pohara hade galena.",
+        "peribahasa": "Asa potong leungeun katuhu"
+    },
+    {
+        "idperibahasa": 32,
+        "makna": "awahing / bakat ku era",
+        "peribahasa": "Asa teu beungeutan"
+    },
+    {
+        "idperibahasa": 33,
+        "makna": "Langka nganjang ka batur atawa ka tempat-tempat lianna.",
+        "peribahasa": "Atah Anjang"
+    },
+    {
+        "idperibahasa": 34,
+        "makna": "Kurang Didikan",
+        "peribahasa": "Atah warah/Bongkar warah"
+    },
+    {
+        "idperibahasa": 35,
+        "makna": " palsu, siga sono, tapi henteu. Siga suka, tapi henteu, siga nyaah tapi henteu.",
+        "peribahasa": "Ati mungkir beungeut nyinghareup"
+    },
+    {
+        "idperibahasa": 36,
+        "makna": "sabasoba wewengkon, ngeunaan tanah.",
+        "peribahasa": "Aub payung, sabet panon "
+    },
+    {
+        "idperibahasa": 37,
+        "makna": "make baju naun ge pantes",
+        "peribahasa": "Awak Sampayan"
+    },
+    {
+        "idperibahasa": 38,
+        "makna": "awewe nurutkeun kumaha salaki",
+        "peribahasa": "Awewe dulang tinande"
+    },
+    {
+        "idperibahasa": 39,
+        "makna": " anu mustahil oge oge bisa kajadian.",
+        "peribahasa": "Aya astana sajeungkal"
+    },
+    {
+        "idperibahasa": 40,
+        "makna": "arek meunang bagja atawa kauntungan tapi teu tulus.",
+        "peribahasa": "Aya bagja teu daulat "
+    },
+    {
+        "idperibahasa": 41,
+        "makna": "Aya jalan tepi ka laksana anu dipikahayang.",
+        "peribahasa": "Aya cukang komo meuntas"
+    },
+    {
+        "idperibahasa": 42,
+        "makna": "Kulantaran loba kawawuh gegeden dina aya karerepet atawa kaperluan penting gampang naker meunang pitulungna.",
+        "peribahasa": "Aya di sihung maung "
+    },
+    {
+        "idperibahasa": 43,
+        "makna": "naksir.",
+        "peribahasa": "Aya hate kadua leutik "
+    },
+    {
+        "idperibahasa": 44,
+        "makna": "Aya pilantaraneun atawa pijalaneun pikeun ngalaksanakeun atawa ngabulkeun kahayang.",
+        "peribahasa": "Aya jalan komo meuntas"
+    },
+    {
+        "idperibahasa": 45,
+        "makna": "aya milik nu teu disangka-sangka",
+        "peribahasa": "Aya jurig tumpak kuda"
+    },
+    {
+        "idperibahasa": 46,
+        "makna": "Aya nu diarep-arep atawa digeroan.",
+        "peribahasa": "Aya nu dianjing cai "
+    },
+    {
+        "idperibahasa": 47,
+        "makna": "Aya harega, aya pangaji.",
+        "peribahasa": "Aya peurah aya komara"
+    },
+    {
+        "idperibahasa": 48,
+        "makna": "aya kahayang",
+        "peribahasa": "Aya pikir kadua leutik"
+    },
+    {
+        "idperibahasa": 49,
+        "makna": "nu bodo jeung nu pinter moal sarua darajatna jeung panghasilanana.",
+        "peribahasa": "Ayakan tara meunang kancra "
+    },
+    {
+        "idperibahasa": 50,
+        "makna": "Senang hate, teu boga kasieun atawa kahariwang.",
+        "peribahasa": "Ayeum Tengtrem"
+    },
+    {
+        "idperibahasa": 51,
+        "makna": "Sadar tina kasalahan, insap.",
+        "peribahasa": "Babalik Pikir"
+    },
+    {
+        "idperibahasa": 52,
+        "makna": "degig",
+        "peribahasa": "Badak cihea"
+    },
+    {
+        "idperibahasa": 53,
+        "makna": "beja nu sumebar",
+        "peribahasa": "Balabar kawat"
+    },
+    {
+        "idperibahasa": 54,
+        "makna": " ari rasa tresna ka lalaki geus aya, ngan lamun papanggih jeung jelemana gede keneh kaera.",
+        "peribahasa": "Baleg tampele"
+    },
+    {
+        "idperibahasa": 55,
+        "makna": "tempat dilahirkeun.",
+        "peribahasa": "Bali geusan ngajadi "
+    },
+    {
+        "idperibahasa": 56,
+        "makna": "asal banyol jadi pasea",
+        "peribahasa": "Balik ka temen"
+    },
+    {
+        "idperibahasa": 57,
+        "makna": "nu gering teu daek icing",
+        "peribahasa": "Balik pepeh"
+    },
+    {
+        "idperibahasa": 58,
+        "makna": "teu eureun eureun nyeri hate ti baheula nepi ka kiwari.",
+        "peribahasa": "Balung kulit kotok meuting"
+    },
+    {
+        "idperibahasa": 59,
+        "makna": "nuduhkeun hate beresih",
+        "peribahasa": "Balungbang timur"
+    },
+    {
+        "idperibahasa": 60,
+        "makna": "beak karep ku rido jeung beresih hate.",
+        "peribahasa": "Balungbang timur, caang bulan opat belas, jalan gede sasapuan "
+    },
+    {
+        "idperibahasa": 61,
+        "makna": "pikasusaheun",
+        "peribahasa": "Bancang Pakewuh"
+    },
+    {
+        "idperibahasa": 62,
+        "makna": "Harta teh pikeun nulungan raga (awak).",
+        "peribahasa": "Banda tatalang raga"
+    },
+    {
+        "idperibahasa": 63,
+        "makna": "jembar pikiran atawa wijaksana dina nyanghareupan pasualan.",
+        "peribahasa": "Bandung kandungan laer aisan"
+    },
+    {
+        "idperibahasa": 64,
+        "makna": "taya kasabaran",
+        "peribahasa": "Baro Mengmengan"
+    },
+    {
+        "idperibahasa": 65,
+        "makna": "batan eureun kalah maceuh",
+        "peribahasa": "Batan kapok kalah gawok"
+    },
+    {
+        "idperibahasa": 66,
+        "makna": "Katenjo luarna (awakna) siga nu goreng padahal jerona (hatena) alus.",
+        "peribahasa": "Batok bulu eusi madu"
+    },
+    {
+        "idperibahasa": 67,
+        "makna": "sagala ikhtiar geus diusahakeun tapi can aya hasil",
+        "peribahasa": "Beak dengkak"
+    },
+    {
+        "idperibahasa": 68,
+        "makna": "beja ulah waka dipercaya",
+        "peribahasa": "Beja mah beje"
+    },
+    {
+        "idperibahasa": 69,
+        "makna": " boga pikiran goreng ka papada kawula.",
+        "peribahasa": "Belang bayah gindi pikir"
+    },
+    {
+        "idperibahasa": 70,
+        "makna": "Teu kabagean dahareun lantaran elat datang.",
+        "peribahasa": "Bengkok Tikoro"
+    },
+    {
+        "idperibahasa": 71,
+        "makna": "Robah tingkah laku, keur budak alus ari geus kolot goreng.",
+        "peribahasa": "Bengkung bekas nyalahan"
+    },
+    {
+        "idperibahasa": 72,
+        "makna": "babarengan sok sanajan dina hina, rugi, atawa cilaka. sauyunan, ngariung babarengan",
+        "peribahasa": "Bengkung ngariung bongkok ngaronyok "
+    },
+    {
+        "idperibahasa": 73,
+        "makna": "Resep nitah ka batur.",
+        "peribahasa": "Bentik curuk balas nunjuk"
+    },
+    {
+        "idperibahasa": 74,
+        "makna": "hese dititah Bali geusan ngajadi, Kedul, hese dititah.",
+        "peribahasa": "Beurat birit"
+    },
+    {
+        "idperibahasa": 75,
+        "makna": "pohara narimakeunana kana pitulung, ngan teu kawasa ngedalkeun ku lisan atawa tulisan, anging gusti nu ningali.",
+        "peribahasa": "Beurat nyuhun beurat nanggung, beurat narimakeunana "
+    },
+    {
+        "idperibahasa": 76,
+        "makna": "seuseut batan neureuy keueus hese pisan, seuseut seuat ngahasilkeun maksud.",
+        "peribahasa": "Beureum paneureuy "
+    },
+    {
+        "idperibahasa": 77,
+        "makna": "bungah pisan",
+        "peribahasa": "Bilatung ninggang dage"
+    },
+    {
+        "idperibahasa": 78,
+        "makna": " Bisi salah pokpokanana.",
+        "peribahasa": "Bilih aya turus bengkung"
+    },
+    {
+        "idperibahasa": 79,
+        "makna": "teu daek cicing",
+        "peribahasa": "Birit aseupan"
+    },
+    {
+        "idperibahasa": 80,
+        "makna": "Resep ngucah ngaceh rasiah atawa kaaeban boh nu sorangan boh nu batur.",
+        "peribahasa": "Biwir nyiru rombengeun "
+    },
+    {
+        "idperibahasa": 81,
+        "makna": "henteu milu milu kana tanggung ajwabna mah, ieu mah ngan saukur mangnepikeun dumeh jadi utusan, ngemban timbalan tinu lian.",
+        "peribahasa": "Biwir sambung lemek, suku sambung lengkah "
+    },
+    {
+        "idperibahasa": 82,
+        "makna": "Kabina bina rajina dina enggoning nyiar kipayah.",
+        "peribahasa": "Bluk nyuuh blak nangkarak "
+    },
+    {
+        "idperibahasa": 83,
+        "makna": " aya kuciwana, lantaran aya kakuranganana atawa karuksakanana.",
+        "peribahasa": "Bobo sapanon carang sapakan"
+    },
+    {
+        "idperibahasa": 84,
+        "makna": " henteu rahayu, henteu salamet, meunang kacilakaan atawa tiwas.",
+        "peribahasa": "Bobor karahayuan"
+    },
+    {
+        "idperibahasa": 85,
+        "makna": "kabeh anu dipigawe kudu pinuh tinimbangan.",
+        "peribahasa": "Bobot pangayun timbang taraju "
+    },
+    {
+        "idperibahasa": 86,
+        "makna": "bodo tapi daek tatanya",
+        "peribahasa": "Bodo Alewoh"
+    },
+    {
+        "idperibahasa": 87,
+        "makna": "bodo kacida",
+        "peribahasa": "Bodo kawas kebo"
+    },
+    {
+        "idperibahasa": 88,
+        "makna": "nu leutik ngalawan nu gede.",
+        "peribahasa": "Bonteng ngalawan kadu"
+    },
+    {
+        "idperibahasa": 89,
+        "makna": "nyiar pangarti tur diburuhan atawa digajih.",
+        "peribahasa": "Buburuh nyatu diupah beas "
+    },
+    {
+        "idperibahasa": 90,
+        "makna": "keur meujeuhna beuki dahar",
+        "peribahasa": "Budak keur meujeuhna bilatung dulang"
+    },
+    {
+        "idperibahasa": 91,
+        "makna": " Ari laku lampah mah kawas santri tapi sok ceceremed.",
+        "peribahasa": "Budi santri, legeg lebe, ari lampah euwah euwah"
+    },
+    {
+        "idperibahasa": 92,
+        "makna": "kabawa ku batur",
+        "peribahasa": "Bulu kapaut"
+    },
+    {
+        "idperibahasa": 93,
+        "makna": "pamohalan kajadian.",
+        "peribahasa": "Buluan belut, jangjangan oray "
+    },
+    {
+        "idperibahasa": 94,
+        "makna": "lamun dititah tara sok pek ku maneh, tapi sok nitah deui ka batur.",
+        "peribahasa": "Bungbulang tunda / tunda talatah "
+    },
+    {
+        "idperibahasa": 95,
+        "makna": " koret, medit, ngeupeul, tara pisan daek barangbere.",
+        "peribahasa": "Buntut kasiran"
+    },
+    {
+        "idperibahasa": 96,
+        "makna": " ginding, loba pakean anu aralus dipake.",
+        "peribahasa": "Bur beureum bur hideung, hurung nagtung siang leumpang"
+    },
+    {
+        "idperibahasa": 97,
+        "makna": "ka sobat atawa ka baraya mah sok hayang ngahampura bae lamun aya kasalahan teh.",
+        "peribahasa": "Buruk buruk papan jati "
+    },
+    {
+        "idperibahasa": 98,
+        "makna": "migawe nu kurang mangpaat.",
+        "peribahasa": "Caang bulan dadamaran "
+    },
+    {
+        "idperibahasa": 99,
+        "makna": "Hanteu beres, hanteu rata, henteu sampurna.",
+        "peribahasa": "Cacag nangkaeun "
+    },
+    {
+        "idperibahasa": 100,
+        "makna": "Ngarengsekeun perkara ku cara anu hade teu matak tugenah.",
+        "peribahasa": "Caina herang laukna beunang"
+    },
+    {
+        "idperibahasa": 101,
+        "makna": "omonganana mah alus nepi ka urang jadi percaya jeung kataji, tapi hatena jahat jeung matak bahaya ka urang.",
+        "peribahasa": "Cangkir emas eusi delan "
+    },
+    {
+        "idperibahasa": 102,
+        "makna": " ngeluk bae, teu lemek teu carek, euweuh hojah, euweuh karep, euweuh kahayang sabab era tawa sieun.",
+        "peribahasa": "Cara bueuk meunang mabuk"
+    },
+    {
+        "idperibahasa": 103,
+        "makna": "anu tadina rame kacida, ayeuna mah jadi jempling pisan.",
+        "peribahasa": "Cara gaang katincak "
+    },
+    {
+        "idperibahasa": 104,
+        "makna": " carekcok bae, mani gandeng nacer.",
+        "peribahasa": "Cara jogjog mondok"
+    },
+    {
+        "idperibahasa": 105,
+        "makna": " Pohara bodona, beunang dibobodo atawa ditipu ku batur.",
+        "peribahasa": "Cara simeut hiris, tai kana beuheung beuheung"
+    },
+    {
+        "idperibahasa": 106,
+        "makna": " Nu leutik nyaruaan anu gede, nu miskin nyaruaan nu beunghar.",
+        "peribahasa": "Cecendet mande kiara"
+    },
+    {
+        "idperibahasa": 107,
+        "makna": " Sok gancang nyaritakeun ka batur naon bae anu kadenge, turtaning tacan karuhan eta beja teh bener henteuna.",
+        "peribahasa": "Ceuli lentaheun"
+    },
+    {
+        "idperibahasa": 108,
+        "makna": " Nganjrek di jelema anu nyusahkeun atawa bakal nyilakakeun ka diri urang.",
+        "peribahasa": "Cicing dina sihung maung"
+    },
+    {
+        "idperibahasa": 109,
+        "makna": " Ku dileukeunan mah sakumaha hesena ge lila lila jadi bisa (najan bodo asal leukeun diajarna lila lila oge tangtu bisa). Lamun tuluy dipigawe tangtu bakal karasa hasilna.",
+        "peribahasa": "Cikaracak ninggang batu laun laun jadi legok"
+    },
+    {
+        "idperibahasa": 110,
+        "makna": " Nyaruaan ka jelema anu saluhureun harkatna, darajatna atawa pangabogana.",
+        "peribahasa": "Cileuncang mande sagara, cecendet mande kiara, hunyur nandean gunung"
+    },
+    {
+        "idperibahasa": 111,
+        "makna": "beda tempatna, beda deui adat jeung kabiasaanana.",
+        "peribahasa": "Ciri sabumi cara sadesa "
+    },
+    {
+        "idperibahasa": 112,
+        "makna": " Kaluar tian hate anu beresih, rido pisan, teu aya geuneuk maleukmeuk.",
+        "peribahasa": "Clik putih clak herang"
+    },
+    {
+        "idperibahasa": 113,
+        "makna": "beresih hate, ikhlas, teu aya rasa keheul atawa tugenah.",
+        "peribahasa": "Clik putih clak herang, caang bulan opat belas"
+    },
+    {
+        "idperibahasa": 114,
+        "makna": "Kumaha arek bageurna dinu ajdi anak, lamun bapana henteu bageur.",
+        "peribahasa": "Congo congo ku amis, mun rek mais oge puhuna "
+    },
+    {
+        "idperibahasa": 115,
+        "makna": "Jelema nu geus kolot, tereh maot.",
+        "peribahasa": "Cueut Ka Hareup"
+    },
+    {
+        "idperibahasa": 116,
+        "makna": "ninggalkeun pagawean anu baku.",
+        "peribahasa": "Cul dogdog tinggal igel"
+    },
+    {
+        "idperibahasa": 117,
+        "makna": " daek ngarah kana rejeki atawa pakaya batur, tapi diarah rejekina atawa pakayana ku batur mah embung.",
+        "peribahasa": "Daek macok embung dipacok"
+    },
+    {
+        "idperibahasa": 118,
+        "makna": " ari modalna gede kacida, ngan batina anu diarah kacida leutikna.",
+        "peribahasa": "Dagang oncom rancatan emas"
+    },
+    {
+        "idperibahasa": 119,
+        "makna": " tah barangna tah duitna.",
+        "peribahasa": "Dah bawang dah kapas"
+    },
+    {
+        "idperibahasa": 120,
+        "makna": " Susuganan katuliskeun aya jodo (waris).",
+        "peribahasa": "Daluang katinggang mangsi"
+    },
+    {
+        "idperibahasa": 121,
+        "makna": " Ngagambarkeun yen kaayaan jeung adat kabiasaan di desa jeung kota (nagara) teh beda-beda.",
+        "peribahasa": "Desa maca cara nagara mawa tata"
+    },
+    {
+        "idperibahasa": 122,
+        "makna": " pada nongton, jadi tongtonan kulantaran pinter dina kasenian.",
+        "peribahasa": "Deugdeug tanjeuran pada ngadeugdeug"
+    },
+    {
+        "idperibahasa": 123,
+        "makna": " ari imahna mah puguh padeukeut, ngan hanjakal teu nyaho tibareto yen baraya.",
+        "peribahasa": "Deukeut deukeut anak taleus"
+    },
+    {
+        "idperibahasa": 124,
+        "makna": "dibabuk kenca katuhu",
+        "peribahasa": "Dibabuk lalayakeun"
+    },
+    {
+        "idperibahasa": 125,
+        "makna": "dijentrekeun, dieceskeun dogdog pangrewong acara panambah",
+        "peribahasa": "Dibejer beaskeun"
+    },
+    {
+        "idperibahasa": 126,
+        "makna": "dijentrekeun / dieceskeun",
+        "peribahasa": "Dibenjer beaskeun"
+    },
+    {
+        "idperibahasa": 127,
+        "makna": "baheula ditangtukeunana, ngan kakara ayeuna kalakonanana atawa kapanggihna. papasten geus ditangtukeun ku Gusti Alloh",
+        "peribahasa": "Dihin pinasti, anyar pinanggih "
+    },
+    {
+        "idperibahasa": 128,
+        "makna": "teu beunang dijeujeuhkeun, tara eucreug bae",
+        "peribahasa": "Dijieun hulu teu nyanggut, dijieun buntut teu ngepot"
+    },
+    {
+        "idperibahasa": 129,
+        "makna": " Ari dipegat mah teu acan, ngan geus teu dipeutingan jeung teu dibalanjaan.",
+        "peribahasa": "Dikungkung teu diawur, dicangcang teu diparaban"
+    },
+    {
+        "idperibahasa": 130,
+        "makna": " Disangka hade jeung bageur tapi buktina goreng jeung jahat.",
+        "peribahasa": "Dipiamis buah gintung"
+    },
+    {
+        "idperibahasa": 131,
+        "makna": " dihijikeun bae, disaruakeun bae, teu dibeda beda.",
+        "peribahasa": "Disakompet daunkeun, dihurun suluh"
+    },
+    {
+        "idperibahasa": 132,
+        "makna": "Dialak ilik lantaran dianggap aneh.",
+        "peribahasa": "Ditangtang ditengteng dijieun bonteng sapasi "
+    },
+    {
+        "idperibahasa": 133,
+        "makna": " lenjang jeung geulis pisan, pantes kewes.",
+        "peribahasa": "Ditilik ti gigir lenggik, disawang ti tukang lenjang, diteuteup ti hareup sieup"
+    },
+    {
+        "idperibahasa": 134,
+        "makna": " bantuan anu euweuh hartina, dina teu aya oge teu naon naon.",
+        "peribahasa": "Dogdog pangrewong"
+    },
+    {
+        "idperibahasa": 135,
+        "makna": "gantian jeung mahugi parawan ti keur leutik keneh, sugan diparengkeun ku nu kawasa jadi pipamajikaneun, na ari geus gede dikawin batur, atuh hese cape taya gawe.",
+        "peribahasa": "Dogong dogong tulak cau, geus gede dituar batur n"
+    },
+    {
+        "idperibahasa": 136,
+        "makna": "dosa anu geus kacida lobana",
+        "peribahasa": "Dosa salaput hulu"
+    },
+    {
+        "idperibahasa": 137,
+        "makna": "usaha satekah polah",
+        "peribahasa": "Dug hulu pet nyawa"
+    },
+    {
+        "idperibahasa": 138,
+        "makna": " awewe mah nurutkeun bae, kumaha diaturna jeung diparentahna ku nu jadi salami.",
+        "peribahasa": "Dulang tinande"
+    },
+    {
+        "idperibahasa": 139,
+        "makna": " ngabagikeun naon naon henteu kalawan adil aya nu loba, aya nu saeutik.",
+        "peribahasa": "Duum tinggi"
+    },
+    {
+        "idperibahasa": 140,
+        "makna": "bisa mapatahan batur, ari sorangan teu bisa ngamalkeun",
+        "peribahasa": "Elmu ajug"
+    },
+    {
+        "idperibahasa": 141,
+        "makna": "joledar atawa patukang toggong jeung kolot",
+        "peribahasa": "Elmu angklung"
+    },
+    {
+        "idperibahasa": 142,
+        "makna": "pituduh tina buku atawa kitab anu acan diprakkeun ku sorangan",
+        "peribahasa": "Elmu kepek"
+    },
+    {
+        "idperibahasa": 143,
+        "makna": "samiuk kana kagorengan, guyub dina hal nu kurang hade",
+        "peribahasa": "Elmu sapi"
+    },
+    {
+        "idperibahasa": 144,
+        "makna": "nu boga imah ngarugikeun ka tatamu.",
+        "peribahasa": "Elmu tumbila "
+    },
+    {
+        "idperibahasa": 145,
+        "makna": "hirup kudu nungtut nyiar elmu pikeun",
+        "peribahasa": "Elmu tungtut dunya siar sukan-sukan sakadarna"
+    },
+    {
+        "idperibahasa": 146,
+        "makna": "nuju sakarat, ngan kari tunggu dawuh bae.",
+        "peribahasa": "Elok bangkong "
+    },
+    {
+        "idperibahasa": 147,
+        "makna": "budak mapatahan kolot, atawa mapagahan nu geus bisa atawa nu leuwih luhur pangartina",
+        "peribahasa": "Endog mapagahan (mapatahan) hayam"
+    },
+    {
+        "idperibahasa": 148,
+        "makna": "di antara dulur-duur saindung-sabapa sok aya bae anu teu pati alus milikna",
+        "peribahasa": "Endog sapataragan tara megar kabeh"
+    },
+    {
+        "idperibahasa": 149,
+        "makna": "kasusah atawa karerepet anu tumiba ka dulur, baraya atawa sobat, balukarna ngabingungkeun atawa nyusahkeun ka sarerea.",
+        "peribahasa": "Endog sapatarangan, peupeus hiji, peupeus kabeh "
+    },
+    {
+        "idperibahasa": 150,
+        "makna": " najan saindung sabapa hneteu sarua milikna, rejekina atawa darajatna.",
+        "peribahasa": "Endog tara megar kabeh"
+    },
+    {
+        "idperibahasa": 151,
+        "makna": "Babari ceurik, babari peunggas harepan.",
+        "peribahasa": "Epes Meer"
+    },
+    {
+        "idperibahasa": 152,
+        "makna": "Era ku kalakuan batur.",
+        "peribahasa": "Era Paradah"
+    },
+    {
+        "idperibahasa": 153,
+        "makna": "sagala dicaritakeun",
+        "peribahasa": "Galegeh gado"
+    },
+    {
+        "idperibahasa": 154,
+        "makna": "darehdeh tapi henteu terus kana hate.",
+        "peribahasa": "Galehgeh gado "
+    },
+    {
+        "idperibahasa": 155,
+        "makna": "kulantaran digawena buru buru jeung kurang ati ati hasilna teh teu nyugemakeun.",
+        "peribahasa": "Gancang pincang "
+    },
+    {
+        "idperibahasa": 156,
+        "makna": " hanteu terus bisa ngadengekeun hiji perkara jeung pohara hayangna neruskeun ngadengekeun.",
+        "peribahasa": "Gantung denge"
+    },
+    {
+        "idperibahasa": 157,
+        "makna": " Hanteu terus daharna sabab dahareunana geus beak atawa daharna kapaksa kudu eureun heula ku lantaran aya dahareun nu didagoan.",
+        "peribahasa": "Gantung teureuyeun"
+    },
+    {
+        "idperibahasa": 158,
+        "makna": "taya kasabaran",
+        "peribahasa": "Garo mengmengan"
+    },
+    {
+        "idperibahasa": 159,
+        "makna": "pagawean awewe dina aya ka teu panuju",
+        "peribahasa": "Garo singsat"
+    },
+    {
+        "idperibahasa": 160,
+        "makna": " Ngeunaan ka jelema anu jangkung ahrelung tur dedeg ngan hanjakal gawena jeung karajinanana goreng.",
+        "peribahasa": "Gede gede kayu randu, dipakeke pamikul bengkung, dipake lincar sok anggang, dipake pancir ngajedig"
+    },
+    {
+        "idperibahasa": 161,
+        "makna": " Adigung kulanatran boga kolot atawa baraya baleunghar ataw jareneng.",
+        "peribahasa": "Gede gunung pananggeuhan"
+    },
+    {
+        "idperibahasa": 162,
+        "makna": "Sombong, Adigung.",
+        "peribahasa": "Gede Hulu"
+    },
+    {
+        "idperibahasa": 163,
+        "makna": "Babari nuduh atawa ngahukum.",
+        "peribahasa": "Getas Harupateun"
+    },
+    {
+        "idperibahasa": 164,
+        "makna": " Gampang pisan nyalahkeun atawa ngahukum ka batur.",
+        "peribahasa": "Getas harupateun, pingges harepan"
+    },
+    {
+        "idperibahasa": 165,
+        "makna": "Katingali ti jauhan alus tapi beh dekeut goreng.",
+        "peribahasa": "Geulis Gunung"
+    },
+    {
+        "idperibahasa": 166,
+        "makna": "Ari rupa mah tegep ngan dangong dusun meledug.",
+        "peribahasa": "Geulis sisi, laur gunung, sonagar huma "
+    },
+    {
+        "idperibahasa": 167,
+        "makna": "geus maot",
+        "peribahasa": "Geus nyanghulu ngaler"
+    },
+    {
+        "idperibahasa": 168,
+        "makna": "ganjang napsu",
+        "peribahasa": "Geutas Harupateun"
+    },
+    {
+        "idperibahasa": 169,
+        "makna": "Goreng sangka atawa goreng hate ka batur.",
+        "peribahasa": "Gindi pikir belang bayah"
+    },
+    {
+        "idperibahasa": 170,
+        "makna": " Ari pake mah ginding ngan duit teu boga.",
+        "peribahasa": "Ginding kakampis"
+    },
+    {
+        "idperibahasa": 171,
+        "makna": "ginding tapi sakunamah kosong",
+        "peribahasa": "Ginding Kempis"
+    },
+    {
+        "idperibahasa": 172,
+        "makna": "Nu luhur jeung nu handap sarua bae ulah dihina.",
+        "peribahasa": "Giri lungsi tanpa hina "
+    },
+    {
+        "idperibahasa": 173,
+        "makna": "Ngagulkeun diri sorangan.",
+        "peribahasa": "Goong nabeuh maneh"
+    },
+    {
+        "idperibahasa": 174,
+        "makna": " Datang sorangan ka anu keur kariaan sanajan hanteu di ondang, maksudna hayang dititah gawe sangkan seubeuh baranghakan.",
+        "peribahasa": "Goong saba karia"
+    },
+    {
+        "idperibahasa": 175,
+        "makna": "Euweuh anggeusna, euweuh beakna.",
+        "peribahasa": "Gunung tanpa tutugan, sagara tanpa tepi "
+    },
+    {
+        "idperibahasa": 176,
+        "makna": "pageuh kana janji atawa mawa karep sorangan",
+        "peribahasa": "Gurat batu"
+    },
+    {
+        "idperibahasa": 177,
+        "makna": " Gusti Alloh tara nangtayungan ka mahlukna anu salah atawa boga dosa ka papada kawula.",
+        "peribahasa": "Gusti Alloh tara nanggeuy dibongkokna"
+    },
+    {
+        "idperibahasa": 178,
+        "makna": "hade omongan jeung tingkah laku.",
+        "peribahasa": "Hade gogog hade tagog"
+    },
+    {
+        "idperibahasa": 179,
+        "makna": " Omongan nu hade balukarna hade jeung omongan nu goreng, goreng deui balukarna.",
+        "peribahasa": "Hade ku omong goreng ku omong"
+    },
+    {
+        "idperibahasa": 180,
+        "makna": "Hade tingkah laku jeung hade omongan.",
+        "peribahasa": "Hade tata hade basa"
+    },
+    {
+        "idperibahasa": 181,
+        "makna": "Kahadean anu loba leungit ku kagorengan anu saeutik.",
+        "peribahasa": "Halodo sataun lantis ku hujan sapoe"
+    },
+    {
+        "idperibahasa": 182,
+        "makna": " Goreng sungutna jeung sok mindeng nyarekan deuih tapi berehan sok daek barangbere dahareun.",
+        "peribahasa": "Hambur bacot murah congcot"
+    },
+    {
+        "idperibahasa": 183,
+        "makna": "Babari dititah, henteu kedul.",
+        "peribahasa": "Hampang Birit"
+    },
+    {
+        "idperibahasa": 184,
+        "makna": "Babari neunggeul.",
+        "peribahasa": "Hampang leungeun"
+    },
+    {
+        "idperibahasa": 185,
+        "makna": "Ngomongna hade padahal maksudna ngahina.",
+        "peribahasa": "Handap Lanyap"
+    },
+    {
+        "idperibahasa": 186,
+        "makna": " Hanteu sieun atawa gimir saeutik eutik acan.",
+        "peribahasa": "Hanteu gedag bulu salambar"
+    },
+    {
+        "idperibahasa": 187,
+        "makna": "Enya ari miskin tea mah, ngan lumayan da ari salaki mah boga.",
+        "peribahasa": "Hapa hapa ge ranggeuyan "
+    },
+    {
+        "idperibahasa": 188,
+        "makna": " Harewos anu cukup tarikna, nepi kadenge ku jelema anu deukeut kalawan tetela pisan.",
+        "peribahasa": "Harewos bojong"
+    },
+    {
+        "idperibahasa": 189,
+        "makna": "dadana nyohcor ka hareu",
+        "peribahasa": "Harigu manukeun"
+    },
+    {
+        "idperibahasa": 190,
+        "makna": " Gancang atoh dina meunangna rejeki, boh dahareun boh duit kalawan teu ngingetkeun balukarna ieu teh rejeki halal atawa haram.",
+        "peribahasa": "Haripeut ku teuteureuyeun"
+    },
+    {
+        "idperibahasa": 191,
+        "makna": " Beja teh sasarina sok gampang jeung gancang nerekab, kulantaran umuna sok pabeja beja.",
+        "peribahasa": "Harus omong batan goong"
+    },
+    {
+        "idperibahasa": 192,
+        "makna": "Bebeja ka batur samemeh dipigawe.",
+        "peribahasa": "Hawara Biwir"
+    },
+    {
+        "idperibahasa": 193,
+        "makna": "teu papanggih ari jeung kauntungan mah, papanggih soteh jeung karugian anu sama sakali henteu diarep arep.",
+        "peribahasa": "Hayang untung jadi buntung "
+    },
+    {
+        "idperibahasa": 194,
+        "makna": "Resep jeung remen gunta ganti imah tempat atawa pagawean.",
+        "peribahasa": "Hejo tihang "
+    },
+    {
+        "idperibahasa": 195,
+        "makna": " Maksud bisa kahontal kalawan beres teu aya pihak anu dirugikeun atawa dinyenyeri.",
+        "peribahasa": "Herang caina beunang laukna"
+    },
+    {
+        "idperibahasa": 196,
+        "makna": " Bareto mah beunghar ayeuna kari miskina.",
+        "peribahasa": "Herang herang kari mata, teuas teuas kari bincurang"
+    },
+    {
+        "idperibahasa": 197,
+        "makna": " Nyatujuan ari diluar mah, ngan bae henteu terus jeung hatena.",
+        "peribahasa": "Heueuh heueuh bueuk"
+    },
+    {
+        "idperibahasa": 198,
+        "makna": "omongana teureugeus, hayang menang sorangan",
+        "peribahasa": "Heuras Genggerong"
+    },
+    {
+        "idperibahasa": 199,
+        "makna": " Ngagambarkeun sundek kanyaho ku sabab henteu rea babandingan da kurung batok.",
+        "peribahasa": "Heureut deuleu pondok lengkah"
+    },
+    {
+        "idperibahasa": 200,
+        "makna": "kurang kaboga",
+        "peribahasa": "Heureut pakeun"
+    },
+    {
+        "idperibahasa": 201,
+        "makna": " Hayang jeung perlu ngabejakeun hiji perkara, ngan sieun pok kulantaran loba karisi/ karempan.",
+        "peribahasa": "Heurin ku letah"
+    },
+    {
+        "idperibahasa": 202,
+        "makna": " Hirup samahi mahi ku pamere batur bae, sabab teu purun hojah sorangan dina enggoning nyiar kipayah.",
+        "peribahasa": "Hirup ku panyukup gede ku pamere"
+    },
+    {
+        "idperibahasa": 203,
+        "makna": " Rido pisan pasrah pisan, teu boga kahayang naon naon.",
+        "peribahasa": "Hirup nuhun paeh dirampes"
+    },
+    {
+        "idperibahasa": 204,
+        "makna": "Kudu bageur kudu hade laku lampah supaya alus kacaritakeunana.",
+        "peribahasa": "Hirup ulah manggih tungtung, paeh ulah manggih beja "
+    },
+    {
+        "idperibahasa": 205,
+        "makna": " Nu keur senang tambang senang, nu keur untung tambah untung.",
+        "peribahasa": "Hulu dugul dihihidan"
+    },
+    {
+        "idperibahasa": 206,
+        "makna": "jelema nu leutik sirahna henteu surup jeung awakna",
+        "peribahasa": "Hulu peutieun"
+    },
+    {
+        "idperibahasa": 207,
+        "makna": " Nyaruaan ka jelema saluhureun harkatna atawa pangabogana.",
+        "peribahasa": "Hunyur nandean gunung"
+    },
+    {
+        "idperibahasa": 208,
+        "makna": " Ginding karana make papakean atawa perhiasan anu aralus.",
+        "peribahasa": "Hurung nangtung siang leumpang"
+    },
+    {
+        "idperibahasa": 209,
+        "makna": "hutangna ka ditu ka dieu",
+        "peribahasa": "Hutang salaput hulu"
+    },
+    {
+        "idperibahasa": 210,
+        "makna": " Boga rasa pangleuwihna ti pada batur, boh ngeunaan rupa, pangarti, pangaboga, pangkat atawa kakawasaan.",
+        "peribahasa": "Ieu aing uyah kidul"
+    },
+    {
+        "idperibahasa": 211,
+        "makna": " Masrahkeun sagalagalana hadena gorengna, bagja cilakana (biasana sok dipake dina seserahan).",
+        "peribahasa": "Ilang along margahina,kaula nyerenkeun"
+    },
+    {
+        "idperibahasa": 212,
+        "makna": "Indit sakulawarga.",
+        "peribahasa": "Indit Sirib"
+    },
+    {
+        "idperibahasa": 213,
+        "makna": " Ti indung jeung bapa turunan menak jeung beunghar.",
+        "peribahasa": "Indung lembu bapa banteng"
+    },
+    {
+        "idperibahasa": 214,
+        "makna": "Indung jeung bapa teh sumber kasenangan.",
+        "peribahasa": "Indung tunggul rahayu bapa tangkal darajat"
+    },
+    {
+        "idperibahasa": 215,
+        "makna": " Pohara risina, pohara paurna.",
+        "peribahasa": "Inggis batan maut hinis"
+    },
+    {
+        "idperibahasa": 216,
+        "makna": " Inggis jeung paur kabina bina.",
+        "peribahasa": "Inggis manan maut hinis, rempan batan mesat gobang"
+    },
+    {
+        "idperibahasa": 217,
+        "makna": " Gede kaera.",
+        "peribahasa": "Ipis kulit beungeut"
+    },
+    {
+        "idperibahasa": 218,
+        "makna": " Wani nyorang picilakaeun, pibalaieun atawa pibahayaeun.",
+        "peribahasa": "Iwak nangtang sujen"
+    },
+    {
+        "idperibahasa": 219,
+        "makna": " milu nyaritakeun hiji perkara sakapeung nempasan omongan batur, nyeta nyeta siga nu nyaho, padahal teu nyaho nanaon.",
+        "peribahasa": "Jabung tumalapung sabda tumapalang"
+    },
+    {
+        "idperibahasa": 220,
+        "makna": " jadi panghalang, ngeunaan ka lalaki nu ngahalangan pijodoeun hiji awewe.",
+        "peribahasa": "Jadi maung malang"
+    },
+    {
+        "idperibahasa": 221,
+        "makna": " jadi carita jalma loba.",
+        "peribahasa": "Jadi sabiwir hiji"
+    },
+    {
+        "idperibahasa": 222,
+        "makna": " mindeng dicaritakeun batur.",
+        "peribahasa": "Jadi senen kalemekan"
+    },
+    {
+        "idperibahasa": 223,
+        "makna": "teu narima didikan sacukupna",
+        "peribahasa": "Jalma atah warah"
+    },
+    {
+        "idperibahasa": 224,
+        "makna": " jaman baheula pisan.",
+        "peribahasa": "Jaman cacing dua saduit"
+    },
+    {
+        "idperibahasa": 225,
+        "makna": "pribumi kaelehkeun ku semah",
+        "peribahasa": "Jati kasilih ku junti"
+    },
+    {
+        "idperibahasa": 226,
+        "makna": " hanas jauh jauh oge dijugjug, ngan hanjakal ku teu hasil.",
+        "peribahasa": "Jauh jauh panjang gagang"
+    },
+    {
+        "idperibahasa": 227,
+        "makna": " dusun,bodo, euweuh kanyaho.",
+        "peribahasa": "Jauh ka bedug"
+    },
+    {
+        "idperibahasa": 228,
+        "makna": " dusun, teu nyaho di tata-titi, tidak tanduk, suba sita, duduga jeung peryoga.",
+        "peribahasa": "Jauh ka bedug anggang ka dayeuh"
+    },
+    {
+        "idperibahasa": 229,
+        "makna": "jauh-jauh teu beubeunangan",
+        "peribahasa": "Jauh-jauh panjang gagang"
+    },
+    {
+        "idperibahasa": 230,
+        "makna": " unggal bangsa beda adat jeung kabiasaanana.",
+        "peribahasa": "Jawadah tutung biritna, sacarana sacarana"
+    },
+    {
+        "idperibahasa": 231,
+        "makna": " cape kulantaran leumpang ka dieu ka dieu.",
+        "peribahasa": "Jegjeg ceker"
+    },
+    {
+        "idperibahasa": 232,
+        "makna": " lumrah bae, mun ka lalaki, kasep henteu, goreng henteu.",
+        "peribahasa": "Jejer pasar"
+    },
+    {
+        "idperibahasa": 233,
+        "makna": " leuwih hade wakca balaka ngedalkeun kahayang ti batan ngandung kabingung teu wani pok nyarita.",
+        "peribahasa": "Jeung leweh mah mending waleh"
+    },
+    {
+        "idperibahasa": 234,
+        "makna": " Milampah anu moal pihasileun.",
+        "peribahasa": "Jogjog neureuy buah loa"
+    },
+    {
+        "idperibahasa": 235,
+        "makna": "Babarengan, akur sauyunan.",
+        "peribahasa": "Ka cai jadi saleuwi ka darajat jadi salebak"
+    },
+    {
+        "idperibahasa": 236,
+        "makna": " Jelema nu jahat, julig jeung dengki mah moal jamuga, moal aya kamajuan boh ngeunaan pangkat, boh rejeki.",
+        "peribahasa": "Ka luhur teu sirungan kahandap teu akaran"
+    },
+    {
+        "idperibahasa": 237,
+        "makna": "kabawa ku nu teu puguh",
+        "peribahasa": "Kabawa ku sakaba-kaba"
+    },
+    {
+        "idperibahasa": 238,
+        "makna": "Kawentar pisan, kawentar kamana mana.",
+        "peribahasa": "Kaceluk ka awun-awun kawentar ka janapria, kakoncara ka mancanagara"
+    },
+    {
+        "idperibahasa": 239,
+        "makna": " Kababawa, katarik kana hiji perkara, keukeuh milu susah, sanajan teu boga salah jeung henteu milu ulubiung perkarana.",
+        "peribahasa": "Kaciwit kulit kabawa daging"
+    },
+    {
+        "idperibahasa": 240,
+        "makna": " Ku ayana barang titipan di urang, urang teh nepi ka jiga beunghar katenjona ku batur mah padahal miskin teu boga nanaon.",
+        "peribahasa": "Kahieuman bangkong"
+    },
+    {
+        "idperibahasa": 241,
+        "makna": " Unggal jelema awal ahir tangtu bakal pinanggih jeung kasusahan.",
+        "peribahasa": "Kai teu kalis ku angin"
+    },
+    {
+        "idperibahasa": 242,
+        "makna": " Tibatan ahirna matak susah, leuwih hade dicaritakeun ti heula naon anu matak pisusaheunana.",
+        "peribahasa": "Kajeun pait tungtung amis manan amis tungtung pait"
+    },
+    {
+        "idperibahasa": 243,
+        "makna": " Kajeun teuing cape gawe asal bisa dahar kalawan cukup.",
+        "peribahasa": "Kajeun panas tonggong asal tiis beuteung"
+    },
+    {
+        "idperibahasa": 244,
+        "makna": "Rusiah dicaritakeun ku nu ngalakukeunnana.",
+        "peribahasa": "Kalapa bijil ti cungap"
+    },
+    {
+        "idperibahasa": 245,
+        "makna": "loba baraya beunghar",
+        "peribahasa": "Kaliung kasiput"
+    },
+    {
+        "idperibahasa": 246,
+        "makna": "loba baraya beunghar",
+        "peribahasa": "Kaliung kasiput"
+    },
+    {
+        "idperibahasa": 247,
+        "makna": "euweuh kaera",
+        "peribahasa": "Kandel kulit beungeut"
+    },
+    {
+        "idperibahasa": 248,
+        "makna": "leuleus taya tangan pangawasna",
+        "peribahasa": "Kapas nu di pupul bayu"
+    },
+    {
+        "idperibahasa": 249,
+        "makna": " Batur anu salahna atawa anu boga dosana, tapi urang anu kudu nyanghareupan balukarna.",
+        "peribahasa": "Katempuhan buntut maung"
+    },
+    {
+        "idperibahasa": 250,
+        "makna": " Loba anu embung sabab ngagedekeun jeung ngagugulukeun panyerewedan.",
+        "peribahasa": "Katumbukan catur kadatangan carita"
+    },
+    {
+        "idperibahasa": 251,
+        "makna": " Mere parentah ka batur teu kalawan sabar, malah bari ambek ambekan sagala.",
+        "peribahasa": "Kawas anjing kadempet lincar"
+    },
+    {
+        "idperibahasa": 252,
+        "makna": "teu daek cicing",
+        "peribahasa": "Kawas anjing tutung buntut"
+    },
+    {
+        "idperibahasa": 253,
+        "makna": "jempe/ ngeheruk teu ngomong.",
+        "peribahasa": "Kawas beueuk beunang mabuk"
+    },
+    {
+        "idperibahasa": 254,
+        "makna": "beungeutna beureum awahing ambek",
+        "peribahasa": "Kawas beusi atah beuleum"
+    },
+    {
+        "idperibahasa": 255,
+        "makna": " Teu ngupama, teu ngajenan, teu ngahargaan pisan.",
+        "peribahasa": "Kawas budak rodek hulu"
+    },
+    {
+        "idperibahasa": 256,
+        "makna": "ngeluk taya tangan pangawasa atawa jempe teu nyarita",
+        "peribahasa": "Kawas bueuk meunang mabuk"
+    },
+    {
+        "idperibahasa": 257,
+        "makna": "taya tapakna",
+        "peribahasa": "Kawas cai dina daun taleus"
+    },
+    {
+        "idperibahasa": 258,
+        "makna": "goreng patut pisan, kulimis",
+        "peribahasa": "Kawas cucurut kaibuan"
+    },
+    {
+        "idperibahasa": 259,
+        "makna": "jempe, teu ngomong.",
+        "peribahasa": "Kawas Gaang Katincak"
+    },
+    {
+        "idperibahasa": 260,
+        "makna": " cilingcingcat bae, teu bisa cicing.",
+        "peribahasa": "Kawas hayam keur endogan"
+    },
+    {
+        "idperibahasa": 261,
+        "makna": "Tacan nyaho di kaler kidul, kawantu anyar keneh aya di eta tempat.",
+        "peribahasa": "Kawas hayam panyambungan "
+    },
+    {
+        "idperibahasa": 262,
+        "makna": "teu daek icing",
+        "peribahasa": "Kawas jeler kasaatan"
+    },
+    {
+        "idperibahasa": 263,
+        "makna": "teu daek repeh",
+        "peribahasa": "Kawas Jogjog mondok"
+    },
+    {
+        "idperibahasa": 264,
+        "makna": "ngahina, kawas ka jelema nu bodo atawa kawas ka budak nu bolon keneh",
+        "peribahasa": "Kawas ka budak rodek hulu"
+    },
+    {
+        "idperibahasa": 265,
+        "makna": "Ngomongna tarik tur gancang, biasana ngeunaan ka awewe nu keur ngambek bari nyarekan.",
+        "peribahasa": "Kawas kacang ninggang kajang "
+    },
+    {
+        "idperibahasa": 266,
+        "makna": "leuleus taya tangan pangawasa",
+        "peribahasa": "Kawas kapuk kaibunan"
+    },
+    {
+        "idperibahasa": 267,
+        "makna": "goreng patut pisan",
+        "peribahasa": "Kawas kedok bakal"
+    },
+    {
+        "idperibahasa": 268,
+        "makna": " Bingung ku kamerdekaan, terus sakama-kama nganteur kahayang, ngalajur napsu, kulantaran euweuh anu ngageuing atawa euweuh nu nyengker.",
+        "peribahasa": "Kawas kuda leupas ti gedogan"
+    },
+    {
+        "idperibahasa": 269,
+        "makna": " gampang meunangna jeung asup kana hiji pagawean, tapi hese kaluarna jeung negcagkeunana eta pagawean (masalah).",
+        "peribahasa": "Kawas lauk asup kana bubu"
+    },
+    {
+        "idperibahasa": 270,
+        "makna": "uyup-ayap teu daek cicing",
+        "peribahasa": "Kawas leungeun palid"
+    },
+    {
+        "idperibahasa": 271,
+        "makna": "beuki kana cengek",
+        "peribahasa": "Kawas merak"
+    },
+    {
+        "idperibahasa": 272,
+        "makna": "kacida didama-dama jeung dipusti-pustina",
+        "peribahasa": "Kawas nanggeuy endog beubeureumna"
+    },
+    {
+        "idperibahasa": 273,
+        "makna": "leuleus taya tangan pangawasa",
+        "peribahasa": "Kawas nu dipupul bayu"
+    },
+    {
+        "idperibahasa": 274,
+        "makna": " Sok nu lain lain, jeung hese ngayakeunana nu dipikayang ku jelema nu tereh ajal, kahayangna sabisabisa kudu dicumponan bae, sanajan matak ngarepotkeun ka ahlina/ kulawargana.",
+        "peribahasa": "Kawas nu mulangkeun panyiraman"
+    },
+    {
+        "idperibahasa": 275,
+        "makna": "sangsara pisan",
+        "peribahasa": "Kawas nyoso malarat rosa"
+    },
+    {
+        "idperibahasa": 276,
+        "makna": "Pabaliut ku tina lobana, ngeunaan ka jelema.",
+        "peribahasa": "Kawas siraru jadi "
+    },
+    {
+        "idperibahasa": 277,
+        "makna": " Ngeunaan jelema nu goreng rupana.",
+        "peribahasa": "Kawas wayang pangsisina"
+    },
+    {
+        "idperibahasa": 278,
+        "makna": "Sapagodos jeung maksud urang, atuh teu talangke deui harita keneh dilaksanakeun.",
+        "peribahasa": "Kejo asak angeun datang "
+    },
+    {
+        "idperibahasa": 279,
+        "makna": "gancang nyokot kaputusan teu dipikir heula",
+        "peribahasa": "Kejot borosot"
+    },
+    {
+        "idperibahasa": 280,
+        "makna": "deukeut, tapi jalanna taya nu leumpang",
+        "peribahasa": "Kelek jalan"
+    },
+    {
+        "idperibahasa": 281,
+        "makna": "Budak keur meujeuhna resep ulin diburuan.",
+        "peribahasa": "Kembang Buruan"
+    },
+    {
+        "idperibahasa": 282,
+        "makna": "Laleutik keneh pisan keur meujeuhna bareuki dahar.",
+        "peribahasa": "Keur meujeuhna bilatung dulang "
+    },
+    {
+        "idperibahasa": 283,
+        "makna": " Keur meujeuhna loba pakaya jeung loba rejeki.",
+        "peribahasa": "Keur meujeuhna hejo lembok rambay carita"
+    },
+    {
+        "idperibahasa": 284,
+        "makna": " keur sue,atawa tiis badan, lamun guna tani ku hama, lamun dagang terusterusan rugi bae.",
+        "peribahasa": "Keur nuju bentang surem"
+    },
+    {
+        "idperibahasa": 285,
+        "makna": " Pohara lungguhna.",
+        "peribahasa": "Kiceupna sabedug sakali"
+    },
+    {
+        "idperibahasa": 286,
+        "makna": " Lamun anu di luhruna teu balageur jeung teu balener, tangtu nu dihandapna oge milu teu bener milu teu bageur.",
+        "peribahasa": "Kiruh ti girang kiruh ka hilir"
+    },
+    {
+        "idperibahasa": 287,
+        "makna": "budak pipileun ngomong kana urusan kolot",
+        "peribahasa": "Kokolot Begog"
+    },
+    {
+        "idperibahasa": 288,
+        "makna": "makmak-mekmek",
+        "peribahasa": "Kokoro manggih mulud"
+    },
+    {
+        "idperibahasa": 289,
+        "makna": " Anu saumur -umur miskin tuluy dina hiji waktu pinanggih jeung kamulyaan atawa rejeki anu gede, sasarina sok kacemekanana nepi ka siga mangpang meungpeung.",
+        "peribahasa": "Kokoro manggih mulud puasa manggih lebaran"
+    },
+    {
+        "idperibahasa": 290,
+        "makna": "Kacida miskina.",
+        "peribahasa": "Kokoro nyoso, malarat rosa, lebaran teu meuncit hayam "
+    },
+    {
+        "idperibahasa": 291,
+        "makna": "kolot tapi teu loba kanyaho",
+        "peribahasa": "Kolot dina beuheung munding"
+    },
+    {
+        "idperibahasa": 292,
+        "makna": "Pipilueun kana hiji kalakuan kulantaran kabawakeun ku batur, henteu kalawan kahayang sorangan, nepi ka goreng katenjona.",
+        "peribahasa": "Kotok bongkok kumorolong, kacingcalang kumarantang"
+    },
+    {
+        "idperibahasa": 293,
+        "makna": " Kudu bisa mawa awak.",
+        "peribahasa": "Kudu bisa kabulu kabale"
+    },
+    {
+        "idperibahasa": 294,
+        "makna": "Kudu bisa ngatur rezeki najan saeutik tapi mahi.",
+        "peribahasa": "Kudu bisa ngeureut neundeun"
+    },
+    {
+        "idperibahasa": 295,
+        "makna": "Kudu bisa nyaluyukeun maneh jeung lingkungan anu anyar dicicingan.",
+        "peribahasa": "Kudu bisa pindah cai pindah tampian "
+    },
+    {
+        "idperibahasa": 296,
+        "makna": " Ulah sabongbrong teuing, kudu aya pikir rangkepan, kudu aya rasa curiga.",
+        "peribahasa": "Kudu boga pikir kadua leutik"
+    },
+    {
+        "idperibahasa": 297,
+        "makna": " Hade basa jeung hade tingkah lacuna.",
+        "peribahasa": "Kudu hade gogod hade tagog"
+    },
+    {
+        "idperibahasa": 298,
+        "makna": " Kudu direncanakan kalawan asak.",
+        "peribahasa": "Kudu nepi memeh indit"
+    },
+    {
+        "idperibahasa": 299,
+        "makna": "Hiji pagawean anu ngandung dua rupa maksud.",
+        "peribahasa": "Kujang dua pangadekna "
+    },
+    {
+        "idperibahasa": 300,
+        "makna": "milik nu tos ditangtukeun ku Gusti Allah SWT",
+        "peribahasa": "Kulak canggeum"
+    },
+    {
+        "idperibahasa": 301,
+        "makna": " Milik hade atawa goreng anu geus ditangtukeun ti ajalina keneh ku Gusti Nu Maha Suci.",
+        "peribahasa": "Kulak canggeum bagja awak"
+    },
+    {
+        "idperibahasa": 302,
+        "makna": " Kumaha engke bae buktina, kumaha behna.",
+        "peribahasa": "Kumaha bule hideungna bae"
+    },
+    {
+        "idperibahasa": 303,
+        "makna": "kumaha behna",
+        "peribahasa": "Kumaha geletuk batuna, kecebur caina"
+    },
+    {
+        "idperibahasa": 304,
+        "makna": " kumaha jadina bae, henteu jadi pikiran.",
+        "peribahasa": "Kumaha kejebur caina geletuk batuna"
+    },
+    {
+        "idperibahasa": 305,
+        "makna": " Ramana geus teu jeneng deui, di putrana awal ahir aya nu jeneng cara ramana.",
+        "peribahasa": "Kunang kunang nerus bumi"
+    },
+    {
+        "idperibahasa": 306,
+        "makna": "Daek tirakat, ngadoakeun budak sangkan sangkan junun.",
+        "peribahasa": "Kuru cileuh kentel peujit"
+    },
+    {
+        "idperibahasa": 307,
+        "makna": "Tara liar ti imah, tepika teu nyaho nanaon.",
+        "peribahasa": "Kurung Batok"
+    },
+    {
+        "idperibahasa": 308,
+        "makna": "tara daek repeh, resepna barangpenta , kabitaan",
+        "peribahasa": "Laer gado"
+    },
+    {
+        "idperibahasa": 309,
+        "makna": " arek cilaka mah ku kasalahan anu leutik oge bisa, teu kudu ku kasalahan anu gede bae.",
+        "peribahasa": "Lain ku tulang munding kabeureuyan mah, ku cucuk peda"
+    },
+    {
+        "idperibahasa": 310,
+        "makna": "Indit ti imah kalawan ngandung maksud anu tangtu, lain lapmah sakaparan paran henteu puguh anu dijugjug.",
+        "peribahasa": "Lain lantung tambuh laku, lain lentang tanpa beja lain leumpang maladra"
+    },
+    {
+        "idperibahasa": 311,
+        "makna": "gagah perkasa",
+        "peribahasa": "Lalaki langit, lalanang jagat"
+    },
+    {
+        "idperibahasa": 312,
+        "makna": "Lamun digawe enya-enya tangtu bakal aya hasilna.",
+        "peribahasa": "Lamun keyeng tangtu pareng"
+    },
+    {
+        "idperibahasa": 313,
+        "makna": " Gede timbanganana, gede pangampurana.",
+        "peribahasa": "Landung kandungan laer aisan"
+    },
+    {
+        "idperibahasa": 314,
+        "makna": "Pipilueun kana hiji kalakuan ku lantaran kabawakeun ku batur.",
+        "peribahasa": "Lauk buruk milu mijah"
+    },
+    {
+        "idperibahasa": 315,
+        "makna": " pipilueun kana hiji kalakuan ku lantaran kabawakeun ku batur, henteu kalawan kahayang sorangan, nepi ka goreng katenjona.",
+        "peribahasa": "Lauk buruk milu mijah , piritan milu endogan"
+    },
+    {
+        "idperibahasa": 316,
+        "makna": " Loba luangna pangalamanana jeung kanyahona.",
+        "peribahasa": "Legok tapak genteng kadek"
+    },
+    {
+        "idperibahasa": 317,
+        "makna": "Geus teu boga nanaon.",
+        "peribahasa": "Lesang Kuras"
+    },
+    {
+        "idperibahasa": 318,
+        "makna": "Keur meujeuhna loba rejeki, loba pakaya.",
+        "peribahasa": "Leubeut buah hejo daun "
+    },
+    {
+        "idperibahasa": 319,
+        "makna": "Resep barang gawe. Daekan",
+        "peribahasa": "Leuleus Awak"
+    },
+    {
+        "idperibahasa": 320,
+        "makna": " pohara adilna, dina mutus hiji perkara tara beurat sabeulah, jeung loba pertimbanganana.",
+        "peribahasa": "Leuleus jeujeur liat tali"
+    },
+    {
+        "idperibahasa": 321,
+        "makna": "Teu kuat nenjo nu pikasieuneun/ pikareuwaseun.",
+        "peribahasa": "Leumpeuh Yuni"
+    },
+    {
+        "idperibahasa": 322,
+        "makna": "Teu lutreuk dina ngajalankeun hiji pagawean.",
+        "peribahasa": "Leunggeuh cau beuleum "
+    },
+    {
+        "idperibahasa": 323,
+        "makna": "Kurang kawani, sieunan, borangan.",
+        "peribahasa": "Leutik Burih"
+    },
+    {
+        "idperibahasa": 324,
+        "makna": "Ari panghasilan saeutik tapi ari pangaluaran mah gede.",
+        "peribahasa": "Leutik cahak, gede cohok "
+    },
+    {
+        "idperibahasa": 325,
+        "makna": " Sanajan leutik awakna henteu jangkung tur gede, tapi leber ku wawanen.",
+        "peribahasa": "Leutik leutik ngagalatik"
+    },
+    {
+        "idperibahasa": 326,
+        "makna": " Jelema mah teu beunang disapirakeun sabab sanajan leutik warugana, dina aya papaitna atawa bobor karahayuan mah bisa jadi kasusah sarerea.",
+        "peribahasa": "Leutik ringkang gede bugang"
+    },
+    {
+        "idperibahasa": 327,
+        "makna": "Hade gorengna pikiran jelema hese dikira kirana.",
+        "peribahasa": "Leuwi jero beunang diteuleuman, hate jelema najan deet teu kakobet "
+    },
+    {
+        "idperibahasa": 328,
+        "makna": " Teuing ku miskin nepi ka teu boga naon naon.",
+        "peribahasa": "Lieuk euweuh ragap taya"
+    },
+    {
+        "idperibahasa": 329,
+        "makna": "loba pangaweruhna",
+        "peribahasa": "Loba luang jeung daluang"
+    },
+    {
+        "idperibahasa": 330,
+        "makna": " loba teuing anu pinter nu ngatur jeung mapatahan, balukarna matak bingung nu dipapatahan.",
+        "peribahasa": "Loba teuing jaksa"
+    },
+    {
+        "idperibahasa": 331,
+        "makna": " Kalah ka loba omong bae, ari pangartina mah euweuh.",
+        "peribahasa": "Lodong kosong ngelentrung"
+    },
+    {
+        "idperibahasa": 332,
+        "makna": "Jalma anu loba omong elmuna saeutik.",
+        "peribahasa": "Lodong kosong sok ngalentrung"
+    },
+    {
+        "idperibahasa": 333,
+        "makna": "Gagah tur beunghar taya kakurang.",
+        "peribahasa": "Luhur kuta gede dunya "
+    },
+    {
+        "idperibahasa": 334,
+        "makna": "Teu beunang dicekelan omonganana, ayeuna kieu engke mah kitu.",
+        "peribahasa": "Luncat mulang "
+    },
+    {
+        "idperibahasa": 335,
+        "makna": "Katenjona lungguh/ cicingeun padahal saenyana henteu.",
+        "peribahasa": "Lungguh Tutut"
+    },
+    {
+        "idperibahasa": 336,
+        "makna": "migawe nu moal hasil",
+        "peribahasa": "Malengpeng pakel ku munding"
+    },
+    {
+        "idperibahasa": 337,
+        "makna": "Ngajalankeun (mikarep) hiji perkara anu taya pihasileunana.",
+        "peribahasa": "Malengpeng pakel ku munding, ngajul bulan ku asiwung "
+    },
+    {
+        "idperibahasa": 338,
+        "makna": " Henteu adil, pilih kasih.",
+        "peribahasa": "Maliding sanak"
+    },
+    {
+        "idperibahasa": 339,
+        "makna": " Nitah mulang ka lemburna, atawa nitah pindah ka tempat bali geusan ngajadi.",
+        "peribahasa": "Mangpengkeun kuya ka leuwi"
+    },
+    {
+        "idperibahasa": 340,
+        "makna": "ngabejaan kanu pinter",
+        "peribahasa": "Mapatahan Ngojay"
+    },
+    {
+        "idperibahasa": 341,
+        "makna": "Mamawa ka kolot atawa ka guru, turtaning kolot atawa guru mah teu nyaho naon naon jeung euweuh patalina saeutik eutik acan.",
+        "peribahasa": "Mapay ka puhu leungeun "
+    },
+    {
+        "idperibahasa": 342,
+        "makna": " Marebutkeun hiji perkara anu teu aya hasilna atawa mangpaatna.",
+        "peribahasa": "Marebutkeun paisan kosong"
+    },
+    {
+        "idperibahasa": 343,
+        "makna": " Keur ngora senang, tapi ari ka kolotnakeun susah.",
+        "peribahasa": "Maut nyere ka congona"
+    },
+    {
+        "idperibahasa": 344,
+        "makna": " Ari keur ngora keneh bageur tapi kakolotnakeun jadi teu bageur.",
+        "peribahasa": "Melengkung bekas inhalan"
+    },
+    {
+        "idperibahasa": 345,
+        "makna": " Mere naon naon anu bisa jadi aya pisusaheunana atawa pibahlaeunana.",
+        "peribahasa": "Mere langgir kalieun"
+    },
+    {
+        "idperibahasa": 346,
+        "makna": " kalawan teu disangka sangka meunang milik, darajat atawa kauntungan anu leuwih gede.",
+        "peribahasa": "Meuli teri meunang japuh, nyair hurang meunang kancra"
+    },
+    {
+        "idperibahasa": 347,
+        "makna": "Nyaho yen batur teh salah atawa migawe anu dilarang ku Nagara, tapi teu kitu kieu kalahka api api teu nyaho.",
+        "peribahasa": "Meungpeun carang ku ayakan "
+    },
+    {
+        "idperibahasa": 348,
+        "makna": "Embung pisan tutulung ka batur nu keur susah atawa loba kabutuh.",
+        "peribahasa": "Meungpeung teugeu harianeun "
+    },
+    {
+        "idperibahasa": 349,
+        "makna": " Miceun nu goreng kulantaran hayang meunang anu alus, tapi tungtungna meunang nu goreng deui bae.",
+        "peribahasa": "Miceun batok meunang coet"
+    },
+    {
+        "idperibahasa": 350,
+        "makna": " ari hate goreng, ngan budi parangi marahmay, perluna pikeun mindingan hate nu goreng tea maksudna supaya ulah kaciri tea.",
+        "peribahasa": "Mindingan beungeut ku saweuy"
+    },
+    {
+        "idperibahasa": 351,
+        "makna": "Lamun rek barangcokot atawa barangala kudu bebeja heula kanu bogana.",
+        "peribahasa": "Mipit kudu amit ngala kudu menta"
+    },
+    {
+        "idperibahasa": 352,
+        "makna": "cocorokot kana barang batur",
+        "peribahasa": "Mipit teu amit, ngala teu menta"
+    },
+    {
+        "idperibahasa": 353,
+        "makna": "tai ka hulu-hulu na, bodo pisan",
+        "peribahasa": "Miyuni (cara) hurang"
+    },
+    {
+        "idperibahasa": 354,
+        "makna": "Leutik burih babari sumerah eleh atawa lalaki nu babari sumerah ka awewe.",
+        "peribahasa": "Miyuni hayam kabiri"
+    },
+    {
+        "idperibahasa": 355,
+        "makna": "loba nu mikarese",
+        "peribahasa": "Miyuni kembang"
+    },
+    {
+        "idperibahasa": 356,
+        "makna": "nasibna diteunggeulan wae ku batur",
+        "peribahasa": "Miyuni kohkol"
+    },
+    {
+        "idperibahasa": 357,
+        "makna": "loba nu mikangewa",
+        "peribahasa": "Miyuni tai"
+    },
+    {
+        "idperibahasa": 358,
+        "makna": " Keun bae mawa wadah anu gede oge da lain hayang loba diberena.",
+        "peribahasa": "Moal ceurik menta eusi"
+    },
+    {
+        "idperibahasa": 359,
+        "makna": " arek nyekel jelema nu aya bae, moal neangan jelema nu euweuh.",
+        "peribahasa": "Moal neangan jurig teu kadeuleu"
+    },
+    {
+        "idperibahasa": 360,
+        "makna": " Aya lantaran pikeun ngalaksanakeun kahayang anu henteu gampang pihasileun.",
+        "peribahasa": "Mobok manggih gorowong"
+    },
+    {
+        "idperibahasa": 361,
+        "makna": "nu rek jahat dibere parabot",
+        "peribahasa": "Monyet dibere sesengked"
+    },
+    {
+        "idperibahasa": 362,
+        "makna": " Tukang maling kapalingan, tukang tipu katipu, tukang ngarah nagrinah karoroncodan.",
+        "peribahasa": "Monyet kapalingan jagong"
+    },
+    {
+        "idperibahasa": 363,
+        "makna": "boga elmu teu nyaho maksudna",
+        "peribahasa": "Monyet ngagugulung kalapa"
+    },
+    {
+        "idperibahasa": 364,
+        "makna": "ngarasa hoream memeh digawe",
+        "peribahasa": "Mopo memeh nanggung"
+    },
+    {
+        "idperibahasa": 365,
+        "makna": "Pagawean anu geus puguh ditinggalkeun ari nu can puguh diudag-udag.",
+        "peribahasa": "Moro julang ngaleupaskeun peusing"
+    },
+    {
+        "idperibahasa": 366,
+        "makna": " mun teu usaha moal pinanggih jeung rejeki pibekeleun hirup.",
+        "peribahasa": "Mun teu ngakal moal ngakeul"
+    },
+    {
+        "idperibahasa": 367,
+        "makna": " Lamun teu digawe niar kipayah tangtu pisusaheun pikeun hirup.",
+        "peribahasa": "Mun teu ngoprek, moal nyapek"
+    },
+    {
+        "idperibahasa": 368,
+        "makna": " Mulang ka lemburna sabada mang taun taun aya di pangumbaraan/ panyabaan.",
+        "peribahasa": "Muncang labuh ka puhu, kebo mulih pakandangan"
+    },
+    {
+        "idperibahasa": 369,
+        "makna": " Ngetrukeun pangaboga dina waktuna nyunatan atawa ngawinkeun anak anu kacida dipikameumeutna.",
+        "peribahasa": "Mupugkeun tai kanjut"
+    },
+    {
+        "idperibahasa": 370,
+        "makna": "teu betah cicing di imah, Resep indit-inditan.",
+        "peribahasa": "Murag bulu bitis"
+    },
+    {
+        "idperibahasa": 371,
+        "makna": " dina pangabutuh silih injeuman duit.",
+        "peribahasa": "Naheun bubu pahareup hareup"
+    },
+    {
+        "idperibahasa": 372,
+        "makna": " mawa cilaka ka jelema anu dipentaan tulung jeung geus nulungan ka urang.",
+        "peribahasa": "Nangkeup mawa eunyeuh"
+    },
+    {
+        "idperibahasa": 373,
+        "makna": " Ngariung rarageman ngabadamikeun hiji perkara.",
+        "peribahasa": "Nangtung kariung ngadeg karageman"
+    },
+    {
+        "idperibahasa": 374,
+        "makna": " Ngomongkeun jeung ngagogoreng batur, supaya batur teh ragrag ngarana jeung kawentar kagorenganana.",
+        "peribahasa": "Nepak cai malar ceret"
+    },
+    {
+        "idperibahasa": 375,
+        "makna": " Puguh urang nu goreng tapi kagorengan urang teh ditamplokeun ka batur sangkan urang sorangan salamet.",
+        "peribahasa": "Nepakeun jurig pateuh"
+    },
+    {
+        "idperibahasa": 376,
+        "makna": " Cukup ari ihtiar mah kalawan mangrupa rupa akal tarekah tapi teu hasil bae.",
+        "peribahasa": "Nete porot ngeumbing lesot"
+    },
+    {
+        "idperibahasa": 377,
+        "makna": " Ninggang dina salah jeung rugi bae, turug turug kasusah nambahan deuih.",
+        "peribahasa": "Nete semplek nincak semplak"
+    },
+    {
+        "idperibahasa": 378,
+        "makna": "Migawe satahap-satahap, henteu rusuh hayang anggeus sakaligus.",
+        "peribahasa": "Nete taraje nincak hambalan"
+    },
+    {
+        "idperibahasa": 379,
+        "makna": "Ngadakwakeun nu lian, tapi nu ngadakwakeunana meula susah, sabab milu katarik kana perkara, milu adu hareupan jeung hakim.",
+        "peribahasa": "Neukteuk curuk dina pingping "
+    },
+    {
+        "idperibahasa": 380,
+        "makna": "Heuras hatena teu sabar dina nyanghareupan rupa rupa kasusahan jeung babari luluasan.",
+        "peribahasa": "Neukteuk mani anggeus, rokrok pondokeun peunggas harupateun "
+    },
+    {
+        "idperibahasa": 381,
+        "makna": "ngajak goreng",
+        "peribahasa": "Neundeun piheuleut"
+    },
+    {
+        "idperibahasa": 382,
+        "makna": " Neangan pilantaraneun supaya jadi goreng supaya temahna papisahan teu ngahiji deui.",
+        "peribahasa": "Neundeun piheuleut nunda picela"
+    },
+    {
+        "idperibahasa": 383,
+        "makna": " Ngabejaan jalma nu geus nyahoeun.",
+        "peribahasa": "Ngabejaan bulu tuur"
+    },
+    {
+        "idperibahasa": 384,
+        "makna": "nembongkeun wiwirang sorangan",
+        "peribahasa": "Ngaboretekeun liang tai di pasar"
+    },
+    {
+        "idperibahasa": 385,
+        "makna": " teu wani nembongkeun atawa ngedalkeun kahayang atawa kadeudeuh.",
+        "peribahasa": "Ngabudi ucing"
+    },
+    {
+        "idperibahasa": 386,
+        "makna": "Teu puguh tungtungna, teu tep ka rengse.",
+        "peribahasa": "Ngabuntut Bangkong"
+    },
+    {
+        "idperibahasa": 387,
+        "makna": " Ngadagoan pasesaan kadaharan (Hal ieu ngan wungkul tukang babantu di imah batur bae, anu saenyana mah ayana tukang babantu teh henteu perlu).",
+        "peribahasa": "Ngadagoan kuah beukah"
+    },
+    {
+        "idperibahasa": 388,
+        "makna": " Ngadagoan jeung mikahayang kana rejeki tapi sungkan ihtiar pikeun ngadatangkeun eta rejeki.",
+        "peribahasa": "Ngadagoan uncal mabal"
+    },
+    {
+        "idperibahasa": 389,
+        "makna": "jadi rame",
+        "peribahasa": "Ngadaun Ngora"
+    },
+    {
+        "idperibahasa": 390,
+        "makna": " pohara nineungna kana jaman nu geus kasorang nepi ka matak waas pacampur jeung sedih.",
+        "peribahasa": "Ngadaweung ngabangbang areuy"
+    },
+    {
+        "idperibahasa": 391,
+        "makna": "Sahinasna boh ucap boh paripolah, henteu bohong atawa ngaleuleuwihkeun.",
+        "peribahasa": "Ngadek sacekna nilas saplasna"
+    },
+    {
+        "idperibahasa": 392,
+        "makna": "api-api ngaliwat hayang diaku , ngareup-ngareup pamere",
+        "peribahasa": "Ngadeupaan lincar"
+    },
+    {
+        "idperibahasa": 393,
+        "makna": "paalus alus",
+        "peribahasa": "Ngadu Geulis"
+    },
+    {
+        "idperibahasa": 394,
+        "makna": " mawakeun omongan si a ka si b jeung sabalikna, temahna si a jeung si b pasea, parerea omong.",
+        "peribahasa": "Ngadu ngadu rajawisuna"
+    },
+    {
+        "idperibahasa": 395,
+        "makna": " loba ari titaheun mah boh anak boh bujang ngan hanjakal ku hese nitah, euweuh nu daekeun ari dititah teh.",
+        "peribahasa": "Ngagandong kejo susah nyatu"
+    },
+    {
+        "idperibahasa": 396,
+        "makna": " Nanyakeun hiji perkara ka batur anu urang tacan nyaho, tapi embung kanyahoan yen urang tacan nyaho, kulantaran kitu api api geus nyaho bae.",
+        "peribahasa": "Ngagedag bari mulungan"
+    },
+    {
+        "idperibahasa": 397,
+        "makna": "ngahudang piambekeun batur",
+        "peribahasa": "Ngageuingkeun macan turu"
+    },
+    {
+        "idperibahasa": 398,
+        "makna": "pagawean nu moal kahontal hasilna",
+        "peribahasa": "Ngajul bentang ku asiwung"
+    },
+    {
+        "idperibahasa": 399,
+        "makna": " usaha anu mubadir, moal ngadatangkeun hasil (asiwung, kapas nu geus diberesihan sikina, biasana dipake keur mayit nutupan liang-liangan).",
+        "peribahasa": "Ngajul bulan ku asiwung, mesek kalapa ku jara"
+    },
+    {
+        "idperibahasa": 400,
+        "makna": "Ngabeja-beja/ nyebarkeun kagorengan batur.",
+        "peribahasa": "Ngaliarkeun taleus ateul"
+    },
+    {
+        "idperibahasa": 401,
+        "makna": "nitah balik ka lemburna",
+        "peribahasa": "Ngalungkeun kuya ka leuwi"
+    },
+    {
+        "idperibahasa": 402,
+        "makna": " Ngarep-ngarep nu pamohalan bakal kasorang atawa kajadian.",
+        "peribahasa": "Ngarep ngarep bentang ragrag"
+    },
+    {
+        "idperibahasa": 403,
+        "makna": "ngarep-ngarep rejeki bari teu usaha",
+        "peribahasa": "Ngarep-ngarep kalangkang heulang"
+    },
+    {
+        "idperibahasa": 404,
+        "makna": " ngaraeh jeung darehdeh ka deungeun, sabab hayang kapuji, tapi teu nolih jeung nyapirakeun ka dulur atawa ka baraya sorangan.",
+        "peribahasa": "Ngawur kasintu, nyieuhkeun hayam"
+    },
+    {
+        "idperibahasa": 405,
+        "makna": " Lamun nyokot hiji hal kudu saidin anu boga.",
+        "peribahasa": "Ngeduk cikur kedah mihatur nyokel jahe kedah micarek"
+    },
+    {
+        "idperibahasa": 406,
+        "makna": "Teu menang hasil.",
+        "peribahasa": "Ngegel Curuk"
+    },
+    {
+        "idperibahasa": 407,
+        "makna": "Teu boga kawani, sieunan, elehan.",
+        "peribahasa": "Ngeplek Jawer"
+    },
+    {
+        "idperibahasa": 408,
+        "makna": "Leutik burih, borangan, sieunan, kecing.",
+        "peribahasa": "Ngeplek jawer, ngandar jangjang, miyuni hayam kabiri "
+    },
+    {
+        "idperibahasa": 409,
+        "makna": " Lungas lengis mikawelas mikaasih ka diri sorangan, supaya batur welaseun jeung nulungan ka urang.",
+        "peribahasa": "Ngeupeul ngahuapan maneh"
+    },
+    {
+        "idperibahasa": 410,
+        "makna": "Henteu satia.",
+        "peribahasa": "Ngijig Sila"
+    },
+    {
+        "idperibahasa": 411,
+        "makna": "Nyaluyukeun maneh jeung kaayaan jaman.",
+        "peribahasa": "Ngindung ka waktu ngabapa ka jaman"
+    },
+    {
+        "idperibahasa": 412,
+        "makna": " goreng hate, teu satia ka anu jadi pamingpin atawa dunungan.",
+        "peribahasa": "Nginjing sila, bengkok sembah"
+    },
+    {
+        "idperibahasa": 413,
+        "makna": " sanajan tihothat oge moal atawa henteu beubeunangan.",
+        "peribahasa": "Ngodok liang buntu hese cape taya gawe, susah payah taya guna"
+    },
+    {
+        "idperibahasa": 414,
+        "makna": " Teu hasil enggoning nyiar rejeki, kaditu kadieu luput bae.",
+        "peribahasa": "Ngodok liang jero"
+    },
+    {
+        "idperibahasa": 415,
+        "makna": " Ngaluarkeun duit pikeun kaperluan hirup, pakan, pake jste disaluyukeun jeung pangala.",
+        "peribahasa": "Ngukur ka kujur nimbang ka awak"
+    },
+    {
+        "idperibahasa": 416,
+        "makna": " Ngukut bujang anu tadina pohara balangsakna, susak dahar susah make, tapi ari geus mulya awak lintuh jeung pake hade, ngalawan ka anu jadi dunungan.",
+        "peribahasa": "Ngukut kuda kuru ari geus gede sok nyepak"
+    },
+    {
+        "idperibahasa": 417,
+        "makna": " bari indit kulantaran ambek nyedek atawa era paraa, leos bae indit, teu amit heula ka anu araya didinya.",
+        "peribahasa": "Ngusap birit"
+    },
+    {
+        "idperibahasa": 418,
+        "makna": " Nambahan luang atawa pangarti waktu keur pinanggih jeung kacilakaan atawa hukuman.",
+        "peribahasa": "Nimu luang tinu burang"
+    },
+    {
+        "idperibahasa": 419,
+        "makna": " Ngadunungan ka duaan atawa boga dua pausahaan.",
+        "peribahasa": "Nincak parahu dua"
+    },
+    {
+        "idperibahasa": 420,
+        "makna": "nya goreng rupa, nya goreng lampah",
+        "peribahasa": "Ninggang kana kekecrek"
+    },
+    {
+        "idperibahasa": 421,
+        "makna": " Keur mah goreng rupana, goreng laku lampahna deuih.",
+        "peribahasa": "Ninggang kana kekecrekna"
+    },
+    {
+        "idperibahasa": 422,
+        "makna": " Ngamahalkeun barang naon bae anu geus ruksak.",
+        "peribahasa": "Nini nini dikeningan, awewe randa dihiasan"
+    },
+    {
+        "idperibahasa": 423,
+        "makna": " Leutik hate, leutik pangharepan.",
+        "peribahasa": "Noong ka kolong"
+    },
+    {
+        "idperibahasa": 424,
+        "makna": "kahadean dibales ku kagorengan",
+        "peribahasa": "Nu asih dipulang sangit"
+    },
+    {
+        "idperibahasa": 425,
+        "makna": " nu hade jeung loba jasana ka diri urang, dinyenyeri ku urang, ku omongan atawa ku kalakuan anu goreng.",
+        "peribahasa": "Nu asih dipulang sengit, nu haat dipulang moha"
+    },
+    {
+        "idperibahasa": 426,
+        "makna": " nu keur susah ditambah kasusahanana, nu keur nyeri ditambah kanyerina.",
+        "peribahasa": "Nu borok dirorojok nu titeuleum disimbeuhan"
+    },
+    {
+        "idperibahasa": 427,
+        "makna": "ngahaminan omongan atawa carita batur, sanajan ceuk hate sorangan eta omongan atawa carita teh salah.",
+        "peribahasa": "Nu burung diangklungan, nu edan dikendangan "
+    },
+    {
+        "idperibahasa": 428,
+        "makna": " Nu tani jeung nu dagang sarua ripuhna, euweuh nu mulya.",
+        "peribahasa": "Nu tani kari daki, nu dagang kari hutang"
+    },
+    {
+        "idperibahasa": 429,
+        "makna": " Ngeunaan ka jelema anu keur alus milik.",
+        "peribahasa": "Nuju hirup ninggang wirahma"
+    },
+    {
+        "idperibahasa": 430,
+        "makna": "ngarasa luhur diri",
+        "peribahasa": "Nulak cangkeng dina kelek"
+    },
+    {
+        "idperibahasa": 431,
+        "makna": " nulungan jelema nu teu boga pisan rasa tumarima.",
+        "peribahasa": "Nulungan anjing kadempet"
+    },
+    {
+        "idperibahasa": 432,
+        "makna": " Leumpang sakaparan-paran, ku sabab henteu puguh tujuan.",
+        "peribahasa": "Nuturkeun indung suku"
+    },
+    {
+        "idperibahasa": 433,
+        "makna": " Di unggal jelema oge taya bedana, sarua bae, mungguhing wiwirang atawa katugenah hate mah boh di menak boh disomah sarua bae.",
+        "peribahasa": "Nya di hurang nya dikeuyeup"
+    },
+    {
+        "idperibahasa": 434,
+        "makna": " Nya nitah ka batur nya prak kumanehna.",
+        "peribahasa": "Nya ngagogog nya mantog"
+    },
+    {
+        "idperibahasa": 435,
+        "makna": " Nu nanya jeung nu ngajawab teu sapagodos, pananya jeung jawaban pasalia, henteu nyambung.",
+        "peribahasa": "Nya picung nya hulu maung"
+    },
+    {
+        "idperibahasa": 436,
+        "makna": "kabudak nyaah ngurus daharna wungkul, pendidikana teu dipirosea",
+        "peribahasa": "Nyaah Dulang"
+    },
+    {
+        "idperibahasa": 437,
+        "makna": " nambahan kauntungan atawa kakayaan ka anu geus beunghar.",
+        "peribahasa": "Nyaeuran gunung ku taneuh, sagara ku uyah"
+    },
+    {
+        "idperibahasa": 438,
+        "makna": " Sugan the rek meunang kauntungan, kamuliaan atawa bagja anu leutik manahoreng meunang kauntungan atawa bagja anu gede.",
+        "peribahasa": "Nyair hurang meunang kancra"
+    },
+    {
+        "idperibahasa": 439,
+        "makna": " Nyusahkeun, peperedih atawa pepentaan ka jelema anu sahandapeun darajatna jeung pangabogana.",
+        "peribahasa": "Nyaliksik ka buuk leutik"
+    },
+    {
+        "idperibahasa": 440,
+        "makna": " Milu hirup ka pamajikan anu loba pakayana.",
+        "peribahasa": "Nyalindung ka gelung"
+    },
+    {
+        "idperibahasa": 441,
+        "makna": "masrahkeun maneh pikeundihukum lantaran rumasa boga dosa",
+        "peribahasa": "Nyanggakeun beuheung teukteukeun tikoro gorokeun, suku genteng belokeun"
+    },
+    {
+        "idperibahasa": 442,
+        "makna": "Sumerah, masrahkeun diri rek dibeureum rek dihideung kari kumaha didinya bae, dina rumasa geus salah atawa rumasa boga dosa.",
+        "peribahasa": "Nyanggakeun suku genteng belokeun"
+    },
+    {
+        "idperibahasa": 443,
+        "makna": "ngadunungan ka jelema nu sahandapeun martabatna",
+        "peribahasa": "Nyanghulu ka jarian"
+    },
+    {
+        "idperibahasa": 444,
+        "makna": " Nyarita kudu pas, eces, ngabogaan harti.",
+        "peribahasa": "Nyaur kudu diukur nyabda kudu di unggang"
+    },
+    {
+        "idperibahasa": 445,
+        "makna": "taya wawanen",
+        "peribahasa": "Nyeplak Jawer"
+    },
+    {
+        "idperibahasa": 446,
+        "makna": " Pohara ngarep ngarepna, tapi anu diarep arep teu jol bae datang.",
+        "peribahasa": "Nyeri beuheung sosonggeteun"
+    },
+    {
+        "idperibahasa": 447,
+        "makna": " mintonkeun kakayaan, atawa barangbere supaya dipuji.",
+        "peribahasa": "Nyeungeut damar di suhunan"
+    },
+    {
+        "idperibahasa": 448,
+        "makna": " Akey akeyan nyeungseurikeun batur, dumeh buuk geus bodas huntu geus ompong, tonggong geus bengkung turtaning ieu the kahareup mah ku urang sarerea bakal kasorang.",
+        "peribahasa": "Nyeungseurikeun upih ragrag"
+    },
+    {
+        "idperibahasa": 449,
+        "makna": " Nyiar pigujrudeun, pipaseaeun.",
+        "peribahasa": "Nyiar batuk piaraheun"
+    },
+    {
+        "idperibahasa": 450,
+        "makna": " turun cadu (cacaduan), pantang ngalampahkeun hiji perkara anu dilarang ku luluhur.",
+        "peribahasa": "Nyicikeun cai, murulukeun lebu"
+    },
+    {
+        "idperibahasa": 451,
+        "makna": "sahandapeun mapatahan ka saluhureun",
+        "peribahasa": "Nyiduh ka langit"
+    },
+    {
+        "idperibahasa": 452,
+        "makna": " nganggit hiji dongeng nu teu aya galurna.",
+        "peribahasa": "Nyieun catur taya dapur"
+    },
+    {
+        "idperibahasa": 453,
+        "makna": "Henteu raket jeung dulur pahare-hare bae.",
+        "peribahasa": "Nyieun heuleur jeroeun huma "
+    },
+    {
+        "idperibahasa": 454,
+        "makna": "miheulaan nyieun pipaseaeun",
+        "peribahasa": "Nyieun pucuk ti girang"
+    },
+    {
+        "idperibahasa": 455,
+        "makna": " Lumrahna manusa teu resep reureujeungan jeung nu teu boga.",
+        "peribahasa": "Nyiruan mah teu resepeun nyeuseup nu pait"
+    },
+    {
+        "idperibahasa": 456,
+        "makna": "Pagawean nu mubadir, moal ngahasilkeun naon naon.",
+        "peribahasa": "Nyiuk cai ku ayakan "
+    },
+    {
+        "idperibahasa": 457,
+        "makna": "Omongannana hade ngan hate jeung maksudna goreng . Salakina dipisobat ari pamjikanana dibogohan atawa sabalikna.",
+        "peribahasa": "Nyium bari ngegel "
+    },
+    {
+        "idperibahasa": 458,
+        "makna": "Teu aya usaha anu ngahasilkeun.",
+        "peribahasa": "Nyokot lesot ngeumbing porot "
+    },
+    {
+        "idperibahasa": 459,
+        "makna": " nganyenyeri, ngahina atawa ngawiwirang di hareupeunana.",
+        "peribahasa": "Nyolok mata buncelik"
+    },
+    {
+        "idperibahasa": 460,
+        "makna": "bangun bageur tapi jahat",
+        "peribahasa": "Nyolong bade"
+    },
+    {
+        "idperibahasa": 461,
+        "makna": "bangun daek tapi jahat",
+        "peribahasa": "Nyolong bade"
+    },
+    {
+        "idperibahasa": 462,
+        "makna": "Ngunghak, ngalunjak.",
+        "peribahasa": "Nyoo Gado"
+    },
+    {
+        "idperibahasa": 463,
+        "makna": "Rebo pisan, babawaanana loba naker.",
+        "peribahasa": "Nyuhun nanggung ngelek ngegel "
+    },
+    {
+        "idperibahasa": 464,
+        "makna": "Menta pangampura jeung menta timbangan da geus puguh rumasa ari salah jeung dosa mah.",
+        "peribahasa": "Nyuhunkeun bobot pangayon timbang taraju "
+    },
+    {
+        "idperibahasa": 465,
+        "makna": " Kalawan taliti pisan nalungtik luluhur, imeut pisan pancakakina.",
+        "peribahasa": "Nyukcruk walungan mapay mapay wahangan"
+    },
+    {
+        "idperibahasa": 466,
+        "makna": " Beja the gancang naker nerekabna, malah sasarina mah beja anu nerekab teh leuwih hebat batan aslina.",
+        "peribahasa": "Omong harus batan goong"
+    },
+    {
+        "idperibahasa": 467,
+        "makna": "nyamperkeun pibahayaeun",
+        "peribahasa": "Oray nyampeurkeun paneunggeul"
+    },
+    {
+        "idperibahasa": 468,
+        "makna": " Hanteu tetep, henteu ajeg, gunta ganti pamadegan.",
+        "peribahasa": "Owah gingsir"
+    },
+    {
+        "idperibahasa": 469,
+        "makna": " silih anteur nepi ka aya dua tilu kalina.",
+        "peribahasa": "Paanteur-anteur julang"
+    },
+    {
+        "idperibahasa": 470,
+        "makna": "nu leutik/ miskin ngalawan nu gede/ beunghar.",
+        "peribahasa": "Pacikrak ngalawan merak"
+    },
+    {
+        "idperibahasa": 471,
+        "makna": " Sarua bae pada loba luangna, pada loba pangalamanana.",
+        "peribahasa": "Pada rubak sisi samping"
+    },
+    {
+        "idperibahasa": 472,
+        "makna": "gering ngalanglayung",
+        "peribahasa": "Paeh teu hos, hirup teu neut"
+    },
+    {
+        "idperibahasa": 473,
+        "makna": " Paunggul unggul dina neangan pangupa jira (Paunggul unggul nyiar rejeki, teu daek silih seblokan).",
+        "peribahasa": "Pagirang girang tampian"
+    },
+    {
+        "idperibahasa": 474,
+        "makna": "Paluhur-luhur jeung batur, henteu hayang akur sauyunan.",
+        "peribahasa": "Pagiri-giri caik pagirang-girang tampian"
+    },
+    {
+        "idperibahasa": 475,
+        "makna": " Silih bantuan, silih belaan, silih tulungan.",
+        "peribahasa": "Paheuyeuk heuyeuk leungeun"
+    },
+    {
+        "idperibahasa": 476,
+        "makna": " cageur teu keuna ku panyakit naon bae.",
+        "peribahasa": "Pait daging pahang tulang"
+    },
+    {
+        "idperibahasa": 477,
+        "makna": " Laki rabi ti ngongora napi kakolot pisan, pada pada geus jadi aki-aki nini-nini.",
+        "peribahasa": "Pakotrek iteuk"
+    },
+    {
+        "idperibahasa": 478,
+        "makna": " pagede gede kauntungan dina nyiar kipayah.",
+        "peribahasa": "Paluhur luhur diuk"
+    },
+    {
+        "idperibahasa": 479,
+        "makna": " Sasarina ari tukang mah sok tara bogaeun.",
+        "peribahasa": "Panday tara bogaeun bedog"
+    },
+    {
+        "idperibahasa": 480,
+        "makna": "jauh panyabaanana , loba pangalamanana",
+        "peribahasa": "Panjang lengkah"
+    },
+    {
+        "idperibahasa": 481,
+        "makna": "sok puak paok / cukat cokot",
+        "peribahasa": "Panjang leungeun"
+    },
+    {
+        "idperibahasa": 482,
+        "makna": " Cidra jangji, teu nedunan jangjina.",
+        "peribahasa": "Papadon los ka kolong"
+    },
+    {
+        "idperibahasa": 483,
+        "makna": " Inget bae, teu bisa poho. Biasana mah lain kana barang tapi ka jelema anu dipikancinta.",
+        "peribahasa": "Peureum kadeuleu beunta karasa"
+    },
+    {
+        "idperibahasa": 484,
+        "makna": "Boga kahayang anu pamohalan kasorangan.",
+        "peribahasa": "Piit ngeundeuk-ngeundeuk pasir"
+    },
+    {
+        "idperibahasa": 485,
+        "makna": " Robahna tempat matuh robah adat jeung kabiasaan.",
+        "peribahasa": "Pindah cai pindah tampian"
+    },
+    {
+        "idperibahasa": 486,
+        "makna": "Robah kalakuan.",
+        "peribahasa": "Pindah Pileumpangan"
+    },
+    {
+        "idperibahasa": 487,
+        "makna": " Pinter tapi embung kanyahoan ku batur, kusabab eta nyeta nyeta anu bodo.",
+        "peribahasa": "Pinter aling laing bodo"
+    },
+    {
+        "idperibahasa": 488,
+        "makna": " Milih kalawan ati ati pisan ku lantaran hayang meunang nu leuwih hade, ngan ahirna meunang nu leuwih goreng.",
+        "peribahasa": "Pipilih meunang nu leuwih koceplak meunang nu pecak"
+    },
+    {
+        "idperibahasa": 489,
+        "makna": "Nu dusun didikan dibawa kana pasamoan.",
+        "peribahasa": "Piruruhan katengahimahkeun "
+    },
+    {
+        "idperibahasa": 490,
+        "makna": " Poek pisan.",
+        "peribahasa": "Poek mongkleng buta rajin (atawa buta radin)"
+    },
+    {
+        "idperibahasa": 491,
+        "makna": " Saha oge jodoh urang silaturahmi kudu tetep dijaga.",
+        "peribahasa": "Pondok jodo panjang baraya"
+    },
+    {
+        "idperibahasa": 492,
+        "makna": "menta buruhan memeh digawe",
+        "peribahasa": "Pupulur memeh mantun"
+    },
+    {
+        "idperibahasa": 493,
+        "makna": " Dina cidrana anu diborehan, boreh anu katempuhan, kudu mayaran hutang anu dipangnanggungkeun.",
+        "peribahasa": "Pur kuntul kari tunggul, lar gagak kari tunggak, tunggak kacuwatan daging"
+    },
+    {
+        "idperibahasa": 494,
+        "makna": " Migawe hiji pagawean henteu jeung enya enya. Henteu ngandung maksud supaya hade hasilna ieu mah pada ulah dipaido bae.",
+        "peribahasa": "Puraga tamba kadengda"
+    },
+    {
+        "idperibahasa": 495,
+        "makna": " Loba dahareun da loba pepelakan.",
+        "peribahasa": "Raweuy beuweungeun rambay alaeun"
+    },
+    {
+        "idperibahasa": 496,
+        "makna": "taya kakurang",
+        "peribahasa": "Rea ketan rea keton"
+    },
+    {
+        "idperibahasa": 497,
+        "makna": "dina hiji kasusah atawa karerepet geus boga teu boga kolot anu mepelingan ka urang.",
+        "peribahasa": "Rumbak caringin di buruan "
+    },
+    {
+        "idperibahasa": 498,
+        "makna": " Henteu lengkep, aya bae anu kurang nu matak cua kana hate.",
+        "peribahasa": "Rumbak kuntieun"
+    },
+    {
+        "idperibahasa": 499,
+        "makna": " Maot. Sasarina ngeunaan kanyeri anu satungtung hirup moal poho sanajan nepi ka maot.",
+        "peribahasa": "Rup ku padung rap ku lemah, katuruban ku taneuh beureum"
+    },
+    {
+        "idperibahasa": 500,
+        "makna": " Migawe naon bae anu rurusuhan, temahna matak kaduhung sabab hasilna teu matak nyugemakeun.",
+        "peribahasa": "Rusuh luput gancang pincang"
+    },
+    {
+        "idperibahasa": 501,
+        "makna": " Sauyunan, sapapait samamanis sabagja sacilaka.",
+        "peribahasa": "Sabobot sapihanean"
+    },
+    {
+        "idperibahasa": 502,
+        "makna": " sanajan dibunian atawa disumputkeun oge ari laku lampah anu goreng mah awal akhir sok kudu kanyahoan bae.",
+        "peribahasa": "Sabuni buni anu ngising"
+    },
+    {
+        "idperibahasa": 503,
+        "makna": "sakti, ucapannana tara nyalahan",
+        "peribahasa": "Saciduh metu saucap nyata"
+    },
+    {
+        "idperibahasa": 504,
+        "makna": " sanajan pohara bengisna nu jadi indung-bapa, umuna tara tega ka anu jadi anak.",
+        "peribahasa": "Sagalak galakna macan taru nyatu anakna"
+    },
+    {
+        "idperibahasa": 505,
+        "makna": " Hanteu cidra kana jangji.",
+        "peribahasa": "Sagolek pangkek sacangreud pageuh"
+    },
+    {
+        "idperibahasa": 506,
+        "makna": " Galibna hate teh hese pisan beresihna ka jelema anu geus bukti tas nganyernyeri ka urang.",
+        "peribahasa": "Saherang herangna cai beas"
+    },
+    {
+        "idperibahasa": 507,
+        "makna": " Sasarina lamun geus aya pacengkadan sok tara hade deui cara bareto samemeh aya pacengkadan.",
+        "peribahasa": "Saherang herangna cibeas, moal herang cara cisumur"
+    },
+    {
+        "idperibahasa": 508,
+        "makna": " Gampang ngambek jeung gampang ngadek deuih.",
+        "peribahasa": "Sakecap kadua gobang"
+    },
+    {
+        "idperibahasa": 509,
+        "makna": " Naon bae anu matak narik kana hate urang.",
+        "peribahasa": "Sakiriciking duit sakocopoking bogo"
+    },
+    {
+        "idperibahasa": 510,
+        "makna": " Sapinter pinterna murid pangartina moal ngaluhuran guru.",
+        "peribahasa": "Saluhur luhur punduk tara ngaliwatan hulu"
+    },
+    {
+        "idperibahasa": 511,
+        "makna": " Henteu puguh tingkah upamana ku sabab tepung jeung jalma anu dipikacinta tapi kakara disidem dina hate bae, tacan bruk-brak",
+        "peribahasa": "Samar polah samar rasa"
+    },
+    {
+        "idperibahasa": 512,
+        "makna": " Teuing ku miskin, teu boga naon naon pisan kulantaran geus embung digawe nyiar kipayah. Anehna the ari hirup mah hayang keneh.",
+        "peribahasa": "Sangsara di geusan betah"
+    },
+    {
+        "idperibahasa": 513,
+        "makna": " Paturay papisahan.",
+        "peribahasa": "Sapu nyere pegat simpay"
+    },
+    {
+        "idperibahasa": 514,
+        "makna": " Sauyunan, layeut, tara aya pacengkadan.",
+        "peribahasa": "Sareundeuk saigel sabobot sapihanean sabata sarimbangan"
+    },
+    {
+        "idperibahasa": 515,
+        "makna": " Teu jejeg ingetan, langlang lingling, kurang saeundan.",
+        "peribahasa": "Satengah buah leunca"
+    },
+    {
+        "idperibahasa": 516,
+        "makna": " Ngagambarkeun anu upluk-aplak lega pisan",
+        "peribahasa": "Satungtung deuleu"
+    },
+    {
+        "idperibahasa": 517,
+        "makna": " Saumur hirup rumingkang di bumi alam.",
+        "peribahasa": "Saumur nyunyuhun hulu"
+    },
+    {
+        "idperibahasa": 518,
+        "makna": " Omongan anu pondok tur kurang manis.",
+        "peribahasa": "Saungkab peundeuy"
+    },
+    {
+        "idperibahasa": 519,
+        "makna": "Ngomong rampak/ bareng.",
+        "peribahasa": "Saur Manuk"
+    },
+    {
+        "idperibahasa": 520,
+        "makna": " Ngeunaan awewe atawa lalaki anu boga keneh napsuna cara baheula keur ngora keneh, sasarina aya di jelema nu geus kolot, nu tereh paeh.",
+        "peribahasa": "Sengserang padung"
+    },
+    {
+        "idperibahasa": 521,
+        "makna": " teu ceehan dina gawe, mimiti pohara getolna, tapi beuki lila beuki ngedul nu tungtungna teh diantep teu dipigawe pisan.",
+        "peribahasa": "Sentak badakeun"
+    },
+    {
+        "idperibahasa": 522,
+        "makna": " nyingkahan hirup kumbuh jelema loba, sabab loba dosa, loba kasieun jeung kaera, betahna dinu suni nu teu aya jelema.",
+        "peribahasa": "Sereg di panto logor di liang jarum"
+    },
+    {
+        "idperibahasa": 523,
+        "makna": " loba mata-matana jeung pinter nyusud perkara (keur pagawean pulisi).",
+        "peribahasa": "Seukeut ambeu seukeut deuleu"
+    },
+    {
+        "idperibahasa": 524,
+        "makna": " Sakumaha gagahna wanina jeung ngalawana oge jalma jahat mah awal ahir tangtu katangkep pulisi.",
+        "peribahasa": "Seukeut tambang manan gobang"
+    },
+    {
+        "idperibahasa": 525,
+        "makna": " Keur ambek, keur amarah, keur napsu.",
+        "peribahasa": "Seuneu hurung cai caah"
+    },
+    {
+        "idperibahasa": 526,
+        "makna": " Nu keur napsu, heug ditambahan pisan pikakeuheuleun, tangtu bae ngambekna jadi tambah.",
+        "peribahasa": "Seuneu hurung dipancaran"
+    },
+    {
+        "idperibahasa": 527,
+        "makna": " Seungit pisan meleber ka mana-mana",
+        "peribahasa": "Seungit angin-anginan"
+    },
+    {
+        "idperibahasa": 528,
+        "makna": " Hese pisan.",
+        "peribahasa": "Seuseut batan neureuy keueus"
+    },
+    {
+        "idperibahasa": 529,
+        "makna": "Ledis pisan, teu nyesa saeutik eutik acan.",
+        "peribahasa": "Sibanyo laleur "
+    },
+    {
+        "idperibahasa": 530,
+        "makna": "sieun kabawa",
+        "peribahasa": "Sieun meubeut meulit"
+    },
+    {
+        "idperibahasa": 531,
+        "makna": " Menta tulung ka papada anu sarua butuhna atawa sarua papada henteu boga.",
+        "peribahasa": "Silih jenggut jeung nu gundul"
+    },
+    {
+        "idperibahasa": 532,
+        "makna": "Darajat atawa milik anak ngaliwatan bapa.",
+        "peribahasa": "Sirung ngaliwatan tunggul "
+    },
+    {
+        "idperibahasa": 533,
+        "makna": "goreng milik",
+        "peribahasa": "Sisit Kadal"
+    },
+    {
+        "idperibahasa": 534,
+        "makna": "sieun kabawa",
+        "peribahasa": "Siuen Meubeut Beurit"
+    },
+    {
+        "idperibahasa": 535,
+        "makna": "Kikiriman ku lantaran aya pangarahan tapi boro boro meunang kauntungan, kalahka meunang wiwirang jeung karugian.",
+        "peribahasa": "Sosoroh ngadon kojor "
+    },
+    {
+        "idperibahasa": 536,
+        "makna": "taktakna sonday siga kurang",
+        "peribahasa": "Taktak Korangen"
+    },
+    {
+        "idperibahasa": 537,
+        "makna": " Malindes ka diri sorangan.",
+        "peribahasa": "Tamiang meulit ka bitis"
+    },
+    {
+        "idperibahasa": 538,
+        "makna": "Berehan teuing nepi ka urang mah susah.",
+        "peribahasa": "Tamplok batokeun "
+    },
+    {
+        "idperibahasa": 539,
+        "makna": " Saban tugas kudu dilaksanakeun kalawan alus sarta bener.",
+        "peribahasa": "Taraje nangeuh dulang pinande"
+    },
+    {
+        "idperibahasa": 540,
+        "makna": " taya eureuna digelendeng atawa di dicarekan (Terus bae digelendeng atawa dicarekan).",
+        "peribahasa": "Taya halodo panyadapan"
+    },
+    {
+        "idperibahasa": 541,
+        "makna": " Jiga anu dipupul bayu, henteu boga tanaga.",
+        "peribahasa": "Taya tangan pangawasa"
+    },
+    {
+        "idperibahasa": 542,
+        "makna": " sipat-sipat nu aya di anak, babakuna nu hadena, sasarina loba anu diturunkeun ku kolotna.",
+        "peribahasa": "Teng anak teng, anak merak kukuncungan"
+    },
+    {
+        "idperibahasa": 543,
+        "makna": "kalakuan kolot nurun ka anakna",
+        "peribahasa": "Teng manuk teng, anak merak kukuncungan"
+    },
+    {
+        "idperibahasa": 544,
+        "makna": " Teu aya saeutik eutik acan.",
+        "peribahasa": "Teu aya sarebuk samerang nyamu"
+    },
+    {
+        "idperibahasa": 545,
+        "makna": " Teuing ku koret, tara pisan tutulung ka nu butuh tatalang ka nu susah.",
+        "peribahasa": "Teu beunang dikoet kunu keked"
+    },
+    {
+        "idperibahasa": 546,
+        "makna": " Teu boga curiga saeutik eutik acan.",
+        "peribahasa": "Teu boga pikir rangkepan"
+    },
+    {
+        "idperibahasa": 547,
+        "makna": "teu regrog regrog, malah unggul dina juritna.",
+        "peribahasa": "Teu busik bulu salambar "
+    },
+    {
+        "idperibahasa": 548,
+        "makna": "hakan pake hayang ti salaki.",
+        "peribahasa": "Teu cari ka Batawi tapi ka salaki "
+    },
+    {
+        "idperibahasa": 549,
+        "makna": " teu dipikarisi, teu dipikagimir, teu dihargaan/diajenan.",
+        "peribahasa": "Teu diambeuan"
+    },
+    {
+        "idperibahasa": 550,
+        "makna": "teu dibuni buni, ditembrakeun bae, teu dirasiahkeun.",
+        "peribahasa": "Teu didingding kelir "
+    },
+    {
+        "idperibahasa": 551,
+        "makna": "Sarua pisan teu aya bedana saeutik eutik acan.",
+        "peribahasa": "Teu dipiceun sasieur "
+    },
+    {
+        "idperibahasa": 552,
+        "makna": "Teu dipalire diantep bae, teu ditanya tanya acan.",
+        "peribahasa": "Teu ditari teu ditakon "
+    },
+    {
+        "idperibahasa": 553,
+        "makna": "taya kasieun",
+        "peribahasa": "Teu gedag bulu salambar"
+    },
+    {
+        "idperibahasa": 554,
+        "makna": " Samemeh kajadian naon naon, teu aya pisan beja, lantaran atawa ciciren.",
+        "peribahasa": "Teu gugur teu angina"
+    },
+    {
+        "idperibahasa": 555,
+        "makna": " Nya goreng rupana nya goreng kalakuanana sok daek pulang paling.",
+        "peribahasa": "Teu jauh ti tihang juru teu anggang ti tihang tengah"
+    },
+    {
+        "idperibahasa": 556,
+        "makna": " teu aya patalina pisan, teu pipilueun.",
+        "peribahasa": "Teu mais teu meuleum"
+    },
+    {
+        "idperibahasa": 557,
+        "makna": " ngalajur napsu ka awewe, ka anu halal jeung anu haram oge disaruakeun bae.",
+        "peribahasa": "Teu ngalarung nu burung, teu nyesakeun nu edan"
+    },
+    {
+        "idperibahasa": 558,
+        "makna": " Ngadenge jeung nenjo sorangan lain cenah jeung baruk.",
+        "peribahasa": "Teu nginjeum ceuli teu nginjeum mata"
+    },
+    {
+        "idperibahasa": 559,
+        "makna": "bodo teu bisa maca-maca acan, da teu sakola.",
+        "peribahasa": "Teu nyaho di alip bingkeng "
+    },
+    {
+        "idperibahasa": 560,
+        "makna": " teu puguh entep seureuhna, teu beres lain kitu kuduna.",
+        "peribahasa": "Teu puguh alang ujurna"
+    },
+    {
+        "idperibahasa": 561,
+        "makna": "teu puguh entep seureuhna, teu beres (bisa kana omongan atawa pagawean)",
+        "peribahasa": "Teu puguh hulu buntutna (alang ujurna)"
+    },
+    {
+        "idperibahasa": 562,
+        "makna": "Sing wawuh tur sing loma sabab balukarna alus pisan.",
+        "peribahasa": "Teu wawuh wuwuh pajauh, teu loma tambah paanggang "
+    },
+    {
+        "idperibahasa": 563,
+        "makna": " Teu baraya, teu kaka, teu adi teu alo alo acan. Deungeun deungeun tulen.",
+        "peribahasa": "Teui hir teu walahir, teu kakak, teu caladi teu aro aro acan"
+    },
+    {
+        "idperibahasa": 564,
+        "makna": "ti bubudak nepi ka sawawa",
+        "peribahasa": "Ti kikirik nepi ka jadi anjing"
+    },
+    {
+        "idperibahasa": 565,
+        "makna": " Menta dihampura tina rumasa geus salah atawa boga dosa.",
+        "peribahasa": "Ti luhur sausap rambut ti handap sahibas dampal"
+    },
+    {
+        "idperibahasa": 566,
+        "makna": "ti ngora nepi ka kolot",
+        "peribahasa": "Ti ngongkoak nepi ka ngungkueuk"
+    },
+    {
+        "idperibahasa": 567,
+        "makna": " Sababaraha kali karurugian atawa karoroncodan.",
+        "peribahasa": "Ti peuting kapalingan ti beurang kasayaban"
+    },
+    {
+        "idperibahasa": 568,
+        "makna": " ngeunah hate kulantaran ngeunah deudeuleuan jeung dedengean.",
+        "peribahasa": "Tiis ceuli herang mata"
+    },
+    {
+        "idperibahasa": 569,
+        "makna": " ngadeukeutan jelema nu bakal ngahukum atawa nganyenyeri ka diri urang.",
+        "peribahasa": "Tikoro andon peso"
+    },
+    {
+        "idperibahasa": 570,
+        "makna": "nyanggakeun sadaya-daya",
+        "peribahasa": "Tikoro Gorokeun"
+    },
+    {
+        "idperibahasa": 571,
+        "makna": "Teu sieun atawa teu nurut kulantaran remen teuing digelendeng atawa dicarekan.",
+        "peribahasa": "Tinggar kalongeun"
+    },
+    {
+        "idperibahasa": 572,
+        "makna": "Sagala ikhtiar sanajan nyusahkeun batur sangkan hasil nu di maksud.",
+        "peribahasa": "Tinggul dirurud catang dirumpak"
+    },
+    {
+        "idperibahasa": 573,
+        "makna": " pinter dina kajahatan, pinter dina ngbobodo atawa nipu.",
+        "peribahasa": "Tipu keling ragaji Inggris"
+    },
+    {
+        "idperibahasa": 574,
+        "makna": " Mihapekeun maneh.",
+        "peribahasa": "Titip diri sangsang badan"
+    },
+    {
+        "idperibahasa": 575,
+        "makna": "sejana nyiar kasenangan, tapi jadina pinanggih jeung kasusah nu leuwih gede.",
+        "peribahasa": "Titirah ngadon kanceuh "
+    },
+    {
+        "idperibahasa": 576,
+        "makna": " nyukupan ku pangala nu sakitu saeutikna, tangtu bae matak jadi susah, lamun rejeki atawa pangala saeutik, ari keperluan jeung pangaluaran anu sakitu lobana.",
+        "peribahasa": "Totopong heureut dibeber beber, tangtu soeh"
+    },
+    {
+        "idperibahasa": 577,
+        "makna": "Ngajalankeun pagawean pikeun Nagara, babakti ka nagara.",
+        "peribahasa": "Tugur tundang cuntang gantang "
+    },
+    {
+        "idperibahasa": 578,
+        "makna": " Euweuh anu dipikaserab, terus bae ngalajur napsu.",
+        "peribahasa": "Tunggul dirarud catang dirumpak"
+    },
+    {
+        "idperibahasa": 579,
+        "makna": " Aya kajadian anu goreng atawa matak teu genah ahirna.",
+        "peribahasa": "Tunggul sirungan, catang supaan"
+    },
+    {
+        "idperibahasa": 580,
+        "makna": "Ngukur kana kaayaan diri sorangan.",
+        "peribahasa": "Tungkul ka jukut tanggah ka sadapan"
+    },
+    {
+        "idperibahasa": 581,
+        "makna": "Nurutan batur bari teu nyaho maksudna.",
+        "peribahasa": "Tuturut Munding"
+    },
+    {
+        "idperibahasa": 582,
+        "makna": " ulah adigung nyeta nyeta anu beunghar, turtaning henteu atawa tacan boga pakaya.",
+        "peribahasa": "Ulah beunghar memeh boga"
+    },
+    {
+        "idperibahasa": 583,
+        "makna": " Ulah sok bosenan ari ka pamajikan teh, hadena mah ti keur ngora keneh nepi ka geus kolot teh, lain beuki lila beuki bosen tapi kudu beuki lila beuki welas asih.",
+        "peribahasa": "Ulah cara ka kembang malati kudu cara ka picung"
+    },
+    {
+        "idperibahasa": 584,
+        "makna": " Ulah ngurangan kanyaah kudu beuki lila beuki nyaah.",
+        "peribahasa": "Ulah cara ka malati kudu cara ka picung"
+    },
+    {
+        "idperibahasa": 585,
+        "makna": "ulah kabawa ku nu teu puguh, maksudna kabawa jurig, dedemit.",
+        "peribahasa": "Ulah kabawa ku sakaba-kaba "
+    },
+    {
+        "idperibahasa": 586,
+        "makna": " Ulah sieun saacan ngalakonan.",
+        "peribahasa": "Ulah keok memeh dipacok"
+    },
+    {
+        "idperibahasa": 587,
+        "makna": "Ulah sieun atawa putus pangharepan.",
+        "peribahasa": "Ulah leutik hate "
+    },
+    {
+        "idperibahasa": 588,
+        "makna": " Kudu nuturkeun etika anu aya.",
+        "peribahasa": "Ulah lunca linci luncat mulang udar tina tali gadang, omat ulah lali tina purwadaksina"
+    },
+    {
+        "idperibahasa": 589,
+        "makna": " masing nyaah kana rejeki meunang hese cape ladang kesang, pacuan arek dimonyah monyah.",
+        "peribahasa": "Ulah muragkeun duwegan ti luhur"
+    },
+    {
+        "idperibahasa": 590,
+        "makna": " Ulah nyeubarkeun fitnah.",
+        "peribahasa": "Ulah ngaliarkeun taleus ateul"
+    },
+    {
+        "idperibahasa": 591,
+        "makna": " Ulah menyimpulkan nurutkeun diri sorangan",
+        "peribahasa": "Ulah ngukur baju sasereg awak"
+    },
+    {
+        "idperibahasa": 592,
+        "makna": " Ulah nyangsarakeun rakyat leutik.",
+        "peribahasa": "Ulah nyaliksik ku buuk leutik"
+    },
+    {
+        "idperibahasa": 593,
+        "makna": " Ulah rebutan kakawasaan",
+        "peribahasa": "Ulah pagiri- giri calik, pagirang- girang tampian"
+    },
+    {
+        "idperibahasa": 594,
+        "makna": " Ulah adigung adiguna hayang nyaruaan ka nu geus jeneng.",
+        "peribahasa": "Ulah pangkat memeh jeneng"
+    },
+    {
+        "idperibahasa": 595,
+        "makna": "kudu iatna, kudu cingceung.",
+        "peribahasa": "Ulah tiis tiis jahe "
+    },
+    {
+        "idperibahasa": 596,
+        "makna": " Ulah kagoda, ulah kaganggu atawa kabengbat ku rypa rupa, lamun urang keur nyanghareupan hiji maksud anu hade.",
+        "peribahasa": "Ulah unggut kalinduan ulah gedag kaanginan"
+    },
+    {
+        "idperibahasa": 597,
+        "makna": " Duduluran karumpul kabeh.",
+        "peribahasa": "Uncal tara ridu ku tanduk"
+    },
+    {
+        "idperibahasa": 598,
+        "makna": " Galibna sipat indung bapa anu harade atawa anu goreng sok diturunkeun ka anak incuna.",
+        "peribahasa": "Uyah tara tees kaluhur"
+    },
+    {
+        "idperibahasa": 599,
+        "makna": "Bisa nyaho kana naon naon anu bakal kajadian.",
+        "peribahasa": "Waspada permana tingal "
+    },
+    {
+        "idperibahasa": 600,
+        "makna": "wawuh ngan saliwat",
+        "peribahasa": "Wawuh munding"
+    },
+    {
+        "idperibahasa": 601,
+        "makna": "Meunang wiwirang turta kanyahoan ku batur.",
+        "peribahasa": "Wiwirang di kolong catang"
+    },
+    {
+        "idperibahasa": 602,
+        "makna": " wiwirang nau pohara gedena.",
+        "peribahasa": "Wiwirang di kolong catang nya gede nya panjang"
+    }
+]

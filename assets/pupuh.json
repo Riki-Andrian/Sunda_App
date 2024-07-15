@@ -1,0 +1,421 @@
+{
+    "pupuh_sunda": [
+      {
+        "id": 1,
+        "nama": "Kinanti",
+        "pola_sajak": ["u", "i", "a", "i", "a", "i"],
+        "jumlah_suku_kata_per_baris": [8, 8, 8, 8, 8, 8],
+        "lirik": {
+          "versi_1": [
+            "Budak leutik bisa ngapung",
+            "babaku ngapungna peuting",
+            "nguriling kakalayangan",
+            "néangan nu amis-amis",
+            "sarupaning bungbuahan",
+            "naon baé nu kapanggih"
+          ],
+          "versi_2": [
+            "Lirik versi 2 - Baris 1",
+            "Lirik versi 2 - Baris 2",
+            "Lirik versi 2 - Baris 3",
+            "Lirik versi 2 - Baris 4",
+            "Lirik versi 2 - Baris 5",
+            "Lirik versi 2 - Baris 6",
+            "Lirik versi 2 - Baris 7",
+            "Lirik versi 2 - Baris 8"
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "nama": "Asmarandana",
+        "pola_sajak": ["i", "a", "é/o", "a", "a", "u", "a"],
+        "jumlah_suku_kata_per_baris": [8, 8, 8, 8, 7, 8, 8],
+        "lirik": {
+          "versi_1": [
+            "Éling-éling mangka éling",
+            "rumingkang di bumi alam",
+            "darma wawayangan baé",
+            "raga taya pangawasa",
+            "lamun kasasar lampah",
+            "napsu nu matak kaduhung",
+            "badan anu katempuhan"
+          ],
+          "versi_2": [
+            "Hirup kudu silih asih",
+            "Silih asih jeung sasama",
+            "Hirup tong nepi ka poho",
+            "Ka dulur-dulur nu aya",
+            "Lamun ka dulur nyaah",
+            "Hirup téh bakal rahayu",
+            "Rahayu jeung loba harta"
+          ]
+        }
+      },
+      {
+        "id": 3,
+        "nama": "Dangdanggula",
+        "pola_sajak": ["i", "a", "é/o", "u", "i", "a", "u", "a", "i", "a"],
+        "jumlah_suku_kata_per_baris": [10, 10, 8, 7, 9, 7, 6, 8, 12, 7],
+        "lirik": {
+          "versi_1": [
+            "Méga beureum surupna geus burit",
+            "ngalanglayung panas pipikiran",
+            "cikur jangkung jahé konéng",
+            "naha teu palay tepung",
+            "simabdi mah ngabeunying leutik",
+            "ari ras cimataan",
+            "gedong tengah laut",
+            "ulah kapalang nya béla",
+            "paripaos gunting pameulahan gambir",
+            "kacipta salamina"
+          ],
+          "versi_2": [
+            "Lirik versi 2 - Baris 1",
+            "Lirik versi 2 - Baris 2",
+            "Lirik versi 2 - Baris 3",
+            "Lirik versi 2 - Baris 4",
+            "Lirik versi 2 - Baris 5",
+            "Lirik versi 2 - Baris 6",
+            "Lirik versi 2 - Baris 7",
+            "Lirik versi 2 - Baris 8",
+            "Lirik versi 2 - Baris 9",
+            "Lirik versi 2 - Baris 10"
+          ]
+        }
+      },
+      {
+        "id": 4,
+        "nama": "Sinom",
+        "pola_sajak": ["a", "i", "a", "i", "i", "u", "a", "i", "a"],
+        "jumlah_suku_kata_per_baris": [8, 8, 8, 8, 7, 8, 7, 8, 12],
+        "lirik": {
+          "versi_1": [
+            "Warna-warna lauk émpang",
+            "aya nu sami jeung pingping",
+            "pagulung patumpang-tumpang",
+            "Ratna Rengganis ningali",
+            "warnaning lauk cai",
+            "lalawak pating suruwuk",
+            "sepat patingkocépat",
+            "julung-julung ngajalingjing",
+            "sisi balong balingbing sisi balungbang"
+          ],
+          "versi_2": [
+            "Lirik versi 2 - Baris 1",
+            "Lirik versi 2 - Baris 2",
+            "Lirik versi 2 - Baris 3",
+            "Lirik versi 2 - Baris 4",
+            "Lirik versi 2 - Baris 5",
+            "Lirik versi 2 - Baris 6",
+            "Lirik versi 2 - Baris 7",
+            "Lirik versi 2 - Baris 8",
+            "Lirik versi 2 - Baris 9"
+          ]
+        }
+      },
+      {
+        "id": 5,
+        "nama": "Mijil",
+        "pola_sajak": ["i", "o", "e", "i", "i", "u"],
+        "jumlah_suku_kata_per_baris": [10, 6, 10, 10, 6, 6],
+        "lirik": {
+          "versi_1": [
+            "Mesat ngapung puta sang Arimbi",
+            "jeung méga geus awor",
+            "beuki lila beuki luhur baé",
+            "larak-lirik ningali ka bumi",
+            "milari sang rayi",
+            "Pangéran Bimanyu"
+          ],
+          "versi_2": [
+            "Lirik versi 2 - Baris 1",
+            "Lirik versi 2 - Baris 2",
+            "Lirik versi 2 - Baris 3",
+            "Lirik versi 2 - Baris 4",
+            "Lirik versi 2 - Baris 5",
+            "Lirik versi 2 - Baris 6"
+          ]
+        }
+      },
+      {
+        "id": 6,
+        "nama": "Lambang",
+        "pola_sajak": ["a", "a", "a", "a"],
+        "jumlah_suku_kata_per_baris": [8, 8, 8, 8],
+        "lirik": {
+          "versi_1": [
+            "Nawu kubang sisi tegal",
+            "nyair bogo meunang kadal",
+            "atuh teu payu dijual",
+            "rék didahar da teu halal"
+          ],
+          "versi_2": [
+            "Lirik versi 2 - Baris 1",
+            "Lirik versi 2 - Baris 2",
+            "Lirik versi 2 - Baris 3",
+            "Lirik versi 2 - Baris 4",
+            "Lirik versi 2 - Baris 5",
+            "Lirik versi 2 - Baris 6"
+          ]
+        }
+      },
+      {
+        "id": 7,
+        "nama": "Maskumambang",
+        "pola_sajak": ["i", "a", "i", "a"],
+        "jumlah_suku_kata_per_baris": [12, 6, 8, 8],
+        "lirik": {
+          "versi_1": [
+            "Hé manusa mana kaniaya teuing",
+            "teu aya rasrasan",
+            "kaula maké disumpit",
+            "naha naon dosa kula"
+          ],
+          "versi_2": [
+            "Lirik versi 2 - Baris 1",
+            "Lirik versi 2 - Baris 2",
+            "Lirik versi 2 - Baris 3",
+            "Lirik versi 2 - Baris 4",
+            "Lirik versi 2 - Baris 5",
+            "Lirik versi 2 - Baris 6"
+          ]
+        }
+      },
+      {
+        "id": 8,
+        "nama": "Pucung",
+        "pola_sajak": ["u", "a", "é/o", "a"],
+        "jumlah_suku_kata_per_baris": [12, 6, 8, 12],
+        "lirik": {
+          "versi_1": [
+            "Lutung buntung luncat kana tunggul gintung",
+            "monyét loréng leupas",
+            "luncat kana pager déngdék",
+            "bajing kuning jaralang belang buntutna"
+          ],
+          "versi_2": [
+            "Lirik versi 2 - Baris 1",
+            "Lirik versi 2 - Baris 2",
+            "Lirik versi 2 - Baris 3",
+            "Lirik versi 2 - Baris 4",
+            "Lirik versi 2 - Baris 5",
+            "Lirik versi 2 - Baris 6"
+          ]
+        }
+      },
+      {
+        "id": 9,
+        "nama": "Ladrang",
+        "pola_sajak": ["i", "a", "i", "a"],
+        "jumlah_suku_kata_per_baris": [10, 8, 8, 12],
+        "lirik": {
+          "versi_1": [
+            "Aya hiji rupa sato leutik",
+            "éngkang-éngkang, éngkang-éngkang",
+            "sok luluncatan di cai",
+            "ari bangun arék sarupa jeung lancah"
+          ],
+          "versi_2": [
+            "Lirik versi 2 - Baris 1",
+            "Lirik versi 2 - Baris 2",
+            "Lirik versi 2 - Baris 3",
+            "Lirik versi 2 - Baris 4",
+            "Lirik versi 2 - Baris 5",
+            "Lirik versi 2 - Baris 6"
+          ]
+        }
+      },
+      {
+        "id": 10,
+        "nama": "Balakbak",
+        "pola_sajak": ["é", "é", "é"],
+        "jumlah_suku_kata_per_baris": [15, 15, 19],
+        "lirik": {
+          "versi_1": [
+            "Aya warung sisi jalan ramé pisan, Citaméng",
+            "Awéwéna luas-luis geulis pisan, ngagoréng",
+            "Lalakina lalakina los ka pipir nyoo monyét, nyangéréng"
+          ],
+          "versi_2": [
+            "Lirik versi 2 - Baris 1",
+            "Lirik versi 2 - Baris 2",
+            "Lirik versi 2 - Baris 3",
+            "Lirik versi 2 - Baris 4",
+            "Lirik versi 2 - Baris 5",
+            "Lirik versi 2 - Baris 6"
+          ]
+        }
+      },
+      {
+        "id": 11,
+        "nama": "Pangkur",
+        "pola_sajak": ["a", "i", "u", "a", "u", "a", "a"],
+        "jumlah_suku_kata_per_baris": [8, 11, 8, 7, 12, 8, 8],
+        "lirik": {
+          "versi_1": [
+            "Seja nyaba ngalalana",
+            "ngitung lembur ngajajah milang kori",
+            "henteu puguh nu dijugjug",
+            "balik paman sadaya",
+            "nu ti mana tiluan semu rarusuh",
+            "Lurah bégal ngawalonan",
+            "Aing ngaran Jayapati"
+          ],
+          "versi_2": [
+            "Lirik versi 2 - Baris 1",
+            "Lirik versi 2 - Baris 2",
+            "Lirik versi 2 - Baris 3",
+            "Lirik versi 2 - Baris 4",
+            "Lirik versi 2 - Baris 5",
+            "Lirik versi 2 - Baris 6"
+          ]
+        }
+      },
+      {
+        "id": 12,
+        "nama": "Magatru",
+        "pola_sajak": ["u", "i", "u", "i", "o"],
+        "jumlah_suku_kata_per_baris": [12, 8, 8, 8, 8],
+        "lirik": {
+          "versi_1": [
+            "Majalaya Ciparay Banjaran Bandung",
+            "Kopo reujeung Cisondari",
+            "Cicaléngka Ujungberung",
+            "Rajamandala Cimahi",
+            "Lélés Limbangan Tarogong"
+          ],
+          "versi_2": [
+            "Lirik versi 2 - Baris 1",
+            "Lirik versi 2 - Baris 2",
+            "Lirik versi 2 - Baris 3",
+            "Lirik versi 2 - Baris 4",
+            "Lirik versi 2 - Baris 5",
+            "Lirik versi 2 - Baris 6"
+          ]
+        }
+      },
+      {
+        "id": 13,
+        "nama": "Jurudemung",
+        "pola_sajak": ["a", "u", "i", "a", "u"],
+        "jumlah_suku_kata_per_baris": [8, 8, 6, 8, 8],
+        "lirik": {
+          "versi_1": [
+            "Mungguh nu hirup di dunya",
+            "ku kersaning anu Agung",
+            "geus pinasti panggih",
+            "jeung dua rupa perkara",
+            "senang paselang jeung bingung"
+          ],
+          "versi_2": [
+            "Lirik versi 2 - Baris 1",
+            "Lirik versi 2 - Baris 2",
+            "Lirik versi 2 - Baris 3",
+            "Lirik versi 2 - Baris 4",
+            "Lirik versi 2 - Baris 5",
+            "Lirik versi 2 - Baris 6"
+          ]
+        }
+      },
+      {
+        "id": 14,
+        "nama": "Wirangrong",
+        "pola_sajak": ["i", "o", "u", "i", "a", "a"],
+        "jumlah_suku_kata_per_baris": [8, 8, 8, 8, 8, 8],
+        "lirik": {
+          "versi_1": [
+            "Barudak mangka ngalarti",
+            "ulah rék ka dalon-dalon",
+            "enggong-enggon nungtut élmu",
+            "mangka getol mangka tigin",
+            "pibekeleun saréréa",
+            "modal bakti ka nagara"
+          ],
+          "versi_2": [
+            "Lirik versi 2 - Baris 1",
+            "Lirik versi 2 - Baris 2",
+            "Lirik versi 2 - Baris 3",
+            "Lirik versi 2 - Baris 4",
+            "Lirik versi 2 - Baris 5",
+            "Lirik versi 2 - Baris 6"
+          ]
+        }
+      },
+      {
+        "id": 15,
+        "nama": "Gurisa",
+        "pola_sajak": ["a", "a", "a", "a", "a", "a", "a", "a"],
+        "jumlah_suku_kata_per_baris": [8, 8, 8, 8, 8, 8, 8, 8],
+        "lirik": {
+          "versi_1": [
+            "Hayang teuing geura beurang",
+            "geus beurang rék ka Sumedang",
+            "nagih kanu boga hutang",
+            "mun meunang rék meuli soang",
+            "tapi najan henteu meunan",
+            "teu rék buru buru mulang",
+            "rék tuluy guguru nembang",
+            "jeung diajar nabeuh gambang"
+          ],
+          "versi_2": [
+            "Lirik versi 2 - Baris 1",
+            "Lirik versi 2 - Baris 2",
+            "Lirik versi 2 - Baris 3",
+            "Lirik versi 2 - Baris 4",
+            "Lirik versi 2 - Baris 5",
+            "Lirik versi 2 - Baris 6"
+          ]
+        }
+      },
+      {
+        "id": 16,
+        "nama": "Gambuh",
+        "pola_sajak": ["u", "u/i", "i", "u", "o"],
+        "jumlah_suku_kata_per_baris": [7, 10, 12, 8, 8],
+        "lirik": {
+          "versi_1": [
+            "Ngahuleng banget bingung",
+            "henteu terang ka mana nya indit",
+            "turug-turug harita téh enggeus burit",
+            "panon poé geus rék surup",
+            "keueung sieun aya méong"
+          ],
+          "versi_2": [
+            "Lirik versi 2 - Baris 1",
+            "Lirik versi 2 - Baris 2",
+            "Lirik versi 2 - Baris 3",
+            "Lirik versi 2 - Baris 4",
+            "Lirik versi 2 - Baris 5",
+            "Lirik versi 2 - Baris 6"
+          ]
+        }
+      },
+      {
+        "id": 17,
+        "nama": "Durma",
+        "pola_sajak": ["a", "i", "a", "a", "i", "a", "i"],
+        "jumlah_suku_kata_per_baris": [12, 7, 6, 7, 7, 5, 7],
+        "lirik": {
+          "versi_1": [
+            "Moal ngejat sanajan ukur satapak",
+            "geus dipasti ku jangji",
+            "mun tacan laksana",
+            "numpes musuh sarakah",
+            "henteu niat seja balik",
+            "najan palastra",
+            "mati di médan jurit"
+          ],
+          "versi_2": [
+            "Lirik versi 2 - Baris 1",
+            "Lirik versi 2 - Baris 2",
+            "Lirik versi 2 - Baris 3",
+            "Lirik versi 2 - Baris 4",
+            "Lirik versi 2 - Baris 5",
+            "Lirik versi 2 - Baris 6"
+          ]
+        }
+      }  
+    ]
+  }
+  
