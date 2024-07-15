@@ -75,11 +75,6 @@ class _QuizPageState extends State<QuizPage> {
             child: PageView.builder(
               controller: _controller,
               itemCount: widget.level.questions.length,
-              // onPageChanged: (int index) {
-              //   setState(() {
-              //     pageCounter = index;
-              //   });
-              // },
               itemBuilder: (context, index) {
                 return _buildQuestion(widget.level.questions[index], index);
               },
@@ -123,6 +118,7 @@ class _QuizPageState extends State<QuizPage> {
                       pageCounter++;
                     } else {
                       _submitQuiz();
+                      Navigator.of(context).pop();
                     }
                     _controller.nextPage(
                         duration: const Duration(milliseconds: 100),
@@ -211,13 +207,5 @@ class _QuizPageState extends State<QuizPage> {
 
     await boxHasil.add(hasil);
 
-    // Navigator.push(
-    //     context,
-    //     MaterialPageRoute(
-    //       builder: (context) => HasilQuiz(
-    //         questions: widget.level.questions,
-    //         selectedOptions: _selectedOptionIndexList,
-    //       ),
-    //     ));
   }
 }

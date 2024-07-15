@@ -1,18 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:sunda_app/data/model/menu_item.dart';
-import 'package:sunda_app/ui/aksara_page.dart';
-import 'package:sunda_app/ui/menulis1.dart';
-import 'package:sunda_app/ui/menulis_page.dart';
-import 'package:sunda_app/ui/test_menulis.dart';
-import 'package:sunda_app/ui/testocr.dart';
+import 'package:sunda_app/ui/about_page.dart';
 import 'package:sunda_app/widget/menu_widget.dart';
 
 // ignore: must_be_immutable
 class HomePage extends StatelessWidget {
   HomePage({super.key});
 
-    List<MenuItem> menuItems = [
+  List<MenuItem> menuItems = [
     MenuItem(
       imagePath: 'assets/aplikasi/Refresh.png',
       text: 'Konversi',
@@ -48,20 +44,29 @@ class HomePage extends StatelessWidget {
       text: 'Qiuiz',
       route: '/quizmenu',
     ),
-      MenuItem(
-      imagePath: 'assets/aplikasi/Ask Question.png',
+    MenuItem(
+      imagePath: 'assets/aplikasi/aksara.png',
       text: 'Aksara',
       route: '/aksara',
     ),
-
-    // Tambahkan item-menu lainnya di sini
   ];
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: const Text("Menu"),
+          title: const Text("Nyunda"),
+          actions: [
+            Padding(
+              padding: const EdgeInsets.all(12),
+              child: IconButton(
+                icon: Icon(Icons.info),
+                onPressed: () {
+                  Navigator.push(context, MaterialPageRoute(builder: (context) => AboutPage(),));
+                },
+              ),
+            )
+          ],
         ),
         body: _buildList(context));
   }
@@ -71,52 +76,35 @@ class HomePage extends StatelessWidget {
       children: [
         Column(
           children: [
-            Padding(
-              padding: const EdgeInsets.all(8.0),
-              child: GestureDetector(
-                onTap: () {
-                  // context.push('/menulis');
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(builder: (context) => Menulis()),
-                  );
-                },
-                child: Container(
-                  height: 200,
-                  width: 80,
-                  color: Colors.red,
-                ),
-              ),
-            ),
             SizedBox(
               width: 8,
             ),
             Container(
               height: 500,
               child: GridView.builder(
-                gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-                  crossAxisCount: 2,
-                  childAspectRatio: 6/4,
-                  crossAxisSpacing: 8.0, // Adjust spacing as needed
-                  mainAxisSpacing: 8.0, // Adjust spacing as needed
-                ),
-                itemCount: menuItems.length,
-                itemBuilder: (context, index) {
-                  return MenuWidget(
-                    key: Key(menuItems[index].text),
-                    imagePath: menuItems[index].imagePath,
-                    text: menuItems[index].text,
-                    onTap: () {
-                      context.push(menuItems[index].route);
-                    },
-                  );
-                }
-              ),
+                  gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                    crossAxisCount: 2,
+                    childAspectRatio: 6 / 4,
+                    crossAxisSpacing: 8.0,
+                    mainAxisSpacing: 8.0,
+                  ),
+                  itemCount: menuItems.length,
+                  itemBuilder: (context, index) {
+                    return MenuWidget(
+                      key: Key(menuItems[index].text),
+                      imagePath: menuItems[index].imagePath,
+                      text: menuItems[index].text,
+                      onTap: () {
+                        context.push(menuItems[index].route);
+                      },
+                    );
+                  }),
             ),
-          
           ],
         ),
       ],
     );
   }
+
+
 }

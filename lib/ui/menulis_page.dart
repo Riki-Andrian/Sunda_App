@@ -4,13 +4,10 @@ import 'dart:io';
 import 'dart:math';
 import 'dart:typed_data';
 import 'dart:ui' as ui;
-import 'package:flutter/widgets.dart';
-import 'package:http/http.dart'
-    as http; // Import http untuk melakukan POST request
+import 'package:http/http.dart' as http;
 import 'package:lottie/lottie.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
 import 'package:sunda_app/data/model/prediction.dart';
 
 class Menulis extends StatefulWidget {
@@ -56,33 +53,30 @@ class _MenulisState extends State<Menulis> {
     "ya",
     "za"
   ];
-  String? imagePath; // Path gambar sementara
-  String? _randomHuruf; // Huruf acak yang diambil
-  String? _randomHurufImagePath; // Path gambar huruf acak
+  String? imagePath;
+  String? _randomHuruf;
+  String? _randomHurufImagePath;
 
   @override
   void initState() {
     super.initState();
-    _pickRandomHuruf(); // Memilih huruf acak saat aplikasi dimulai
+    _pickRandomHuruf();
   }
 
   Future<void> _captureAndSaveImage() async {
-    // Membuat gambar kosong dengan latar belakang putih
     final recorder = ui.PictureRecorder();
     final canvas = Canvas(
         recorder,
         Rect.fromPoints(Offset(0.0, 0.0),
-            Offset(300.0, 500.0))); // Sesuaikan ukuran sesuai kebutuhan
+            Offset(300.0, 500.0))); 
     canvas.drawRect(Rect.fromLTWH(0, 0, 300, 500),
-        Paint()..color = Colors.white); // Menggambar latar belakang putih
+        Paint()..color = Colors.white); 
 
-    // Menggambar jalur yang digambar oleh pengguna
     Paint paint = Paint()
       ..color = Colors.black
       ..strokeWidth = 8.0
       ..strokeCap = StrokeCap.round;
 
-    // Gambar setiap jalur yang telah digambar oleh pengguna
     for (var path in paths) {
       for (int i = 0; i < path.length - 1; i++) {
         canvas.drawLine(path[i], path[i + 1], paint);
@@ -92,7 +86,7 @@ class _MenulisState extends State<Menulis> {
     // Mengonversi ke image
     final ui.Image image = await recorder
         .endRecording()
-        .toImage(300, 500); // Sesuaikan ukuran sesuai kebutuhan
+        .toImage(300, 500); 
     final ByteData? byteData =
         await image.toByteData(format: ui.ImageByteFormat.png);
     final Uint8List pngBytes = byteData!.buffer.asUint8List();
@@ -106,7 +100,7 @@ class _MenulisState extends State<Menulis> {
     await imageFile.writeAsBytes(pngBytes);
 
     setState(() {
-      imagePath = tempPath; // Simpan path gambar sementara
+      imagePath = tempPath;
       _predictions.clear();
     });
   }
@@ -114,8 +108,6 @@ class _MenulisState extends State<Menulis> {
   Future<void> _uploadImageToRoboflow() async {
     if (imagePath == null) {
       setState(() {
-        // Handling jika tidak ada gambar yang disimpan
-        // Anda dapat menambahkan logika sesuai kebutuhan aplikasi Anda
       });
       return;
     }
@@ -159,7 +151,7 @@ class _MenulisState extends State<Menulis> {
 
   void clearPaths() {
     setState(() {
-      paths.clear(); // Menghapus semua jalur yang digambar
+      paths.clear(); 
     });
   }
 
@@ -167,8 +159,8 @@ class _MenulisState extends State<Menulis> {
     final random = Random();
     _randomHuruf = _huruf[random.nextInt(_huruf.length)];
     _randomHurufImagePath =
-        'assets/Hint/$_randomHuruf.PNG'; // Asumsi path gambar di folder assets
-    setState(() {}); // Refresh UI untuk menampilkan gambar
+        'assets/Hint/$_randomHuruf.PNG'; 
+    setState(() {});
   }
 
   void _showRandomHurufImage() {
@@ -268,17 +260,14 @@ class _MenulisState extends State<Menulis> {
             child: Card(
               child: GestureDetector(
                 onPanStart: (details) {
-                  // Mulai jalur baru saat pengguna mulai menggambar
                   paths.add([details.localPosition]);
                 },
                 onPanUpdate: (details) {
                   setState(() {
-                    // Tambahkan titik ke jalur yang sedang digambar
                     paths.last.add(details.localPosition);
                   });
                 },
                 onPanEnd: (details) {
-                  // Optional: Hapus jalur yang selesai digambar
                 },
                 child: RepaintBoundary(
                   key: globalKey,
@@ -292,8 +281,8 @@ class _MenulisState extends State<Menulis> {
           ),
           ElevatedButton(
             onPressed: () async {
-              await _captureAndSaveImage(); // Menyimpan gambar terlebih dahulu
-              await _uploadImageToRoboflow(); // Mengunggah gambar ke Roboflow
+              await _captureAndSaveImage();
+              await _uploadImageToRoboflow();
             },
             child: Text('Cek penulisan'),
           ),
@@ -307,7 +296,7 @@ class _MenulisState extends State<Menulis> {
               children: [
                 ElevatedButton(
                   onPressed:
-                      clearPaths, // Memanggil metode clearPaths saat tombol ditekan
+                      clearPaths,
                   child: Text('Hapus'),
                 ),
                 SizedBox(
@@ -336,7 +325,6 @@ class MyCustomPainter extends CustomPainter {
       ..strokeWidth = 8.0
       ..strokeCap = StrokeCap.round;
 
-    // Gambar setiap jalur yang telah digambar oleh pengguna
     for (var path in paths) {
       for (int i = 0; i < path.length - 1; i++) {
         canvas.drawLine(path[i], path[i + 1], paint);

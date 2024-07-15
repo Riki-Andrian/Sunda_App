@@ -1,6 +1,4 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:sunda_app/data/model/quiz.dart';
 import 'package:sunda_app/data/model/hasil.dart';
@@ -52,7 +50,6 @@ class QuizDetailLevelPage extends StatelessWidget {
   }
 
   Widget _buildRiwayatList(BuildContext context, int level) {
-    // Pastikan Hive box sudah terbuka dengan nama yang sesuai dan tipe yang benar
     final hasilBox = Hive.box<Hasil>('hasilBox');
 
     return ValueListenableBuilder<Box<Hasil>>(

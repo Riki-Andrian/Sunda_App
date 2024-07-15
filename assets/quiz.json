@@ -5,22 +5,102 @@
             "questions": [
                 {
                     "id": 1,
-                    "question": "Apa ibukota negara Indonesia?",
+                    "question": "Apa arti kata 'dahar' dalam bahasa Indonesia?",
                     "options": [
-                        {"option": "Jakarta", "is_correct": true},
-                        {"option": "Surabaya", "is_correct": false},
-                        {"option": "Bandung", "is_correct": false},
-                        {"option": "Medan", "is_correct": false}
+                        {"option": "Minum", "is_correct": false},
+                        {"option": "Makan", "is_correct": true},
+                        {"option": "Tidur", "is_correct": false},
+                        {"option": "Berbicara", "is_correct": false}
                     ]
                 },
                 {
                     "id": 2,
-                    "question": "Berapa jumlah provinsi di Indonesia?",
+                    "question": "Bagaimana terjemahan kata 'hujan' ke dalam bahasa Sunda?",
                     "options": [
-                        {"option": "25", "is_correct": false},
-                        {"option": "32", "is_correct": false},
-                        {"option": "34", "is_correct": true},
-                        {"option": "40", "is_correct": false}
+                        {"option": "Halimun", "is_correct": false},
+                        {"option": "Seuneu", "is_correct": false},
+                        {"option": "Tanjung", "is_correct": false},
+                        {"option": "Hujan", "is_correct": true}
+                    ]
+                },
+                {
+                    "id": 3,
+                    "question": "Apa arti kata 'babaturan' dalam bahasa Indonesia?",
+                    "options": [
+                        {"option": "Musuh", "is_correct": false},
+                        {"option": "Saudara", "is_correct": false},
+                        {"option": "Teman", "is_correct": true},
+                        {"option": "Tetangga", "is_correct": false}
+                    ]
+                },
+                {
+                    "id": 4,
+                    "question": "Apa arti peribahasa 'Bagja dina galur' dalam bahasa Indonesia?",
+                    "options": [
+                        {"option": "Bahagia dalam kemewahan", "is_correct": false},
+                        {"option": "Bahagia dalam kebersamaan", "is_correct": false},
+                        {"option": "Bahagia dalam kesederhanaan", "is_correct": false},
+                        {"option": "Bahagia dalam garis keturunan", "is_correct": true}
+                    ]
+                },
+                {
+                    "id": 5,
+                    "question": "Apa makna peribahasa 'Asa lenger ku oncom'?",
+                    "options": [
+                        {"option": "Merasa kenyang dengan sedikit makanan", "is_correct": true},
+                        {"option": "Merasa tidak enak setelah makan oncom", "is_correct": false},
+                        {"option": "Merasa kuat setelah makan oncom", "is_correct": false},
+                        {"option": "Merasa senang setelah makan enak", "is_correct": false}
+                    ]
+                },
+                {
+                    "id": 6,
+                    "question": "Peribahasa 'Cikaracak ninggang batu, laun-laun jadi legok' memiliki makna...",
+                    "options": [
+                        {"option": "Kesabaran akan diuji oleh waktu", "is_correct": false},
+                        {"option": "Ketelitian akan membuahkan keberhasilan", "is_correct": false},
+                        {"option": "Kegigihan akan membuahkan hasil", "is_correct": true},
+                        {"option": "Ketekunan akan mengalahkan kesulitan", "is_correct": false}
+                    ]
+                },
+                {
+                    "id": 7,
+                    "question": "Apa nama pupuh yang memiliki aturan 8i-8a-8i-8a-8i-8a-8i-8a?",
+                    "options": [
+                        {"option": "Kinanti", "is_correct": false},
+                        {"option": "Asmarandana", "is_correct": false},
+                        {"option": "Sinom", "is_correct": true},
+                        {"option": "Pucung", "is_correct": false}
+                    ]
+                },
+                {
+                    "id": 8,
+                    "question": "Dalam pupuh Durma, jumlah suku kata pada setiap baris adalah...",
+                    "options": [
+                        {"option": "12", "is_correct": false},
+                        {"option": "8", "is_correct": false},
+                        {"option": "7", "is_correct": false},
+                        {"option": "10", "is_correct": true}
+                    ]
+                },
+                {
+                    "id": 9,
+                    "question": "Pupuh yang sering digunakan untuk menyampaikan nasihat atau wejangan adalah...",
+                    "options": [
+                        {"option": "Kinanti", "is_correct": false},
+                        {"option": "Durma", "is_correct": false},
+                        {"option": "Sinom", "is_correct": true},
+                        {"option": "Asmarandana", "is_correct": false}
+                    ]
+                },
+                {
+                    "id": 10,
+                    "question": "Pupuh Pucung biasanya memiliki suasana...",
+                    "options": [
+                        {"option": "Gembira dan ceria", "is_correct": false},
+                        {"option": "Sedih dan melankolis", "is_correct": false},
+                        {"option": "Serius dan menegangkan", "is_correct": false},
+                        {"option": "Lucu dan menghibur", "is_correct": true}
                     ]
                 }
             ]
@@ -29,13 +109,208 @@
             "level": 2,
             "questions": [
                 {
-                    "id": 3,
-                    "question": "Siapakah presiden pertama Indonesia?",
+                    "id": 1,
+                    "question": "Apa arti kata 'leumpang' dalam bahasa Indonesia?",
                     "options": [
-                        {"option": "Ir. Soekarno", "is_correct": true},
-                        {"option": "Soeharto", "is_correct": false},
-                        {"option": "Megawati Soekarnoputri", "is_correct": false},
-                        {"option": "Joko Widodo", "is_correct": false}
+                        {"option": "Berlari", "is_correct": false},
+                        {"option": "Berjalan", "is_correct": true},
+                        {"option": "Melompat", "is_correct": false},
+                        {"option": "Duduk", "is_correct": false}
+                    ]
+                },
+                {
+                    "id": 2,
+                    "question": "Bagaimana terjemahan kata 'nginum' ke dalam bahasa Indonesia?",
+                    "options": [
+                        {"option": "Makan", "is_correct": false},
+                        {"option": "Minum", "is_correct": true},
+                        {"option": "Tidur", "is_correct": false},
+                        {"option": "Bermain", "is_correct": false}
+                    ]
+                },
+                {
+                    "id": 3,
+                    "question": "Apa arti kata 'imah' dalam bahasa Indonesia?",
+                    "options": [
+                        {"option": "Rumah", "is_correct": true},
+                        {"option": "Sekolah", "is_correct": false},
+                        {"option": "Kantor", "is_correct": false},
+                        {"option": "Toko", "is_correct": false}
+                    ]
+                },
+                {
+                    "id": 4,
+                    "question": "Apa arti peribahasa 'Kalakay jadi suluh' dalam bahasa Indonesia?",
+                    "options": [
+                        {"option": "Sesuatu yang jelek menjadi bagus", "is_correct": false},
+                        {"option": "Sesuatu yang kecil menjadi besar", "is_correct": false},
+                        {"option": "Sesuatu yang hilang ditemukan kembali", "is_correct": false},
+                        {"option": "Sesuatu yang tak berguna menjadi berguna", "is_correct": true}
+                    ]
+                },
+                {
+                    "id": 5,
+                    "question": "Apa makna peribahasa 'Duit sabaraha ge moal nyukupan lamun teu cukup'?",
+                    "options": [
+                        {"option": "Uang sedikit cukup jika hemat", "is_correct": false},
+                        {"option": "Uang banyak lebih baik daripada sedikit", "is_correct": false},
+                        {"option": "Uang berapapun tidak akan cukup jika tidak merasa cukup", "is_correct": true},
+                        {"option": "Hemat pangkal kaya", "is_correct": false}
+                    ]
+                },
+                {
+                    "id": 6,
+                    "question": "Peribahasa 'Najan hirup di leuweung, asal hejo roko-rokoan' memiliki makna...",
+                    "options": [
+                        {"option": "Lebih baik hidup sederhana asal damai", "is_correct": true},
+                        {"option": "Lebih baik hidup di kota meski kecil", "is_correct": false},
+                        {"option": "Lebih baik hidup di hutan asal rukun", "is_correct": false},
+                        {"option": "Lebih baik hidup miskin asal sehat", "is_correct": false}
+                    ]
+                },
+                {
+                    "id": 7,
+                    "question": "Apa nama pupuh yang memiliki aturan 8i-8a-8i-8a-8i-8a-8i-8a?",
+                    "options": [
+                        {"option": "Kinanti", "is_correct": false},
+                        {"option": "Sinom", "is_correct": true},
+                        {"option": "Asmarandana", "is_correct": false},
+                        {"option": "Pucung", "is_correct": false}
+                    ]
+                },
+                {
+                    "id": 8,
+                    "question": "Dalam pupuh Kinanti, jumlah suku kata pada setiap baris adalah...",
+                    "options": [
+                        {"option": "6", "is_correct": false},
+                        {"option": "12", "is_correct": false},
+                        {"option": "8", "is_correct": true},
+                        {"option": "10", "is_correct": false}
+                    ]
+                },
+                {
+                    "id": 9,
+                    "question": "Pupuh yang sering digunakan untuk menceritakan kisah percintaan adalah...",
+                    "options": [
+                        {"option": "Kinanti", "is_correct": false},
+                        {"option": "Sinom", "is_correct": false},
+                        {"option": "Durma", "is_correct": false},
+                        {"option": "Asmarandana", "is_correct": true}
+                    ]
+                },
+                {
+                    "id": 10,
+                    "question": "Pupuh Durma biasanya memiliki suasana...",
+                    "options": [
+                        {"option": "Menegangkan dan bersemangat", "is_correct": true},
+                        {"option": "Sedih dan melankolis", "is_correct": false},
+                        {"option": "Gembira dan ceria", "is_correct": false},
+                        {"option": "Lucu dan menghibur", "is_correct": false}
+                    ]
+                }
+            ]
+        },
+        {
+            "level": 3,
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "Tulisan Latin dari kata berikut: ᮃᮓᮤᮌᮥᮀ, adalah...",
+                    "options": [
+                        {"option": "Adiguna", "is_correct": false},
+                        {"option": "Adang", "is_correct": false},
+                        {"option": "Adigung", "is_correct": true},
+                        {"option": "Aduga", "is_correct": false}
+                    ]
+                },
+                {
+                    "id": 2,
+                    "question": "Tulisan Sunda dari kata berikut: 'Cangcang' adalah...",
+                    "options": [
+                        {"option": "ᮎᮀᮎᮀ", "is_correct": true},
+                        {"option": "ᮎᮀᮎ", "is_correct": false},
+                        {"option": "ᮎᮀᮎᮍ", "is_correct": false},
+                        {"option": "ᮎᮀᮎᮤᮀ", "is_correct": false}
+                    ]
+                },
+                {
+                    "id": 3,
+                    "question": "Tulisan Sunda dari kata berikut: 'Cangcang' adalah...",
+                    "options": [
+                        {"option": "ᮍᮢᮍ", "is_correct": false},
+                        {"option": "ᮍᮛᮔ", "is_correct": false},
+                        {"option": "ᮍᮛᮀ", "is_correct": false},
+                        {"option": "ᮍᮛᮔ᮪", "is_correct": true}
+                    ]
+                },
+                {
+                    "id": 4,
+                    "question": "Apa arti peribahasa 'ᮃᮓᮒ᮪ ᮊᮊᮥᮛᮥᮀ ᮊᮥ ᮄᮌ' dalam bahasa Indonesia?",
+                    "options": [
+                        {"option": "Kebiasaan buruk yang sulit diubah", "is_correct": true},
+                        {"option": "Tradisi yang sangat kuat", "is_correct": false},
+                        {"option": "Adat yang terabaikan", "is_correct": false},
+                        {"option": "Terjebak dalam adat sendiri", "is_correct": false}
+                    ]
+                },
+                {
+                    "id": 5,
+                    "question": "Peribahasa Sunda untuk menunjukan seseorang yang merasa sombong?",
+                    "options": [
+                        {"option": "ᮃᮓᮤᮌᮥᮔ ᮃᮓᮤᮌᮥᮀ", "is_correct": false},
+                        {"option": "ᮃᮓᮌᮥᮀ ᮃᮓᮤᮌᮥᮔ", "is_correct": false},
+                        {"option": "ᮃᮓᮤᮌᮥᮀ ᮃᮓᮤᮌᮥᮔ", "is_correct": true},
+                        {"option": "ᮃᮓᮤᮌᮥᮀ ᮃᮓᮌᮥᮔ", "is_correct": false}
+                    ]
+                },
+                {
+                    "id": 6,
+                    "question": "Apa arti peribahasa 'ᮘᮥᮔ᮪ᮒᮥᮒ᮪ ᮊᮞᮤᮛᮔ᮪' dalam bahasa Indonesia?",
+                    "options": [
+                        {"option": "Merasa paling berkuasa", "is_correct": false},
+                        {"option": "Baik hati", "is_correct": false},
+                        {"option": "Sangat dermawan", "is_correct": false},
+                        {"option": "Sangat pelit atau kikir", "is_correct": true}
+                    ]
+                },
+                {
+                    "id": 7,
+                    "question": "Peribahasa Sunda untuk menunjukan seseorang tidak mempunyai malu?",
+                    "options": [
+                        {"option": "ᮊᮨᮔ᮪ᮓᮨᮜ ᮊᮥᮜᮤᮒ᮪ ᮘᮩᮍᮤᮒ᮪", "is_correct": false},
+                        {"option": "ᮊᮔ᮪ᮓᮨᮜ ᮊᮥᮜᮤᮒ᮪ ᮘᮩᮍᮤᮒ᮪", "is_correct": false},
+                        {"option": "ᮊᮔ᮪ᮓᮨᮜ᮪ ᮊᮥᮜᮤᮒ᮪ ᮘᮩᮍᮩᮒ᮪", "is_correct": true},
+                        {"option": "ᮊᮔ᮪ᮓᮨᮜ ᮊᮥᮜᮤᮒ᮪ ᮘᮩᮍᮧᮒ᮪", "is_correct": false}
+                    ]
+                },
+                {
+                    "id": 8,
+                    "question": "ᮘᮥᮓᮊ᮪ ᮜᮩᮒᮤᮊ᮪ ᮘᮤᮞ ᮍᮕᮥᮀ , merupakan penggalan dari pupuh...",
+                    "options": [
+                        {"option": "Dangdanggula", "is_correct": false},
+                        {"option": "Kinanti", "is_correct": true},
+                        {"option": "Mijil", "is_correct": false},
+                        {"option": "Asmarandana", "is_correct": false}
+                    ]
+                },
+                {
+                    "id": 9,
+                    "question": "ᮜᮛᮊ᮪-ᮜᮤᮛᮤᮊ᮪ ᮔᮤᮍᮜᮤ ᮊ ᮘᮥᮙᮤ , merupakan penggalan dari pupuh...",
+                    "options": [
+                        {"option": "Mijil", "is_correct": true},
+                        {"option": "Maskumambang", "is_correct": false},
+                        {"option": "Dangdanggula", "is_correct": false},
+                        {"option": "Pucung", "is_correct": false}
+                    ]
+                },
+                {
+                    "id": 10,
+                    "question": "ᮜᮥᮒᮥᮀ ᮘᮥᮔ᮪ᮒᮥᮀ ᮜᮥᮔ᮪ᮎᮒ᮪ ᮊᮔ ᮒᮥᮀᮌᮥᮜ᮪ ᮌᮤᮔ᮪ᮒᮥᮀ , merupakan penggalan dari pupuh...",
+                    "options": [
+                        {"option": "Lambang", "is_correct": false},
+                        {"option": "Mijil", "is_correct": false},
+                        {"option": "Pucung", "is_correct": true},
+                        {"option": "Dangdanggula", "is_correct": false}
                     ]
                 }
             ]

@@ -129,6 +129,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.3"
+  cli_util:
+    dependency: transitive
+    description:
+      name: cli_util
+      sha256: "66f86e916d285c1a93d3b79587d94bd71984a66aac4ff74e524cfa7877f1395c"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.5"
   clock:
     dependency: transitive
     description:
@@ -249,14 +257,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.1.0"
-  flame:
-    dependency: "direct main"
-    description:
-      name: flame
-      sha256: da1812e2f17a8ffd5d43ea6a83137794e7f482bcf50419bc9847b8efdb39f791
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.17.0"
   flutter:
     dependency: "direct main"
     description: flutter
@@ -275,6 +275,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.8.1"
+  flutter_launcher_icons:
+    dependency: "direct dev"
+    description:
+      name: flutter_launcher_icons
+      sha256: ce0e501cfc258907842238e4ca605e74b7fd1cdf04b3b43e86c43f3e40a1592c
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.11.0"
   flutter_lints:
     dependency: "direct dev"
     description:
@@ -378,14 +386,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.1"
-  hive_ui:
-    dependency: "direct main"
-    description:
-      name: hive_ui
-      sha256: a2f4919c84dce6a36642ab3289fb5524b058788f74064ba99fbda976d3bcc2cd
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.0.14"
   http:
     dependency: "direct main"
     description:
@@ -591,14 +591,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.5"
-  ordered_set:
-    dependency: transitive
-    description:
-      name: ordered_set
-      sha256: "1bfaaaee0419e43ecc9eaebd410eb4bd5039657b72011de75ff3e2915c9aac60"
-      url: "https://pub.dev"
-    source: hosted
-    version: "5.0.3"
   package_config:
     dependency: transitive
     description:

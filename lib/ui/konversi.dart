@@ -1,17 +1,10 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter/widgets.dart';
 import 'package:flutter_js/flutter_js.dart';
 
 class KonversiPage extends StatefulWidget {
-  // final JavascriptRuntime jsRuntime;
 
   const KonversiPage({Key? key}) : super(key: key);
-
-  // KonversiPage.createWithRuntime({Key? key})
-  //     : jsRuntime = getJavascriptRuntime(),
-  //       super(key: key);
 
   @override
   State<KonversiPage> createState() => _KonversiPageState();

@@ -1,17 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-// import 'package:sunda_app/data/model/quiz.dart';
 import 'package:sunda_app/routes/app_route_const.dart';
 import 'package:sunda_app/ui/aksara_page.dart';
 import 'package:sunda_app/ui/home_page.dart';
 import 'package:sunda_app/ui/kamus_page.dart';
 import 'package:sunda_app/ui/konversi.dart';
-import 'package:sunda_app/ui/menulis1.dart';
 import 'package:sunda_app/ui/menulis_page.dart';
 import 'package:sunda_app/ui/peribahasa_page.dart';
 import 'package:sunda_app/ui/pupuh_page.dart';
 import 'package:sunda_app/ui/quiz_menu.dart';
-// import 'package:sunda_app/ui/quiz_page.dart';
 import 'package:sunda_app/ui/translate_page.dart';
 
 class MyAppRouter {
@@ -52,20 +49,13 @@ class MyAppRouter {
           return const MaterialPage(child: TranslatePage());
         },
       ),
-      // GoRoute(
-      // name: MyAppRouterConst.quizpage,
-      // path: '/quizpage',
-      // pageBuilder: (context, state) {
-      //   return MaterialPage(child: QuizPage(level: level));
-      // },
-      // ),
-      // GoRoute(
-      //   name: MyAppRouterConst.menulis,
-      //   path: '/menulis',
-      //   pageBuilder: (context, state) {
-      //     return MaterialPage(child: Menulis1());
-      //   },
-      // ),
+      GoRoute(
+        name: MyAppRouterConst.menulis,
+        path: '/menulis',
+        pageBuilder: (context, state) {
+          return MaterialPage(child: Menulis());
+        },
+      ),
       GoRoute(
         name: MyAppRouterConst.quizmenu,
         path: '/quizmenu',
@@ -89,20 +79,4 @@ class MyAppRouter {
       ),
     ]);
   }
-
-  // GoRouter router = GoRouter(
-  //   initialLocation: '/',
-  //   routes: [
-  //     GoRoute(
-  //       name: MyAppRouterConst.home,
-  //       path: '/',
-  //       builder: (context, state) => const HomePage(),
-  //     ),
-  //     GoRoute(
-  //       name: MyAppRouterConst.konversi,
-  //       path: '/konversi',
-  //       builder: (context, state) => const KonversiPage(),
-  //       )
-  //   ]
-  // );
 }

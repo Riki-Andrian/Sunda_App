@@ -1,6 +1,4 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:sunda_app/data/model/peribahasa.dart';
 
 class PeribahasaWidget extends StatelessWidget {

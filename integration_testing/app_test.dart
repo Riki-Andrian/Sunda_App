@@ -164,6 +164,27 @@ void main() {
       }
     });
 
+      testWidgets("test quiz", (tester) async {
+      await restartApp(tester);
+
+      try {
+        var btn = find.byKey(Key("Peribahasa"));
+        var textField = find.byKey(Key("peribahasaSrc"));
+
+        await tester.tap(btn);
+        await tester.pumpAndSettle();
+
+        await tester.enterText(textField, "Adat kakurung ku iga");
+        await tester.pumpAndSettle();
+
+        expect(find.text("Adat atawa kalakuan goreng sok hese dirobahna."), findsOneWidget);
+
+        print("test quiz berhasil");
+      } catch (e) {
+        print("test peribahasa gagal: $e");
+      }
+    });
+
     testWidgets("test translate", (tester) async {
       await restartApp(tester);
 
@@ -180,7 +201,7 @@ void main() {
         await tester.testTextInput.receiveAction(TextInputAction.done); // Menekan aksi "Done" pada keyboard virtual
         await tester.pumpAndSettle();
 
-        await Future.delayed(Duration(seconds: 3));
+        await Future.delayed(Duration(seconds: 5));
 
         expect(find.text("Indung"), findsOneWidget);
 

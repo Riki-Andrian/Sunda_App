@@ -1,7 +1,6 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter/widgets.dart';
 import 'package:sunda_app/data/model/peribahasa.dart';
 import 'package:sunda_app/widget/peribahasa_widget.dart';
 
@@ -29,7 +28,6 @@ class _PeribahasaPageState extends State<PeribahasaPage> {
 
     setState(() {
       _peribahasaList = list.map((e) => Peribahasa.fromJson(e)).toList();
-      // Saat ini, setiap kali data dimuat, kami menetapkan list terfilter ke seluruh daftar
       _filteredPeribahasaList = List.from(_peribahasaList);
     });
   }
@@ -45,7 +43,6 @@ class _PeribahasaPageState extends State<PeribahasaPage> {
                 peribahasa.makna.toLowerCase().contains(query.toLowerCase()))
             .toList();
       } else {
-        // Jika query kosong, tampilkan seluruh daftar
         _filteredPeribahasaList = List.from(_peribahasaList);
       }
     });

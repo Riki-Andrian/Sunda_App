@@ -1,7 +1,6 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter/widgets.dart';
 import 'package:sunda_app/data/model/kamus.dart';
 import 'package:sunda_app/widget/kamus_widget.dart';
 
@@ -29,7 +28,6 @@ class _KamusPageState extends State<KamusPage> {
 
     setState(() {
       _kamusList = list.map((e) => Kamus.fromJson(e)).toList();
-      // Saat ini, setiap kali data dimuat, kami menetapkan list terfilter ke seluruh daftar
       _filteredKamusList = List.from(_kamusList);
     });
   }
@@ -43,7 +41,6 @@ class _KamusPageState extends State<KamusPage> {
                 kamus.kamus_arti.toLowerCase().contains(query.toLowerCase()))
             .toList();
       } else {
-        // Jika query kosong, tampilkan seluruh daftar
         _filteredKamusList = List.from(_kamusList);
       }
     });

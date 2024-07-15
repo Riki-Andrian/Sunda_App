@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:sunda_app/data/model/kamus.dart';
 
 class KamusWidget extends StatelessWidget {

@@ -1,5 +1,4 @@
 import 'dart:convert';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:sunda_app/data/model/pupuh.dart';
@@ -37,8 +36,13 @@ class PupuhPage extends StatelessWidget {
                     Navigator.push(context,
                     MaterialPageRoute(builder: (context) => PupuhDetaiPage(pupuhSunda: pupuh[index]),));
                   },
-                  child: ListTile(
-                    title: Text(pupuh[index].nama),
+                  child: Padding(
+                    padding: const EdgeInsets.all(2.0),
+                    child: Card(
+                      child: ListTile(
+                        title: Text(pupuh[index].nama),
+                      ),
+                    ),
                   ),
                 );
               },
