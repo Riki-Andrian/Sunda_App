@@ -30,7 +30,7 @@ class _KonversiPageState extends State<KonversiPage> {
 
   Widget _buildList() {
     return Center(
-      child: Column(
+      child: ListView(
         children: [
           SizedBox(
             height: 200.0,
@@ -44,7 +44,7 @@ class _KonversiPageState extends State<KonversiPage> {
               child: SingleChildScrollView(
                 child: Column(
                   children: [
-                    Text("Huruf Latin -> Huruf sunda"),
+                    Text("Huruf Latin -> Huruf sunda", style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),),
                     Container(
                       height: 0.8,
                       color: Colors.blue[200],
@@ -105,14 +105,14 @@ class _KonversiPageState extends State<KonversiPage> {
                         child: Text(
                           "Hasil",
                           style: TextStyle(
-                              fontSize: 14, fontWeight: FontWeight.bold),
+                              fontSize: 20, fontWeight: FontWeight.bold),
                         ),
                       ),
                       Container(
                         height: 0.8,
                         color: Colors.blue[200],
                       ),
-                      Text(teksSunda),
+                      Text(teksSunda, style: TextStyle(fontSize: 28),),
                     ],
                   ),
                 ),
