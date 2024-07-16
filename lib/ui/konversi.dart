@@ -84,37 +84,35 @@ class _KonversiPageState extends State<KonversiPage> {
             ),
           ),
           SizedBox(height: 32.0),
-          Flexible(
-            child: SizedBox(
-              height: 200.0,
-              width: 350,
-              child: Card(
-                shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(10.0),
-                    side: BorderSide(
-                      color: Colors.blue,
-                      width: 2,
-                    )),
-                child: Padding(
-                  padding: const EdgeInsets.all(8.0),
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      Container(
-                        alignment: Alignment.center,
-                        child: Text(
-                          "Hasil",
-                          style: TextStyle(
-                              fontSize: 20, fontWeight: FontWeight.bold),
-                        ),
+          SizedBox(
+            height: 200.0,
+            width: 350,
+            child: Card(
+              shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(10.0),
+                  side: BorderSide(
+                    color: Colors.blue,
+                    width: 2,
+                  )),
+              child: Padding(
+                padding: const EdgeInsets.all(8.0),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Container(
+                      alignment: Alignment.center,
+                      child: Text(
+                        "Hasil",
+                        style: TextStyle(
+                            fontSize: 20, fontWeight: FontWeight.bold),
                       ),
-                      Container(
-                        height: 0.8,
-                        color: Colors.blue[200],
-                      ),
-                      Text(teksSunda, style: TextStyle(fontSize: 28),),
-                    ],
-                  ),
+                    ),
+                    Container(
+                      height: 0.8,
+                      color: Colors.blue[200],
+                    ),
+                    Text(teksSunda, style: TextStyle(fontSize: 28),),
+                  ],
                 ),
               ),
             ),
