@@ -5,6 +5,8 @@
         "nama": "Kinanti",
         "pola_sajak": ["u", "i", "a", "i", "a", "i"],
         "jumlah_suku_kata_per_baris": [8, 8, 8, 8, 8, 8],
+        "Watak" :"Khawatir dan rasa sayang",
+        "link" : "https://www.youtube.com/watch?v=J1SQ94WIwOw&list=PLlwnnqDxHgW0ycxQHP7uw1dd9EiItMrRY&index=8",
         "lirik": {
           "versi_1": [
             "Budak leutik bisa ngapung",
@@ -31,6 +33,8 @@
         "nama": "Asmarandana",
         "pola_sajak": ["i", "a", "é/o", "a", "a", "u", "a"],
         "jumlah_suku_kata_per_baris": [8, 8, 8, 8, 7, 8, 8],
+        "Watak" :"Asmara dan cinta kasih",
+        "link" : "https://www.youtube.com/watch?v=OjOA4p5fxVU&list=PLlwnnqDxHgW0ycxQHP7uw1dd9EiItMrRY",
         "lirik": {
           "versi_1": [
             "Éling-éling mangka éling",
@@ -57,7 +61,9 @@
         "nama": "Dangdanggula",
         "pola_sajak": ["i", "a", "é/o", "u", "i", "a", "u", "a", "i", "a"],
         "jumlah_suku_kata_per_baris": [10, 10, 8, 7, 9, 7, 6, 8, 12, 7],
-        "lirik": {
+        "Watak" : "Kedamaian dan keindahan",
+        "link" : "https://www.youtube.com/watch?v=Hrsw6QRmGTg&list=PLlwnnqDxHgW0ycxQHP7uw1dd9EiItMrRY&index=4",
+         "lirik": {
           "versi_1": [
             "Méga beureum surupna geus burit",
             "ngalanglayung panas pipikiran",
@@ -89,6 +95,8 @@
         "nama": "Sinom",
         "pola_sajak": ["a", "i", "a", "i", "i", "u", "a", "i", "a"],
         "jumlah_suku_kata_per_baris": [8, 8, 8, 8, 7, 8, 7, 8, 12],
+        "Watak" :"Gembira dan rasa sayang",
+        "link" : "https://www.youtube.com/watch?v=VO4R5suIrC8&list=PLlwnnqDxHgW0ycxQHP7uw1dd9EiItMrRY&index=14",
         "lirik": {
           "versi_1": [
             "Warna-warna lauk émpang",
@@ -119,6 +127,8 @@
         "nama": "Mijil",
         "pola_sajak": ["i", "o", "e", "i", "i", "u"],
         "jumlah_suku_kata_per_baris": [10, 6, 10, 10, 6, 6],
+        "Watak" :"Bersedih",
+        "link" : "https://www.youtube.com/watch?v=OvGR4v__4qM&list=PLlwnnqDxHgW0ycxQHP7uw1dd9EiItMrRY&index=12",
         "lirik": {
           "versi_1": [
             "Mesat ngapung puta sang Arimbi",
@@ -143,6 +153,8 @@
         "nama": "Lambang",
         "pola_sajak": ["a", "a", "a", "a"],
         "jumlah_suku_kata_per_baris": [8, 8, 8, 8],
+        "Watak" :"Komedi atau lelucon",
+        "link" : "https://www.youtube.com/watch?v=KiGM4ofy6HE&list=PLlwnnqDxHgW0ycxQHP7uw1dd9EiItMrRY&index=16",
         "lirik": {
           "versi_1": [
             "Nawu kubang sisi tegal",
@@ -165,6 +177,8 @@
         "nama": "Maskumambang",
         "pola_sajak": ["i", "a", "i", "a"],
         "jumlah_suku_kata_per_baris": [12, 6, 8, 8],
+        "Watak" :"Kesedihan dan sakit hati",
+        "link" : "https://www.youtube.com/watch?v=kaaPwL_Eejw&list=PLlwnnqDxHgW0ycxQHP7uw1dd9EiItMrRY&index=11",
         "lirik": {
           "versi_1": [
             "Hé manusa mana kaniaya teuing",
@@ -187,6 +201,8 @@
         "nama": "Pucung",
         "pola_sajak": ["u", "a", "é/o", "a"],
         "jumlah_suku_kata_per_baris": [12, 6, 8, 12],
+        "Watak" :"Marah dan benci",
+        "link" : "https://www.youtube.com/watch?v=_eVguOj56cs&list=PLlwnnqDxHgW0ycxQHP7uw1dd9EiItMrRY&index=17",
         "lirik": {
           "versi_1": [
             "Lutung buntung luncat kana tunggul gintung",
@@ -209,6 +225,8 @@
         "nama": "Ladrang",
         "pola_sajak": ["i", "a", "i", "a"],
         "jumlah_suku_kata_per_baris": [10, 8, 8, 12],
+        "Watak" :"Sindiran dan komedi",
+        "link" : "https://www.youtube.com/watch?v=20EnNNF65_0&list=PLlwnnqDxHgW0ycxQHP7uw1dd9EiItMrRY&index=9",
         "lirik": {
           "versi_1": [
             "Aya hiji rupa sato leutik",
@@ -231,6 +249,8 @@
         "nama": "Balakbak",
         "pola_sajak": ["é", "é", "é"],
         "jumlah_suku_kata_per_baris": [15, 15, 19],
+        "Watak" :"Komedi dan lelucon",
+        "link" : "https://www.youtube.com/watch?v=-JGow87FJmQ&list=PLlwnnqDxHgW0ycxQHP7uw1dd9EiItMrRY&index=2",
         "lirik": {
           "versi_1": [
             "Aya warung sisi jalan ramé pisan, Citaméng",
@@ -252,6 +272,8 @@
         "nama": "Pangkur",
         "pola_sajak": ["a", "i", "u", "a", "u", "a", "a"],
         "jumlah_suku_kata_per_baris": [8, 11, 8, 7, 12, 8, 8],
+        "Watak" :"Marah",
+        "link" : "https://www.youtube.com/watch?v=zFSj5b7bmOQ&list=PLlwnnqDxHgW0ycxQHP7uw1dd9EiItMrRY&index=13",
         "lirik": {
           "versi_1": [
             "Seja nyaba ngalalana",
@@ -277,6 +299,8 @@
         "nama": "Magatru",
         "pola_sajak": ["u", "i", "u", "i", "o"],
         "jumlah_suku_kata_per_baris": [12, 8, 8, 8, 8],
+        "Watak" :"Penyesalan dan rasa sedih",
+        "link":"https://www.youtube.com/watch?v=2S-vWIs16XQ&list=PLlwnnqDxHgW0ycxQHP7uw1dd9EiItMrRY&index=10",
         "lirik": {
           "versi_1": [
             "Majalaya Ciparay Banjaran Bandung",
@@ -300,6 +324,8 @@
         "nama": "Jurudemung",
         "pola_sajak": ["a", "u", "i", "a", "u"],
         "jumlah_suku_kata_per_baris": [8, 8, 6, 8, 8],
+        "Watak" :"Rasa bingung",
+        "link" : "https://www.youtube.com/watch?v=OXQwKcS3dyk&list=PLlwnnqDxHgW0ycxQHP7uw1dd9EiItMrRY&index=7",
         "lirik": {
           "versi_1": [
             "Mungguh nu hirup di dunya",
@@ -323,6 +349,8 @@
         "nama": "Wirangrong",
         "pola_sajak": ["i", "o", "u", "i", "a", "a"],
         "jumlah_suku_kata_per_baris": [8, 8, 8, 8, 8, 8],
+        "Watak" :"Rasa malu",
+        "link" : "https://www.youtube.com/watch?v=k2S1V7OVWBk&list=PLlwnnqDxHgW0ycxQHP7uw1dd9EiItMrRY&index=15",
         "lirik": {
           "versi_1": [
             "Barudak mangka ngalarti",
@@ -347,6 +375,8 @@
         "nama": "Gurisa",
         "pola_sajak": ["a", "a", "a", "a", "a", "a", "a", "a"],
         "jumlah_suku_kata_per_baris": [8, 8, 8, 8, 8, 8, 8, 8],
+        "Watak" :"Lamunan",
+        "link":"https://www.youtube.com/watch?v=oAXscXS8c0Q&list=PLlwnnqDxHgW0ycxQHP7uw1dd9EiItMrRY&index=6",
         "lirik": {
           "versi_1": [
             "Hayang teuing geura beurang",
@@ -373,6 +403,8 @@
         "nama": "Gambuh",
         "pola_sajak": ["u", "u/i", "i", "u", "o"],
         "jumlah_suku_kata_per_baris": [7, 10, 12, 8, 8],
+        "Watak" :"Seidh, susah, dan sakit hati",
+        "link" : "https://www.youtube.com/watch?v=3_jAFWxRZ2I&list=PLlwnnqDxHgW0ycxQHP7uw1dd9EiItMrRY&index=5",
         "lirik": {
           "versi_1": [
             "Ngahuleng banget bingung",
@@ -396,6 +428,8 @@
         "nama": "Durma",
         "pola_sajak": ["a", "i", "a", "a", "i", "a", "i"],
         "jumlah_suku_kata_per_baris": [12, 7, 6, 7, 7, 5, 7],
+        "Watak" :"Amarah",
+        "link" : "https://www.youtube.com/watch?v=KJDE0jmIdYE&list=PLlwnnqDxHgW0ycxQHP7uw1dd9EiItMrRY&index=3",
         "lirik": {
           "versi_1": [
             "Moal ngejat sanajan ukur satapak",

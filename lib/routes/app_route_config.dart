@@ -1,3 +1,4 @@
+import 'package:Nyunda/Splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:Nyunda/routes/app_route_const.dart';
@@ -15,8 +16,14 @@ class MyAppRouter {
   static GoRouter router() {
     return GoRouter(initialLocation: '/', routes: [
       GoRoute(
-        name: MyAppRouterConst.home,
         path: '/',
+        pageBuilder: (context, state) {
+          return MaterialPage(child: SplashScreen());
+        },
+      ),
+      GoRoute(
+        name: MyAppRouterConst.home,
+        path: '/home',
         pageBuilder: (context, state) {
           return MaterialPage(child: HomePage());
         },

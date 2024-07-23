@@ -14,12 +14,7 @@ class QuizMenu extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return WillPopScope(
-        onWillPop: () async {
-          context.replace('/');
-          return false;
-        },
-        child: _build(context));
+    return _build(context);
   }
 
   Widget _build(BuildContext context) {

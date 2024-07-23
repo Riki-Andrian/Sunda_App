@@ -1,3 +1,5 @@
+import 'dart:math';
+
 import 'package:flutter/material.dart';
 import 'package:Nyunda/data/model/hasil.dart';
 import 'package:Nyunda/data/model/quiz.dart';
@@ -17,13 +19,18 @@ class _QuizPageState extends State<QuizPage> {
   int pageCounter = 1;
   Color _textColor = Colors.black;
   late List<int> _selectedOptionIndexList;
+  late List<Question> _shuffledQuestions;
 
   @override
   void initState() {
     super.initState();
     _controller = PageController();
-    _selectedOptionIndexList =
-        List.generate(widget.level.questions.length, (index) => -1);
+    _shuffledQuestions = List<Question>.from(widget.level.questions);
+    _shuffledQuestions.shuffle(Random());
+    
+    _selectedOptionIndexList = List<int>.filled(_shuffledQuestions.length, -1);
+    // _selectedOptionIndexList =
+    //     List.generate(widget.level.questions.length, (index) => -1);
   }
 
   @override
@@ -44,6 +51,7 @@ class _QuizPageState extends State<QuizPage> {
 
   Widget _buildList() {
     return Card(
+      //color: Colors.grey[100],
       margin: EdgeInsets.all(12),
       child: Column(
         children: [
@@ -68,15 +76,12 @@ class _QuizPageState extends State<QuizPage> {
             ],
           ),
           SizedBox(
-            height: 16,
-          ),
-          SizedBox(
             height: MediaQuery.of(context).size.height * 0.7,
             child: PageView.builder(
               controller: _controller,
-              itemCount: widget.level.questions.length,
+              itemCount: _shuffledQuestions.length,
               itemBuilder: (context, index) {
-                return _buildQuestion(widget.level.questions[index], index);
+                return _buildQuestion(_shuffledQuestions[index], index);
               },
             ),
           ),
@@ -142,7 +147,10 @@ class _QuizPageState extends State<QuizPage> {
         Flexible(
           child: Card(
             margin: EdgeInsets.all(8),
-            child: Center(child: Text(question.question)),
+            child: Padding(
+              padding: const EdgeInsets.all(12.0),
+              child: Center(child: Text(question.question, style: TextStyle(fontSize: 24),)),
+            ),
           ),
         ),
         Flexible(

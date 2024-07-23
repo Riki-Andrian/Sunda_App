@@ -19,6 +19,8 @@ class PupuhSunda {
     String nama;
     List<String> polaSajak;
     List<int> jumlahSukuKataPerBaris;
+    String watak;
+    String link;
     Lirik lirik;
 
     PupuhSunda({
@@ -26,6 +28,8 @@ class PupuhSunda {
         required this.nama,
         required this.polaSajak,
         required this.jumlahSukuKataPerBaris,
+        required this.watak,
+        required this.link,
         required this.lirik,
     });
 
@@ -34,6 +38,8 @@ class PupuhSunda {
         nama: json["nama"],
         polaSajak: List<String>.from(json["pola_sajak"].map((x) => x)),
         jumlahSukuKataPerBaris: List<int>.from(json["jumlah_suku_kata_per_baris"].map((x) => x)),
+        watak: json["Watak"],
+        link: json["link"],
         lirik: Lirik.fromJson(json["lirik"]),
     );
 }
